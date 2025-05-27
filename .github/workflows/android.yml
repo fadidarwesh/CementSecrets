@@ -1,0 +1,38 @@
+name: Build Android APK
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - uses: actions/setup-java@v1
+      with:
+        java-version: '1.8'
+
+    - name: Install SDK tools
+      run: |
+        mkdir -p "$ANDROID_SDK_ROOT/cmdline-tools"
+        cd "$ANDROID_SDK_ROOT/cmdline-tools"
+        wget -q https://dl.google.com/android/repository/commandlinetools-linux-8092744_latest.zip -O sdk-tools.zip
+        unzip -q sdk-tools.zip
+      env:
+        ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
+
+    - name: Accept licenses & install SDK
+      run: |
+        yes | $ANDROID_SDK_ROOT/cmdline-tools/tools/bin/sdkmanager --sdk_root="$ANDROID_SDK_ROOT" \
+          "platform-tools" "platforms;android-31" "build-tools;31.0.0"
+
+    - name: Build Debug APK
+      run: ./gradlew assembleDebug --no-daemon --stacktrace
+
+    - uses: actions/upload-artifact@v2
+      with:
+        name: app-debug.apk
+        path: app/build/outputs/apk/debug/app-debug.apk
