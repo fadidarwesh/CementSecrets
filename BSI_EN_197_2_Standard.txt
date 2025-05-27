@@ -1,0 +1,819 @@
+Spanish standard 
+UNE -EN 197-2 
+July 2020  
+ 
+Cement  
+Part 2: Assessment and verification of constancy of 
+performance  
+ 
+This standard has been prepared by the Technical 
+Committee CTN  80 Cements and limes  the Secretariat of 
+which is held by  OFICEMEN .  
+ 
+ 
+  
+ Asociación Española  
+de Normalización  
+Génova, 6 - 28004 Madrid  
+915 294 900  
+info@une.org  
+www.une.org  
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+UNE -EN 197-2 
+ 
+Cement Part 2: Assessment and verification of constancy of performance  
+Cemento . Parte 2: Evaluación y verificación de la constancia de prestaciones. 
+Ciment . Partie 2: Evaluation et vérification de la constance de la performance . 
+This standard is the official English version of  EN 197 -2:2020.  
+ 
+This standard was published as UNE -EN 197 -2:2020, which is the definitive Spanish 
+version.  
+ 
+The remarks to this document must be sent to:  
+ 
+Asociación Española de Normalización  
+Génova, 6  
+28004 MADRID -España  
+Tel.: 915 294 900  
+info@une.org  
+www.une.org  
+ 
+ 
+ UNE 2020 
+Reproduction is prohibited without the express consent of UNE.  
+All intellectual property rights relating to this standard are owned by UNE.  
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+EUROPEAN STANDARD 
+NORME EUROPÉENNE EUROPÄISCHE NORM
+  EN 197-2 
+March 2020  
+ICS 91.100.10 Supersedes EN 197-2:2014
+English Version 
+Cement - Part 2: Assessment and verification of constancy 
+of performance 
+Ciment - Partie 2: Evaluat ion et vérification de la 
+constance de la performance Zement - Teil 2: Bewertung und Überprüfung der 
+Leistungsbeständigkeit 
+This European Standard was approved by CEN on 27 October 2019.  
+CEN members are bound to comply with the CEN/CENELEC Internal R egu lations which stipulate the conditions for giving this 
+European Standard the status of a national standard without any  alteration. Up-to-date lists and bibliographical references 
+concerning such nation al standards may be obtained on applicati on to the CEN-CENELEC Management Centre or to any CEN 
+member. 
+This European Standard exists in three official versions (Engli sh, French, German). A version in any other language made by 
+translation under the responsibility of a CEN member into its o wn language and notified to the CEN-CENELEC Management 
+Centre has the same status as the official versions. CEN members are the national standards bodies of Austria, Belgi um
+ , Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, 
+Finland, France, Germany, Greece , Hungary, Iceland, Ireland, It aly, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Norway,  
+Poland, Portugal, Republic of North Macedonia, Romania, Serbia,  Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey and 
+United Kingdom. 
+EUROPEAN COMMITTEE FOR STANDARDIZATION 
+COMITÉ EUROPÉEN DE NORMALISATION  EUROPÄISCHES KOMITEE FÜR NORMUNG   
+CEN-CENELEC  Management Centre:  Rue de la Science 23,  B-1040 Brussels 
+© 2020 CEN All rights of exploitation in any form and by any me ans reserved 
+worldwide for CEN national Members. Ref. No. EN 197-2:2020 E
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+EN 197- 2:2020 (E) 
+2 Contents  Page 
+European foreword  ....................................................................................................................................................... 4  
+1 Scope  .................................................................................................................................................................... 5  
+2 Normative references  .................................................................................................................................... 5  
+3 Terms and definitions  ................................................................................................................................... 5  
+4 Factory production control  ......................................................................................................................... 7  
+4.1 General requirements  ................................................................................................................................... 7  
+4.1.1  Concept  ............................................................................................................................................................... 7  
+4.1.2  Works' quality documentation ................................................................................................................... 7  
+4.1.3  Quality management system  ....................................................................................................................... 8  
+4.1.4  System of documentation  ............................................................................................................................. 8  
+4.2 Internal quality control................................................................................................................................. 9  
+4.2.1  Process control ................................................................................................................................................. 9  
+4.2.2  Measur ing and testing  ................................................................................................................................... 9  
+4.2.3  Handling, storage, packaging and delivery  ............................................................................................ 9  
+4.3 Autocontrol testing of samples  .................................................................................................................. 9  
+4.3.1  Sampling and testing  ...................................................................................................................................... 9  
+4.3.2  Corrective action  .......................................................................................................................................... 10 
+4.3.3  Measuring and test equipment for autocontrol testing  ................................................................. 10 
+4.3.4  Quality records  .............................................................................................................................................. 10 
+5 Tasks for the purpose of certification  .................................................................................................. 10 
+5.1 Assessment of the performance of the cement .................................................................................. 10 
+5.2 I
+nitial inspection of the manufacturing plant and of factory production control  ................ 11 
+5.2.1  Inspection of a new factor y ....................................................................................................................... 11 
+5.2.2  Inspection of an existing factory  ............................................................................................................. 11 
+5.2.3  Criteria for the assessment of the production equipment  ............................................................ 11 
+5.2.4  Criteria for the assessment of laboratories  ........................................................................................ 11 
+5.3 Continuing surveillance, assessment and evaluation of factory production control .......... 12 
+5.3.1  Inspection of the factory and the factory production control  ...................................................... 12 
+5.3.2  Evaluation of the results of autocontrol testing of samples  ......................................................... 12 
+5.4 Audit -testing of samples taken at the factory/depot  ...................................................................... 12 
+5.4.1  Sampling  .......................................................................................................................................................... 12 
+5.4.2  Testing  .............................................................................................................................................................. 13 
+5.4.3  Evaluation of test results  ........................................................................................................................... 13 
+5.5 Reports  ............................................................................................................................................................. 13 
+5.6 Actions to be taken in the event of non -conformity  ........................................................................ 14 
+5.6.1  Following inspection of the factory production control and evaluation of the results 
+of autocontrol testing  ................................................................................................................................. 14 
+5.6.2  Following evaluation of the results of the audit -testing  ................................................................ 14 
+6 Procedure for certification of constancy of performance of the product  ................................ 14 
+Annex  A (normative)  Evalu ation of the representativeness and the accuracy of the 28 day 
+strength test results  .................................................................................................................................... 17 
+A.1 General  ............................................................................................................................................................. 17 
+A.2 Sets of results considered  ......................................................................................................................... 17 
+A.3 Evaluation procedure  ................................................................................................................................. 17 
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+EN 197- 2:2020 (E)  
+3 A.3.1  Introduction  ................................................................................................................................................... 17 
+A.3.2  Symbols  ............................................................................................................................................................ 17 
+A.3.3  Evaluation of whether set A and set B belong to the same population (sampling error 
+check)  ................................................................................................................................................................ 18 
+A.3.4  Comparison between set B and set C in order to check the accuracy of the autocontrol testing (testing error check)  ............................................................................................ 19 
+A.3.5  Masonry cement  ............................................................................................................................................ 19 
+A.3.6  Calcium aluminate cement  ........................................................................................................................ 19 
+Annex  B (informative)  Procedure for certification of constancy of performance of cement  ......... 20 
+Bibliography  ................................................................................................................................................................. 21 
+ 
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+EN 197- 2:2020 (E) 
+4 European foreword  
+This document ( EN 197 -2:2020 ) has been prepared by Technical Committee CEN/TC  51 “Cement and 
+building limes”, the secretariat of which is held by NBN.  
+This European Standard shall be given the status of a national standard, either by publication of an 
+identical text or by endorsement, at the latest by S eptember  2020, and conflicting national standards 
+shall be withdrawn at the latest by S eptember  2020.  
+Attention is drawn to the possibility that some of the elements of this document may be the subject of 
+patent rights. CEN shall not be held responsible  for identifying any or all such patent rights.  
+This document supersedes EN 197 -2:2014 . 
+This document has been prepared under a mandate given to CEN by the European Commission and the 
+European Free Trade Association.  
+Compared to the version EN  197 -2:2014, the following major changes have been made in this 
+document:  
+a) use of the terminology given by the Delegated Regulation (EU) No  568/2014 amending Annex  V to 
+Regulation (EU) No  305/2011 (Construction Products Regulation), in particular adoption of the 
+task s defined in the Delegated Regulation for AVCP system  1+ for a re- arrangement of the clauses of 
+this document;  
+b) numbering of the clauses according to the order of the tasks specified in this Delegated Regulation;  
+c) removal of the rules for dispatching c entres;  
+d) clarification/specification of the rules for depots;  
+e) replacement of the term “Works’ quality manual” by “Works’ quality documentation”;  
+f) replacement of the term “management representative” by “quality manager”;  
+g) deletion of informative An nex C “Comparison of terminology according to the CPD and the CPR” as 
+this annex was considered to be no longer necessary;  
+h) editorial revision of the document.  
+EN 197, Cement , is currently composed of the following parts:  
+— Part 1: Composition, specifica tions and conformity criteria for common cements  
+— Part  2: Assessment and Verification of Constancy of Performance  
+Annex A of this document is normative, Annex  B is informative.  
+According to the CEN -CENELEC Internal Regulations, the national standards organisations of the 
+following countries are bound to implement this European Standard: Austria, Belgium, Bulgaria, 
+Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, 
+Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Republic of 
+North Macedonia, Romania, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey and the 
+United Kingdom.  
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+EN 197- 2:2020 (E)  
+5 1 Scope  
+This document specifies the scheme for the assessment and verificatio n of constancy of performance 
+(AVCP) of cements, including certification of constancy of performance.  
+The document provides technical rules for factory production control, further testing of samples taken 
+at the manufacturing plant (autocontrol testing) an d assessment of the performance of the cement, 
+initial inspection of the manufacturing plant and of factory production control, continuing surveillance, assessment and evaluation of factory production control and audit -testing of samples. It also provides 
+rules for actions to be followed in the event of non -conformity and requirements for depots.  
+In this document, the word “cement” is used to refer both to common cements as defined in EN 197 -1 
+and to other cements and binders for which the relevant product specification standard makes 
+reference to this document and which are submitted for certification. Such a cement is produced at a 
+given factory and belongs to a particular type and a particular strength class, as defined and specified in 
+the relevant produ ct specification standard.  
+The guidelines given in the Technical Report CEN /TR 14245  [1] contain information for the application 
+of this document.  
+This document is linked with the Annexes ZA of European Standards covering cements and binders, i.e. 
+EN 197 -1, EN 14216, EN 14647, EN 413 -1 and EN 15743 . 
+NOTE  The reason for having drafted this separate document is that the provisions it includes are applicable 
+to different products covered by different European Standards.  
+2 Normative references  
+The following documents are referred to in the text in such a way that some or all of their content 
+constitutes requirements of this document. For dated references, only the edition cited applies. For 
+undated references, the latest edition of the referenced document (in cluding any amendments) applies.  
+EN 196 -7, Methods of testing cement  — Part 7: Methods of taking and preparing samples of cement 
+EN 197 -1, Cement — Part 1: Compositi on, specifications and conformity criteria for common cements  
+EN 413 -1, Masonry cement  — Part 1: Composition, specifications and conformity criteria  
+EN 14647, Calcium aluminate cement  — Composition, specifications and conformity criteria  
+EN 15743, Supersulfated cement  — Composition, specifications and conformity criteria  
+3 Terms and definitions  
+For the purposes of this documen t, the following terms and definitions apply.  
+ISO and IEC maintain terminological databases for use in standardization at the following addresses:  
+— IEC Electropedia: available at http://www.electropedia.org/  
+— ISO Online browsing platform: available at http://www.iso.org/obp  
+NOTE  In the context of this document the term “construction product” refers to cement.  
+3.1 
+AVCP  
+abbreviation for assessment and verification of constancy of performance  
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+EN 197- 2:2020 (E) 
+6 3.2 
+certificate of constancy of performance of the product 
+document issued under the rules of the scheme for the AVCP indicating that adequate confidence is 
+provided that the cement conforms to the performance(s) declared in accordance with the relevant 
+product standard  
+3.3 
+initial period 
+immediate period starting after the first issuing of the certificate of constancy of performance of the 
+product for a cement and at the latest from the first dispatching of cement  
+3.4 
+factory production control  
+documented, permanent and internal control of production in a factory, in accordance with the relevant harmonized technical specifications  
+[SOURCE: Regulation (EU) No  305/2011, Article  2 (Construction Product Regulation)[ 4]] 
+3.5 
+factory  
+facility used by a manufacturer for the production of cement using equipment which is suitable for continuous mass production of cement including, in particular, equipment for adequate grinding and 
+homogenization and the necessary silo capacity for the storage and dispatch of each cement produced  
+Note 1 to entry:  This equipment and the production control applied allow the control of production with 
+sufficient accuracy.  
+3.6 
+new factory  
+factory which is not already producing cement(s) certified using EN  197 -2 
+3.7 
+existi ng factory  
+factory which is already producing cement(s) certified using EN  197 -2 
+3.8 
+depot  
+bulk cement handling facility not located at the factory used for the dispatch of cement, whether in bulk or bagged, after transfer or storage where the manufacturer  has full responsibility for all aspects of the 
+quality of the cement  
+3.9 
+distributor  
+natural or legal person in the supply chain, other than the manufacturer or the importer, who makes a 
+construction product available on the market  
+[SOURCE: Regulation (EU) No  305/2011, Article  2 (Construction Product Regulation)]  
+3.10  
+importer  
+natural or legal person established within the European Union, who places a construction product from 
+a third country on the European Union market  
+[SOURCE: Regulation (EU) No  305/2011, Article  2 (Construction Product Regulation)]  
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+EN 197- 2:2020 (E)  
+7 3.11  
+assessment of the performance  
+determination of the essential characteristics of a construction product, on the basis of testing 
+(including sampling), calculation, tabul ated values or descriptive documentation of the product  
+3.12  
+product certification body  
+body notified in accordance with Chapter VII of Regulation (EU) No 305/2011 to carry out constancy of performance certification  
+3.13  
+works’ quality documentation  
+docume ntation that provides information on the factory production control which is applied by a 
+manufacturer at a particular factory to ensure constancy of performance of the cement  
+4 Factory production control  
+4.1 General requirements  
+4.1.1  Concept  
+Factory production contr ol means the permanent internal control of cement production and consists of 
+internal quality control (see  4.2) complemented by autocontrol testing of samples of cement taken at 
+the point of release1 (see  4.3). 
+NOTE  1 The requirements of this document as regards factory production control apply to factories and their 
+depots.  
+NOTE  2 The requirements of this document in regards to factory production control take into account the 
+clauses of EN  ISO 9001  [2] which are relevant to the production, process control  and testing of cement.  
+4.1.2  Works' quality documentation  
+The manufacturer's documentation and procedures for factory production control shall be described in a Works' quality documentation, which shall adequately describe, amongst other things, for each 
+factory and depot:  
+a) the quality aims and the organizational structure, responsibilities and powers of the management with regard to product quality and the means to monitor the achievement of the required product 
+quality and the effective operation of th e internal quality control (see  4.1.3 and 4.2 ); 
+b) the manufacturing and quality control techniques, processes and systematic actions that will be used (see 4.2.1, 4.2.3 and 4.3.2 ); 
+c) the inspections and tests that will be carried out before, during and after manufacture, and the 
+frequency with which they will be carried out (see  4.2.2, 4.3.1 and 4.3.3 ). 
+The Works' quality documentation shall include an adequate system of documentation (see  4.1.4 and 
+4.3.4).  
+                                                             
+1 This testing corresponds also to the “further testing of samples taken at the manufacturing plant” mentioned 
+in Delegated Regulation (EU) No  568/2014 amending Annex V to Regulation (EU) No 305/2011 (Construction 
+Products Regulation) [5]. 
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+EN 197- 2:2020 (E) 
+8 The Works' quality documentation shall address and document the procedures operated to ensure that 
+the manufactured cement conforms to the performance(s) declared in accordance with the relevant 
+product standard. The documentation may reference associated documents which provide further 
+details of the a utocontrol testing of samples and the internal quality control. For the purpose of this 
+scheme, the term Works' quality documentation shall be considered to include these associated documents.  
+In the case of an existing quality management system according to EN ISO 9001 , the corresponding 
+quality documentation may also be applied for product certification if it meets all the requirements of 
+this document which are relevant to the factory production control of cement.  
+4.1.3  Quality management system  
+4.1.3.1  Quality policy  statement  
+The Works' quality documentation shall include a statement by management defining its quality policy, 
+objectives and commitments to the attainment of product quality.  
+4.1.3.2  Quality manager  
+A quality manager shall be appointed who, irrespective of other responsibilities, shall have defined and adequate authority and responsibility for ensuring that the requirements of this document for the AVCP 
+are implemented and maintained.  
+4.1.3.3  Internal audits and management review  
+In order to ensure the continuing suitab ility and effectiveness of the Work’s quality documentation to 
+meet the requirements of this document:  
+a) internal audits covering the scope of this Clause  4; 
+b) a management review of the functioning and the results of the factory production control, taki ng 
+into account records of the internal audits  
+shall be performed at least once a year.  
+4.1.3.4  Training  
+The Works' quality documentation shall describe the measures taken to ensure that all the personnel involved in operations that can affect internal quality control and product quality have appropriate 
+experience or training. Appropriate records shall be retained.  
+4.1.4  System of documentation  
+4.1.4.1  Document control  
+All documents and data related to factory production control and to this scheme for the AVCP shall be controlled. 
+This control shall ensure that the appropriate issues of all documents are available at essential 
+locations, that obsolete documents are withdrawn and that changes or modifications to any document 
+are effectively introduced.  
+A system shall be established to identify the current version of documents in order to prevent the use of non- applicable documents.  
+4.1.4.2  Quality records  
+Records shall be retained to provide evidence of factory production control for at least the period required. 
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+EN 197- 2:2020 (E)  
+9 4.2 Internal quality  control  
+4.2.1  Process control  
+4.2.1.1  General  
+The Works' quality documentation shall describe the parameters for process planning, process control 
+and testing, inspection, corrective action, verification, dispatch and the associated records for each 
+factory and depot.  
+4.2.1.2  Constituents and composition of cement  
+Documented procedures and appropriate test methods shall be established to ensure that the constituents meet the specifications in the relevant product specification standard and are suitable to 
+enable cement to be pr oduced meeting the targets and control limits.  
+The Works' quality documentation shall describe the methods used by the manufacturer to ensure that 
+the composition of the cement produced conforms to the performance(s) declared in accordance with 
+the relevan t product standard, including appropriate test methods.  
+4.2.1.3  Control of off -specification production or non -conformity  
+The Works' quality documentation shall contain procedures for the review and adjustment of the factory production control in case of off- speci fication production or non -conformity.  
+The actions taken in the event of non -conformity shall be recorded in a report subject to inspection 
+during the management review.  
+4.2.2  Measuring and testing  
+4.2.2.1  Inspection, measuring and test equipment  
+The equipment for in -process inspection and testing shall be regularly checked and calibrated in 
+accordance with the procedures and frequencies laid down in the Works' quality documentation.  
+4.2.2.2  Inspection and test status 
+Procedures for the inspection and test status through the sta ges of manufacture shall be detailed in the 
+Works' quality documentation. These shall include procedures for the control of off -specification 
+intermediate materials.  
+4.2.3  Handling, storage, packaging and delivery  
+The Works' quality documentation shall describe the precautions taken for the protection of the quality 
+of the cement while under the responsibility of the manufacturer for the factory and each depot. 
+Delivery documentation shall allow traceability to the producing works.  
+4.3 Autocontrol testing of samples  
+4.3.1  Sampling and testing  
+A system of autocontrol testing shall be operated for each certified cement. This system shall be used to demonstrate constancy of performance of the cement in accordance with the clause entitled 
+“Assessment and verification of constan cy of performance  – AVCP” in the relevant product specification 
+standard. The characteristics to be tested, the testing methods, the minimum frequency of autocontrol 
+testing during routine testing and initial period testing and the AVCP criteria including the statistical 
+evaluation of the autocontrol testing results shall be in accordance with the clause entitled “Assessment 
+and verification of constancy of performance  – AVCP” in the relevant product specification standard.  
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+EN 197- 2:2020 (E) 
+10 NOTE  In some versions of product specfifcation standards, the title of the clause “Assessment and verification 
+of constancy of performance  – AVCP” is or was “Conformity criteria”.  
+For cements not being dispatched continuously, the frequency of testing and the point of sampling shall 
+be as  specified in the Works' quality documentation.  
+The system of autocontrol testing shall include depots.  
+In the case of distributors or importers, where cements were already tested and certified under this 
+document, details are available in CEN /TR 14245 . 
+All test data shall be documented.  
+4.3.2  Corrective action  
+In the event of cement yielding a test result not conforming to the single result threshold value AVCP criteria specified in the relevant product specification standard, the affected quantity shall immedia tely 
+be determined, appropriate action shall be taken to prevent the dispatch of this quantity and the affected customer shall be informed if such cement has been released. In addition, the causes of such 
+non- conformity shall immediately be determined, cor rective actions shall be taken and a review of all 
+relevant factory production control procedures shall be undertaken. All such actions and findings shall be appropriately recorded in a report subject to inspection during the management review.  
+In the even t of a complaint plus warning, the minimum frequency of autocontrol testing of non -
+conforming characteristics shall be doubled for a period of two months following the warning, unless it 
+can be demonstrated that adequate measures were taken from the time o f the initial occurrence of the 
+non- conformity until its resolution, including doubling the minimum frequency of autocontrol testing 
+for a minimum period of two months.  
+4.3.3  Measuring and test equipment for autocontrol testing  
+The equipment used for autocontrol testing shall be regularly checked and calibrated in accordance 
+with procedures and frequencies laid down in the Works' quality documentation. These procedures can include comparison of test results by proficiency testing.  
+4.3.4  Quality records  
+Records of the a utocontrol test results and appropriate records on test equipment shall be retained for 
+at least the period required.  
+5 Tasks for the purpose of certification  
+5.1 Assessment of the performance of the cement  
+The assessment of the performance of the cement2 shall be based on the evaluation of test results 
+during the initial period of the cement, i.e. autocontrol test results (see  4.3.1 ) and the audit -test results 
+(see  5.4.3) obtained from the first sample and from further samples taken during the initial period.  
+NOTE In earlier editions of this document, the assessment of the performance of the cement was indicated as 
+“determination of the product type” or “initial type testing”.  
+The duration of the initial period (see  3.3) shall be, as a rule, three months.  
+                                                             
+2 This assessment corre sponds to the “assessment of the performance of the construction product” mentioned 
+in Delegated Regulation (EU) No  568/2014 amending Annex V to Regulation (EU) No 305/2011 (Construction 
+Products Regulation). 
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+EN 197- 2:2020 (E)  
+11 5.2 Initial  inspection of the manufacturing plant and of factory production control  
+5.2.1  Inspection of a new factory  
+In the case of a new factory, an initial inspection of the factory and of factory production control shall be 
+made, based on information on the factory pro duction control and the equipment including depots to be 
+used to produce and test the cement(s).  
+The inspection shall, amongst other things:  
+a) verify that the Works' quality documentation complies with the requirements of 4.1.2 ; 
+b) verify that the equipment used to produce and test the cement(s) meets the criteria in 5.2.3 and 
+5.2.4. 
+5.2.2  Inspection of an existing factory  
+In the case of significant changes concerning the factory production control and the equipment including new depots, it shall be decided, based on the importance of the changes to the Works' quality 
+documentation, whether a particular inspection is necessary. In this case, any new equipment which has caused a change in the Works' quality documentation, which is relevant to the factory production 
+control of cement, shall be inspected to verify that it meets the relevant criteria in 5.2.3 and 5.2.4 . 
+5.2.3  Criteria for the assessment of the production equipment  
+The inspection shall assess the suitability of the production equipment in relation to the Works' quality documentation and in relation to providing the ability to meet the quality targets and control limits. The 
+following criteria shall be considered:  
+a) The constituents, as specified in the relevant product specification standard, shall be protected 
+against contamination within the factory.  
+b) Equipment shall be provided which is suitable for continuous mass production of cement, in particular for adequate grinding and homogenization, allowing control of production with sufficient 
+accuracy.  
+c) Measures shall be taken to prevent the mixing of different cements during conveying and storage.  
+d) Each cement shall be stored in one or more separate silo(s), protected to prevent contamination and deterioration. The silos can include or take the form of fully enclosed, separated air -tight 
+subdivisions. Silos and/or discharge points shall be clearly marked with an indication of the cement type, strength class and any additional identification required.  
+e) Points where cement is released from the factory and/or depot shall allow samples to be taken in accordance with the methods specified in EN  196 -7. 
+5.2.4  Criteria for the ass essment of laboratories  
+The laboratory responsible for carrying out the tests required for internal quality control shall have at least the procedures and the equipment needed to carry out the relevant tests indicated or referred to 
+in the Works' quality d ocumentation (see also 4.2.2 ). 
+The laboratory responsible for carrying out autocontrol testing shall have at least the equipment 
+needed to carry out tests for the characteristics listed in the relevant product specification standard 
+using the test methods indicated (see 4.3.3).  
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+EN 197- 2:2020 (E) 
+12 The laboratories shall be inspected and the ability of the laboratories to provide results within a time 
+and in a manner suitable for the manufacturer’s factory production control shall be verified.  
+5.3 Continuing surveillance, assessment and evaluation of factory production control  
+5.3.1  Inspection of the factory and the factory production control  
+Inspection shall include checking that any change in the Works' quality documentation, which is relevant to the factory production control of cement , has been reported within one month of its 
+implementation.  
+Inspection shall verify that the factory production control complies with the requirements of Clause  4 
+and has been carried out according to the Works' quality documentation. All documents being p art of 
+the Works' quality documentation are subject to the inspection.  
+The inspections of the factory and the factory production control shall normally be carried out once a year, and the manufacturer shall be informed in advance when an inspection is to be made. Inspection 
+of depots shall normally be carried out at least every three years. If a cement plant operates more than 
+three depots, the frequency of inspections of the depots may be reduced by mutual agreement.  
+5.3.2  Evaluation of the results of autocontrol testing of samples  
+Continuing surveillance, assessment and evaluation of the factory production control includes 
+evaluation of the test results of the manufacturer's autocontrol testing to check conformity to the 
+statistical AVCP criteria and single result threshold values given in the relevant product specification 
+standard. 
+The number of evaluations of the results of autocontrol testing of samples shall be at least two per year. 
+The timing of the evaluations should be decided in advance.  
+The length of t he control period for evaluation of the autocontrol test results shall be as specified in the 
+clause entitled “Assessment and verification of constancy of performance  – AVCP” in the relevant 
+product specification standard, or equal to the initial period (see  5.1) in the case of a newly certified 
+cement.  
+Each evaluation shall be made on the test results obtained on all autocontrol samples of a given cement, without selection, taken during the control period preceding the date of the evaluation or during the 
+initial period as the case may be.  
+The evaluation of the test results should exclude any test result accepted as an outlier, e.g. in the case of 
+identified sampling and testing errors.  
+In the case of managed step changes in product characteristics or in the case of limited production or dispatching runs during the control period, the corresponding data sets may be evaluated separately.  
+The evaluations may normally be carried out by correspondence and each evaluation shall lead, for the characteristic exam ined, to a single conclusion in respect of the set of test results as a whole.  
+It shall be taken into account whether all necessary corrective actions and measures to prevent non -
+conforming cement from delivery have been taken.  
+5.4 Audit -testing of samples taken at the factory/depot  
+5.4.1  Sampling  
+Spot samples shall be taken at the point(s) of release of cement from the factory and depots supplied with cement by the factory. These are taken principally in order to provide a check on the accuracy of 
+the manufacturer's  test results.  
+The samples taken for audit -testing may be part of the autocontrol testing of samples according to 4.3 . 
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+EN 197- 2:2020 (E)  
+13 The number of samples taken shall be at least six per year for each cement dispatched continuously. 
+When a cement is not dispatched conti nuously, this frequency and the point of sampling may be altered 
+by mutual agreement.  
+The six samples shall be taken as proportional as possible following the actual dispatch of the cement, 
+e.g. two samples from bags and four samples from silos.  
+For audit -testing of cement dispatched in a depot, at least every three years one sample of each such 
+cement shall be taken at the depot. If a cement plant operates more than three depots, the number of 
+samples for audit -testing to be taken at the depots may be reduced by mutual agreement.  
+The first sample of a cement to be certified is used for the assessment of the performance of the cement.  
+The number of samples to be taken during the initial period (see  5.1) shall be at least one per month.  
+5.4.2  Testing  
+The mechanical , physical and chemical essential characteristics specified for testing in the clause 
+entitled “Assessment and verification of constancy of performance  – AVCP” in the relevant product 
+specification standard shall be determined according to the indicated te st methods.  
+In the case of distributors or importers, where cements were already tested and certified under this 
+document, details are available in CEN /TR 14245 . 
+Each sample taken shall be homogenized and divided into three sub -samples. The methods used to take 
+and prepare samples shall be in accordance with EN 196 -7. One sub -sample shall be retained by the 
+manufacturer for testing and one shall be packed, sealed, clearly labelled and forwarded to the laboratory responsible for audit -testing. The third sub -sample shall be sealed and retained by the 
+manufacturer for a minimum period of three months. It is intended for use if:  
+a) one of the first two sub -samples is lo st, deteriorates or becomes contaminated;  
+b) further testing is needed in the event of a dispute.  
+The first two sub -samples are intended for testing at the manufacturer laboratory and at the laboratory 
+responsible for audit -testing, respectively, for the required characteristics as listed in the relevant 
+product specification standard, using the test methods indicated in that standard.  
+5.4.3  Evaluation of test results  
+The results obtained shall be evaluated. The procedures specified in Annex  A shall be used for t he 
+evaluation of the representativeness and accuracy of the 28  day strength results.  
+The results obtained consist of single values with an uncertainty associated. For evaluation, only the 
+obtained test result shall be considered without taking into account  the associated uncertainty of 
+measurement, as this is implicitly covered by the AVCP procedures.  
+5.5 Reports  
+Following each evaluation, inspection and assessment, a confidential report shall be prepared and shall 
+be sent to the manufacturer.  
+The product certification body shall be informed about the manufacturer’s audit -testing results prior to 
+the informing of the manufacturer on the test results obtained by the laboratory responsible for audit -
+testing.  
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+EN 197- 2:2020 (E) 
+14 5.6 Actions to be taken in the event of non -conformity  
+5.6.1  Following inspection of the factory production control and evaluation of the results of 
+autocontrol testing  
+The reports made following the assessment of the factory production control (see  5.3.1 ) and the 
+evaluation of the results of the autocontrol testing  (see  5.3.2) shall form the basis for any 
+decisions/actions and shall be considered on a case by case basis.  
+In the event of non- compliances of the factory production control, appropriate decisions/actions shall 
+be taken to ensure that the factory producti on control is correctly applied. Cancellation of the 
+certificates may be considered in the event of a continuing non -conformity of the factory production 
+control. 
+In the event that the results of the autocontrol testing indicate that the AVCP criteria spec ified in the 
+clause entitled “Assessment and verification of constancy of performance  – AVCP” in the relevant 
+product specification standard are not met, the actions taken shall be as shown in Table  1. In the event 
+of a complaint plus warning, it shall be checked that the minimum frequency of autocontrol testing of 
+non- conforming characteristics has been doubled for a period of two months following the warning 
+(see  4.3.2).  
+5.6.2  Following evaluation of the results of the audit -testing  
+If comparisons carried out o f 28 day strengths according to A.3 show deviations indicating sampling or 
+testing errors, the reasons shall be identified. Any differences in other characteristics which could lead to non -conformity should be identified and appropriate action should be ta ken. It shall be established 
+whether appropriate actions have been taken to correct for these deviations and any further actions required shall be specified including, if necessary, correction of all relevant results.  
+If the results of the audit- testing in clude a test result outside the specified characteristic value, the 
+results of the autocontrol testing shall be evaluated over an appropriate period. If the autocontrol 
+testing is found to be satisfactory no further action is necessary. If the autocontrol testing confirms the findings of the audit -testing, the actions taken shall be as shown in Table  1. 
+If the results of the audit -testing do not meet the single result threshold value AVCP criteria specified in 
+the clause entitled “Assessment and verificatio n of constancy of performance  – AVCP” in the relevant 
+product specification standard, the actions taken shall be as shown in Table  1. 
+6 Procedure for certification of constancy of performance of the product  
+When a manufacturer applies for certification of a cement, an assessment of the performance of the 
+cement according to 5.1  including evaluation of composition and an initial inspection of the factory and 
+the factory production control (if required) (see  5.2) shall be arranged.  
+Given that the inspection (if any) indicates that the requirements of 5.2 are met and that the results of 
+the testing of the first sample taken during the initial period meet the AVCP criteria specified in the relevant product specifi cation standard, a certificate of constancy of performance of the product shall 
+be issued.  
+During the initial period, the results of the audit -testing and the results of the autocontrol testing shall 
+be evaluated (see 5.1 and 5.3.2 ). For a new factory, thi s shall include an evaluation according to A.3 . 
+If this evaluation is satisfactory, the certificate of constancy of performance of the product remains valid 
+unless cancelled (or withdrawn as a result of actions taken in the event of non -conformity, see  5.6). 
+However, the period of validity of a certificate of performance might be limited. 
+In the event that a manufacturer permanently ceases production of a particular certified cement, the 
+relevant certificate of constancy of performance of the product shall be cancelled. A manufacturer shall 
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+EN 197- 2:2020 (E)  
+15 be deemed to have permanently ceased production of a cement when a period of twelve months has 
+elapsed since the date of the last autocontrol sample. 
+Different cements produced in the same factory and complying with the same standard designation 
+which receive an additional identification in the form of a number or of two lower case letters 
+(see  EN 197 -1) shall be identified, assessed and certified as different cements. This is in particular the 
+case for cements produced in  the same factory and complying with the same standard designation but 
+with a different performance in order to fulfill different or additional client’s requirements.  
+NOTE  The procedure for certification of constancy of performance of cement in a new facto ry (see  3.6) or of a 
+new type of cement (see  5.2.2 ) in an existing factory (see  3.7) is shown in Annex  B. 
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+EN 197- 2:2020 (E) 
+16 Table  1 — Actions to be taken in the event of non -conformity of the results of autocontrol and/or audit -testing  
+        Actions to be taken  
+Criterion Item  Non -conformity of test 
+result(s)  a Issue of a 
+complaint  Issue of a complaint plus 
+warning  Withdrawal of 
+certificate of 
+constancy of 
+performance of the 
+product  b 
+Specified 
+characteristic 
+value  Auto-
+control 
+testing  All results 
+in control 
+period  Non -conformity of the test 
+results with the statistical 
+conformity criteria specified in 
+the relevant product 
+specification standard  First non -
+conformity of 
+the test results  Non -conformity of the test 
+results for the same 
+characteristic in two 
+consecutive statistical 
+assessments c Non -conformity of the 
+test results for the 
+same characteristic in 
+three consecutive 
+statistical assessments  
+Single result 
+threshold value  Auto-
+control testing 
+and 
+audit -
+testing  Individual 
+results Non -conformity of any result 
+with the single result threshold 
+value AVCP criteria specified in 
+the relevant product 
+specification standard  First  non-
+conformity of 
+a test result  Second non -conformity of a 
+test result for the same 
+characteristic within 12  e 
+months d Third non -conformity 
+of a test result for the 
+same characteristic 
+within 12 e months d 
+a Non -conformities for different characteristics are treated separately.  
+b Withdrawal is always based on a case by case assessment.  
+c In the case of the upper threshold value of the standard strength the issuing of a complaint plus warning should be based on a case by case decision.  
+d Only if information on the preceding non -conforming test result has been available at the time of sampling.  
+e 24 months for masonry cement as specified in EN 413 -1. 
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+EN 197- 2:2020 (E)  
+17 Annex  A 
+(normative)  
+ 
+Evaluation of the representativeness and the accuracy of the 28 day 
+strength test results 
+A.1 General  
+This annex describes the procedures to be used to evaluate the representativeness and the accuracy of 
+the 28  day strength test results. The evaluation shall preferably be made in connection with the rout ine 
+yearly inspection. For a new type of cement the evaluation shall be made when the necessary data are available.  
+A.2 Sets of results considered  
+The evaluation procedure considers the following three sets of test results:  
+— A all test results from the autoco ntrol testing during the period under consideration;  
+— B the results of tests carried out by the manufacturer on samples taken for audit -testing;  
+— C the results of tests carried out by the product certification body on samples taken for audit -
+testing.  
+The number of results in each of the sets B and C is at least six. They should be equally distributed 
+throughout the period under consideration.  
+A.3 Evaluation procedure  
+A.3.1  Introduction  
+The evaluation procedure includes two parts, as described in A.3.3 and A.3.4 . For masonry cement 
+defined in EN 413 -1, see also A.3.5 . For calcium aluminate cement defined in EN  14647 , see also A.3.6 . 
+A.3.2  Symbols  
+The symbols used in A.3.3 to A.3.6  are given in Table  A.1. 
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+EN 197- 2:2020 (E) 
+18 Table  A.1 — Symbols  
+Symbol Meaning  
+MA is the average of all results of the autocontrol testing during the period under 
+consideration  
+MB is the average of the results of the tests carried out by the manufacturer on the samples 
+taken for audit -testing  
+MC is the average of the results of the tests carried out by the  product certification body on 
+samples taken for audit -testing  
+NB is the number of the samples taken for audit -testing  
+SA is the standard deviation of all results of the autocontrol testing during the period under 
+consideration  
+SD is the standard deviation of the differences between the corresponding results of the 
+samples taken for audit -testing as defined by di = Bi – Ci 
+where  Bi is the individual test result by the manufacture  
+  Ci is the corresponding individual test result by the product certification 
+body  
+  
+( ) ( )= − − ∑∑/
+//1222
+D i i BB1 S d dN N  
+A.3.3  Evaluation of whether set A and set B belong to the same population (sampling 
+error check)  
+a) Where | MA - MB| ≤ 2,0 MPa, 3 
+the two sets of results can be considered to belong to the same population.  
+b) Where |M A - MB| > 2,0 MPa, 3 
+1) if |MA - MB| ≤ 2,58 × SA/(NB)1/2 
+the two sets of results are considered to belong to the same population,  
+2) if |MA - MB| > 2,58 × SA/(NB)1/2 
+the reason shall be identified (in this case the two sets of test results can be considered to belong to 
+different populations with a confidence level of 99  % as described in ISO  2854  [3]).  
+                                                             
+3 These are values applicable for common cement  defined in EN  197- 1 and supersulfated cement defined in 
+EN 15743. The values for masonry cement defined in EN  413- 1 are given in A.3.5 and for calcium aluminate 
+cement defined in EN  14647 in A.3.6. Values for other cements can be indicated in the relevant  product 
+specification standard.  
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+EN 197- 2:2020 (E)  
+19 A.3.4  Comparison between set B and set C in order to check the accuracy of the 
+autocontrol testing (testing error check)  
+Two conditions should be satisfied:  
+a) SD ≤ 3,4 MPa, 3 
+b) |MB - MC| ≤ 4,0 MPa. 3 
+If either or both of these conditions are not satisfied the reasons shall be identified.  
+A.3.5  Masonry cement  
+For masonry cement defined in EN  413 -1 the numerical criteria given in Table  A.2 shall apply in place of 
+the values given in A.3.3 and A.3.4 : 
+Table  A.2 — Numerical criteria for masonry cement defined in EN  413-1 
+Criterion  Masonry cement, type/class  
+MC 5  MC 12,5/MC 12,5X  MC 22,5/MC 22,5X  
+|MA - MB| 1,0 1,4 2,0 
+SD 1,7 2,4 3,4 
+|MB - MC| 2,0 3,0 4,0 
+A.3.6  Calcium aluminate cement 
+For calcium aluminate cement defined in EN  14647  the numerical criteria given in Table  A.3 shall apply 
+in place of the values given in A.3.3 and A.3.4 : 
+Table  A.3 — Numerical criteria for calcium aluminate cement defined in EN  14647  
+Criterion Calcium aluminate cement  
+|MA - MB| 3,0 
+SD 5,0 
+|MB - MC| 5,0 
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+EN 197- 2:2020 (E) 
+20 Annex  B 
+(informative)  
+ 
+Procedure for certification of constancy of performance of cement  
+ 
+Figure B.1 — Procedure for certification of cons tancy of performance of cement in a new factory 
+(see 3.6) or of a new type of cement (see 5.2.2) in an existing factory (see 3.7) 
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+EN 197- 2:2020 (E)  
+21 Bibliography  
+[1] CEN /TR 14245, Cement — Guidelines for the application of EN 197 -2: Assessment and verification 
+of constancy of performance  
+[2] EN ISO 9001, Quality management systems  — Requirements (ISO 9001)  
+[3] ISO 2854, Statistical interpretation of data  — Techniques of estimation and tests relating to means 
+and variances  
+[4] Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 
+laying down harmonised conditions for the marketing of construction products and repealing 
+Council Directive 89/106/EEC  
+[5] Commission Delegated Regulation (EU) No 568/2014 of 18 February 2014 amending Annex  V to 
+Regulation (EU) No 305/2011 of the European Parliament and of the Council as regards the 
+assessment and verification of con stancy of performance of construction products  
+ 
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---
+ 
+ 
+For information regarding the development of standards contact:  
+Asociación Española de Normalización  
+Génova, 6  
+28004 MADRID -España 
+Tel.: 915 294 900  
+info@une.org  
+www.une.org  
+ 
+ 
+For information regarding the sale and distribution:  
+AENOR INTERNACIONAL  S.A.U.  
+Tel.: 914 326 16 0 
+normas@aenor.com  
+www.aenor.com  
+ Spanish standardization body in : 
+ 
+Asociación Española de Normalización, UNE
+Este documento ha sido adquirido por Northern Cement Co.  el 2021-12-3. 
+ Para poder utilizarlo en un sistema de red interno, deberá disponer de la correspondiente licencia de AENOR
+--- Page Break ---

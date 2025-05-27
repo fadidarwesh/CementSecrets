@@ -1,0 +1,425 @@
+Designation: C150/C150M −21
+Standard Speciﬁcation for
+Portland Cement1
+This standard is issued under the ﬁxed designation C150/C150M; the number immediately following the designation indicates the year
+of original adoption or, in the case of revision, the year of last revision. A number in parentheses indicates the year of last reapproval.A superscript epsilon ( ´) indicates an editorial change since the last revision or reapproval.
+1. Scope*
+1.1 This speciﬁcation covers ten types of portland cement,
+as follows (see Note 2 ):
+1.1.1 Type I— For general use, when the special properties
+speciﬁed for any other type are not required.
+1.1.2 Type IA— Air-entraining cement for the same uses as
+Type I, where air-entrainment is desired.
+1.1.3 Type II— For general use, more especially when mod-
+erate sulfate resistance is desired.
+1.1.4 Type IIA— Air-entraining cement for the same uses as
+Type II, where air-entrainment is desired.
+1.1.5 Type II(MH)— For general use, more especially when
+moderate heat of hydration and moderate sulfate resistance aredesired.
+1.1.6 Type II(MH)A— Air-entraining cement for the same
+uses as Type II(MH), where air-entrainment is desired.
+1.1.7 Type III— For use when high early strength is desired.
+1.1.8 Type IIIA— Air-entraining cement for the same use as
+Type III, where air-entrainment is desired.
+1.1.9 Type IV— For use when a low heat of hydration is
+desired.
+1.1.10 Type V— For use when high sulfate resistance is
+desired.
+NOTE 1—Some cements are designated with a combined type
+classiﬁcation, such as Type I/II, indicating that the cement meets therequirements of the indicated types and is being offered as suitable for usewhen either type is desired.
+N
+OTE2—Cement conforming to the requirements for all types are not
+carried in stock in some areas. In advance of specifying the use of cementother than Type I, determine whether the proposed type of cement is or canbe made available.
+1.2 The values stated in either SI units or inch-pound units
+are to be regarded separately as standard. The values stated ineach system may not be exact equivalents; therefore, eachsystem shall be used independently of the other. Combiningvalues from the two systems may result in non-conformancewith the standard. Values in SI units [or inch-pound units] shallbe obtained by measurement in SI units [or inch-pound units]or by appropriate conversion, using the Rules for Conversion
+and Rounding given in
+IEEE/ASTM SI 10 , of measurements
+made in other units [or SI units]. Values are stated in only SIunits when inch-pound units are not used in practice.
+1.3 The text of this speciﬁcation references notes and
+footnotes which provide explanatory material. These notes andfootnotes (excluding those in tables and ﬁgures) shall not beconsidered as requirements of the standard.
+1.4This international standard was developed in accor-
+dance with internationally recognized principles on standard-ization established in the Decision on Principles for theDevelopment of International Standards, Guides and Recom-mendations issued by the World Trade Organization TechnicalBarriers to Trade (TBT) Committee.
+2. Referenced Documents
+2.1ASTM Standards:
+2
+C51Terminology Relating to Lime and Limestone (as Used
+by the Industry)
+C109/C109M Test Method for Compressive Strength of
+Hydraulic Cement Mortars (Using 2-in. or [50 mm] CubeSpecimens)
+C114 Test Methods for Chemical Analysis of Hydraulic
+Cement
+C151/C151M Test Method for Autoclave Expansion of Hy-
+draulic Cement
+C183/C183M Practice for Sampling and the Amount of
+Testing of Hydraulic Cement
+C185 Test Method for Air Content of Hydraulic Cement
+Mortar
+C191 Test Methods for Time of Setting of Hydraulic Cement
+by Vicat Needle
+C204 Test Methods for Fineness of Hydraulic Cement by
+Air-Permeability Apparatus
+C219 Terminology Relating to Hydraulic and Other Inor-
+ganic Cements
+C226 Speciﬁcation for Air-Entraining Additions for Use in
+the Manufacture of Air-Entraining Hydraulic Cement
+1This speciﬁcation is under the jurisdiction of ASTM Committee C01 on
+Cement and is the direct responsibility of Subcommittee C01.10 on Hydraulic
+Cements for General Concrete Construction.
+Current edition approved July 15, 2021. Published August 2021. Originally
+approved in 1940. Last previous edition approved in 2020 as C150/C150M – 20.DOI: 10.1520/C0150_C0150M-21.2For referenced ASTM standards, visit the ASTM website, www.astm.org, or
+contact ASTM Customer Service at service@astm.org. For Annual Book of ASTM
+Standards volume information, refer to the standard’s Document Summary page on
+the ASTM website.
+*A Summary of Changes section appears at the end of this standard
+Copyright © ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959. United StatesNOTICE: This standard has either been superseded and replaced by a new version or withdrawn.
+Contact ASTM International (www.astm.org) for the latest information
+1
+iTeh Standards
+(https://standards.iteh.ai)
+Document Preview
+ASTM C150/C150M -21
+https://standards.iteh.ai/catalog/standards/sist/80b54b2e -516d- 4a07-8c01-7a44bbd9b58b/ astm-c150- c150m -21
+--- Page Break ---
+C266 Test Method for Time of Setting of Hydraulic-Cement
+Paste by Gillmore Needles
+C451 Test Method for Early Stiffening of Hydraulic Cement
+(Paste Method)
+C452 Test Method for Potential Expansion of Portland-
+Cement Mortars Exposed to Sulfate
+C465 Speciﬁcation for Processing Additions for Use in the
+Manufacture of Hydraulic Cements
+C563 Guide for Approximation of Optimum SO3in Hydrau-
+lic Cement
+C1038/C1038M Test Method for Expansion of Hydraulic
+Cement Mortar Bars Stored in Water
+C1702 Test Method for Measurement of Heat of Hydration
+of Hydraulic Cementitious Materials Using IsothermalConduction Calorimetry
+C1778 Guide for Reducing the Risk of Deleterious Alkali-
+Aggregate Reaction in Concrete
+E29Practice for Using Signiﬁcant Digits in Test Data to
+Determine Conformance with Speciﬁcations
+IEEE/ASTM SI 10 American National Standard for Metric
+Practice
+3. Terminology
+3.1Deﬁnitions:
+3.1.1 For deﬁnitions pertinent to this speciﬁcation, see
+Terminology C219 .
+4. Ordering Information
+4.1 Orders for material under this speciﬁcation shall include
+the following:4.1.1 This speciﬁcation number and date,
+4.1.2 Type or types allowable. If no type is speciﬁed, Type
+I shall be supplied,
+4.1.3 Any optional chemical requirements from Table 2 ,i f
+desired, and
+4.1.4 Any optional physical requirements from Table 4 ,i f
+desired.
+5. Ingredients
+5.1 The cement covered by this speciﬁcation shall contain
+no ingredients except as follows:
+5.1.1 Portland Cement Clinker.
+5.1.2 Water or Calcium Sulfate, or Both— The amounts shall
+be such that the limits shown in Table 1 for sulfur trioxide and
+loss-on-ignition are not exceeded.
+5.1.3 Limestone— The amount shall not be more than 5.0 %
+by mass such that the chemical and physical requirements ofthis speciﬁcation are met (see
+Note 3 ). The limestone, deﬁned
+in Terminology C51, shall be naturally occurring and consist of
+at least 70 % by mass of one or more of the mineral forms ofcalcium carbonate. If limestone is used, the manufacturer shallreport the amount used, expressed as a percentage of cementmass, as determined using
+Annex A2 , along with the oxide
+composition of the limestone.
+NOTE 3—This speciﬁcation permits portland cement to contain
+limestone, but does not require that limestone be an ingredient in thecement. Cement without ground limestone can be speciﬁed in the contractor order.
+5.1.4 Inorganic Processing Additions— The amount shall be
+not more than 5.0 % by mass of cement. Not more than one
+TABLE 1 Standard Composition Requirements
+Cement TypeA Applicable Test
+MethodI and IA II and IIAII(MH) and
+II(MH)AIII and IIIA IV V
+Aluminum oxide (Al2O3), max, % C114 ... 6 . 0 6 . 0 ... ... ...
+Ferric oxide (Fe2O3), max, % C114 ... 6 . 0B6.0B,C... 6 . 5 ...
+Magnesium oxide (MgO), max, % C114 6.0 6.0 6.0 6.0 6.0 6.0
+Sulfur trioxide (SO3),Dmax, % C114
+When (C3A)Eis 8 % or less 3.0 3.0 3.0 3.5 2.3 2.3
+When (C3A)Eis more than 8 % 3.5FF4.5FF
+Loss on ignition, max, % C114
+When limestone is not an ingredient 3.0 3.0 3.0 3.0 2.5 3.0When limestone is an ingredient 3.5 3.5 3.5 3.5 3.5 3.5
+Insoluble residue, max, %
+C114 1.5 1.5 1.5 1.5 1.5 1.5
+Equivalent alkalies (Na2O+0 . 6 5 8K2O), % C114GGGGGG
+Tricalcium silicate (C3S),Emax, % See Annex A1 ... ... ... ... 3 5C...
+Dicalcium silicate (C2S),Emin, % See Annex A1 ... ... ... ... 4 0C...
+Tricalcium aluminate (C3A),Emax, % See Annex A1 ... 8 8 1 5 7C5B
+Sum of C3S+4 . 7 5 ( C3A),Hmax, % See Annex A1 ... ... 1 0 0C,I... ... ...
+Tetracalcium aluminoferrite plus twice the
+tricalcium aluminate (C4A F+2 ( C3A)), or
+solid solution (C4A F+C2F),
+as applicable, max, %See Annex A1 ... ... ... ... ... 2 5B
+ASee Note 2 .
+BDoes not apply when the sulfate resistance limit in Table 4 is speciﬁed.
+CDoes not apply when the cement complies with the heat of hydration limit in Table 4 .
+DIt is permissible to exceed the values in the table for SO3content, provided it has been demonstrated by Test Method C1038/C1038M that the cement with the increased
+SO3will not develop expansion exceeding 0.020 % at 14 days. When the manufacturer supplies cement under this provision, supporting data shall be supplie dt ot h e
+purchaser (see Note 7 ).
+ESee Annex A1 for calculation.
+FNot applicable.
+GReport equivalent alkalies as part of the manufacturer’s certiﬁcation (see Note 5 ).
+HSee Note 6 .
+IIn addition, three-day heat of hydration testing by Test Method C1702 shall be conducted at least once every six months. Such testing shall not be used for acceptance
+or rejection of the cement, but results shall be reported for informational purposes.
+C150/C150M − 21
+2
+iTeh Standards
+(https://standards.iteh.ai)
+Document Preview
+ASTM C150/C150M -21
+https://standards.iteh.ai/catalog/standards/sist/80b54b2e -516d- 4a07-8c01-7a44bbd9b58b/ astm-c150- c150m -21
+--- Page Break ---
+inorganic processing addition shall be used at a time. For
+amounts greater than 1.0 %, they shall have been shown tomeet the requirements of Speciﬁcation
+C465 for the inorganic
+processing addition in the amount used or greater. If aninorganic processing addition is used, the manufacturer shallreport the amount used, expressed as a percentage of cementmass, along with the oxide composition of the processingaddition (see
+Note 4 ).
+NOTE4—These requirements are based on data and recommendations
+by Taylor.3
+5.1.5 Organic Processing Additions— They shall have been
+shown to meet the requirements of Speciﬁcation C465 in theamounts used or greater and the total amount of organic
+processing additions used shall not exceed 1.0 % by mass ofcement.
+5.1.6 Air-entraining Addition (for Air-entraining Portland
+Cement Only)— The interground addition shall conform to the
+requirements of Speciﬁcation
+C226 .
+6. Chemical Composition
+6.1 Portland cement of each of the ten types shown in
+Section 1shall conform to the respective standard chemical
+requirements prescribed in Table 1 . In addition, optional
+chemical requirements are shown in Table 2 .
+NOTE5—The standard composition requirements in Table 1 require
+reporting of equivalent alkalies. Cements with a maximum of 0.60 %equivalent alkalies were historically designated as “low-alkali cements”and recommended for use with aggregates susceptible to alkali-silicareaction (ASR). However, low-alkali cements (in the absence of other
+3Taylor, P., “Speciﬁcations and Protocols for Acceptance Tests on Processing
+Additions in Cement Manufacturing,” NCHRP Report 607 , Transportation Research
+Board, Washington, DC 20008, pp. 96. Available at www.trb.org.TABLE 2 Optional Composition RequirementsA
+Cement TypeApplicable Test
+MethodI and IA II and IIAII(MH) and
+II(MH)AIII and
+IIIAIV V Remarks
+Tricalcium aluminate (C3A),Bmax, % See Annex A1 . . . . . . . . . 8 . . . . . . For moderate sulfate resistance.
+Tricalcium aluminate (C3A),Bmax, % See Annex A1 . . . . . . . . . 5 . . . . . . For high sulfate resistance.
+AThese optional requirements apply only when speciﬁcally requested. Verify availability before ordering (see Note 2 ).
+BSee Annex A1 for calculation.
+TABLE 3 Standard Physical Requirements
+Cement TypeAApplicable
+Test
+MethodI IA II IIA II(MH) II(MH)A III IIIA IV V
+Air content of mortar,Bvolume %: C185
+max 12 22 12 22 12 22 12 22 12 12
+m i n ... 1 6 ... 1 6 ... 1 6 ... 1 6 ... ...
+Fineness, speciﬁc surface, m2/kg
+Air permeability test C204
+min 260 260 260 260 260 260 . . . . . . 260 260m a x ... ... ... ... 4 3 0
+C430C... ... 4 3 0 ...
+Autoclave expansion, max, % C151/
+C151M0.80 0.80 0.80 0.80 0.80 0.80 0.80 0.80 0.80 0.80
+Strength, not less than the values
+shown for the ages indicated as fol-lows:
+D
+Compressive strength, MPa [psi]: C109/
+C109M
+1d a y ... ... ... ... ... ... 1 2 . 0
+[1740]10.0
+[1450]... ...
+3 days 12.0
+[1740]10.0
+[1450]10.0
+[1450]8.0
+[1160]10.0
+[1450]8.0
+[1160]24.0
+[3480]19.0
+[2760]... 8 . 0
+[1160]
+7 days 19.0
+[2760]16.0
+[2320]17.0
+[2470]14.0
+[2030]17.0
+[2470]14.0
+[2030]... ... 7 . 0
+[1020]15.0
+[2180]
+28 days . . . . . . . . . . . . . . . . . . . . . . . . 17.0
+[2470]21.0
+[3050]
+Time of setting; Vicat test:EC191
+Time of setting, minutes,
+not less than45 45 45 45 45 45 45 45 45 45
+Time of setting, minutes,
+not more than375 375 375 375 375 375 375 375 375 375
+ASee Note 2 .
+BCompliance with the requirements of this speciﬁcation does not necessarily ensure that the desired air content will be obtained in concrete.
+CMaximum ﬁneness limits do not apply if the sum of C3S+4 . 7 5 ( C3A) is less than or equal to 90, or the cement complies with the heat of hydration limit in Table 4 .
+DThe strength at any speciﬁed test age shall be not less than that attained at any previous speciﬁed test age.
+EThe time of setting is that described as initial setting time in Test Method C191 .
+C150/C150M − 21
+3
+iTeh Standards
+(https://standards.iteh.ai)
+Document Preview
+ASTM C150/C150M -21
+https://standards.iteh.ai/catalog/standards/sist/80b54b2e -516d- 4a07-8c01-7a44bbd9b58b/ astm-c150- c150m -21
+--- Page Break ---
+mitigation measures) may not be effective in mitigating ASR. Guidance on
+formulating concrete mixtures, including calculating alkali loading usingequivalent alkali content of cement to minimize the potential for ASR, isprovided in Guide
+C1778 .
+NOTE6—The limit on the sum, C3S + 4.75(C3A), in Table 1 provides
+control on the heat of hydration of the cement and is consistent with a TestMethod
+C1702 three-day heat of hydration limit of 315 kJ/kg [75 cal ⁄g].
+NOTE7—There are cases where performance of a cement is improved
+with SO3in excess of the Table 1 limits in this speciﬁcation. Guide C563
+is one of several methods a manufacturer can use to evaluate the effect ofsulfate content on cement characteristics. Whenever SO
+3content of a
+cement exceeds Table 1 limits, Test Method C1038/C1038M results
+provide evidence that excessive expansion does not occur at this highersulfate content.
+7. Physical Properties
+7.1 Portland cement of each of the ten types shown in
+Section 1shall conform to the respective standard physical
+requirements prescribed in Table 3 . In addition, optional
+physical requirements are shown in Table 4 .
+8. Sampling
+8.1 When the purchaser desires that the cement be sampled
+and tested to verify compliance with this speciﬁcation, performsampling and testing in accordance with Practice
+C183/
+C183M .
+8.2 Practice C183/C183M is not designed for manufactur-
+ing quality control and is not required for manufacturer’scertiﬁcation.
+9. Test Methods
+9.1 Determine the applicable properties enumerated in this
+speciﬁcation in accordance with the following test methods:
+9.1.1 Chemical Analysis— Test Methods
+C114 .
+9.1.2 Air Content of Mortar— Test Method C185 .
+9.1.3 Fineness by Air Permeability— Test Method C204 .
+9.1.4 Autoclave Expansion— Test Method C151/C151M .
+9.1.5 Strength— Test Method C109/C109M .
+9.1.6 Time of Setting by Vicat Needles— Test Method C191 .
+9.1.7 Early Stiffening— Test Method C451 .
+9.1.8 Heat of Hydration— Test Method C1702 .9.1.9 Sulfate Resistance— Test Method C452 (sulfate expan-
+sion).
+9.1.10 Time of Setting by Gillmore Needles— Test Method
+C266 .
+9.1.11 Calcium Sulfate (Expansion of) Mortar— Test
+Method C1038/C1038M .
+10. Inspection
+10.1 Inspection of the material shall be made as agreed upon
+between the purchaser and the seller as part of the purchasecontract.
+11. Rejection
+11.1 The cement shall be rejected if it fails to meet any of
+the requirements of this speciﬁcation.
+11.2 At the option of the purchaser, retest, before using,
+cement remaining in bulk storage for more than six months orcement in bags in local storage in the custody of a vendor formore than three months after completion of tests and reject thecement if it fails to conform to any of the requirements of thisspeciﬁcation. Cement so rejected shall be the responsibility ofthe owner of record at the time of resampling for retest.
+11.3 Packages shall identify the mass contained as net
+weight. At the option of the purchaser, packages more than 2 %below the mass marked thereon shall be rejected and if theaverage mass of packages in any shipment, as shown bydetermining the mass of 50 packages selected at random, is lessthan that marked on the packages, the entire shipment shall berejected.
+12. Manufacturer’s Statement
+12.1 At the request of the purchaser, the manufacturer shall
+state in writing the nature, amount, and identity of anyair-entraining addition and of any processing addition used,and also, if requested, shall supply test data showing compli-ance of such air-entraining addition with Speciﬁcation
+C226
+and of such processing addition with Speciﬁcation C465 .TABLE 4 Optional Physical RequirementsA
+Cement TypeApplicable
+Test MethodI and II IA and IIA II(MH) II(MH)A III IIIA IV V
+Early stiffening, ﬁnal penetration, min, % C451 50 50 50 50 50 50 50 50
+Heat of hydration:
+Isothermal Conduction Calorimetry:
+3 days, max, kJ/kg [cal/g] C1702 ... ... 3 3 5[ 8 0 ]B335 [80]B... ... 2 0 0[ 5 0 ]C...
+7 days, max, kJ/kg [cal/g] . . . . . . . . . . . . . . . . . . 225 [55]C...
+Strength, not less than the values shown:
+Compressive strength, MPa [psi] C109/C109M
+28 days 28.0
+[4060]22.0
+[3190]28.0
+[4060]22.0
+[3190]... ... ... ...
+Sulfate resistance,D14 days, max, % expansion C452 ...E...E...E...E... ... ... 0 . 0 4 0
+Gillmore test: C266
+Initial set, min, not less than 60 60 60 60 60 60 60 60Final set, min, not more than 600 600 600 600 600 600 600 600
+AThese optional requirements apply only when speciﬁcally requested. Verify availability before ordering (see Note 2 ).
+BThe limit for the sum of C3S+4 . 7 5 ( C3A) in Table 1 shall not apply when the cement complies with this limit.
+CThe limits of C3S, C2S, C3A, and Fe2O3inTable 1 shall not apply when the cement complies with this limit.
+DWhen the sulfate resistance is speciﬁed, it shall be instead of the limits of C3A, C4A F+2 ( C3A), and Fe2O3listed in Table 1 .
+ECement meeting the high sulfate resistance limit for Type V is deemed to meet the moderate sulfate resistance requirement of Type II and Type II(MH).
+C150/C150M − 21
+4
+iTeh Standards
+(https://standards.iteh.ai)
+Document Preview
+ASTM C150/C150M -21
+https://standards.iteh.ai/catalog/standards/sist/80b54b2e -516d- 4a07-8c01-7a44bbd9b58b/ astm-c150- c150m -21
+--- Page Break ---
+12.2 When limestone is used, the manufacturer shall state in
+writing the amount thereof and, if requested by the purchaser,shall supply comparative test data on chemical and physicalproperties of the cement with and without the limestone (see
+Note 8 ). The comparative tests do not supersede the normal
+testing to conﬁrm that the cement meets chemical and physicalrequirements of this speciﬁcation. The amount of limestone incement shall be determined in accordance with
+Annex A2 .
+NOTE8—Comparative test data may be from qualiﬁcation tests per-
+formed by the manufacturer during formulation of the cement withlimestone.
+12.3 At the request of the purchaser, the manufacturer shall
+report the chloride content as determined using Test Methods
+C114 , in percent by mass of the cement, in the manufacturer’s
+report (see Note 9 ).
+NOTE9—Chlorides in concrete come from multiple ingredients and
+cement chloride content may be required to estimate concrete chloridecontent. Requirements for concrete chloride content are provided inbuilding codes and other documents.
+13. Packaging and Package Marking
+13.1 When the cement is delivered in packages, the words
+“Portland Cement,” the type of cement, the name and brand ofthe manufacturer, and the mass of the cement contained thereinshall be plainly marked on each package. When the cement isan air-entraining type, the words “air-entraining” shall beplainly marked on each package. Similar information shall beprovided in the shipping documents accompanying the ship-
+ment of packaged or bulk cement. All packages shall be ingood condition at the time of inspection.
+NOTE10—With the change to SI units, it is desirable to establish a
+standard SI package for portland cements. To that end 42 kg [92.6 lb]provides a convenient, even-numbered mass reasonably similar to thetraditional 94-lb [42.6 kg] package.
+14. Storage
+14.1 The cement shall be stored in such a manner as to
+permit easy access for proper inspection and identiﬁcation ofeach shipment, and in a suitable weather-tight building thatwill protect the cement from dampness and minimize ware-house set.
+15. Manufacturer’s Certiﬁcation
+15.1 Upon request of the purchaser in the contract or order,
+a manufacturer’s report shall be furnished at the time ofshipment stating the results of tests made on samples of thematerial taken during production or transfer and certifying thatthe cement conforms to applicable requirements of this speci-ﬁcation.
+NOTE11—Guidance on preparing the manufacturer’s report is provided
+inAppendix X1 .
+16. Keywords
+16.1 hydraulic cement; portland cement; speciﬁcation
+ANNEXES
+(Mandatory Information)
+A1. CALCULATION OF POTENTIAL CEMENT PHASE COMPOSITION
+A1.1 All values calculated as described in this annex shall
+be rounded in accordance with Practice E29. When evaluating
+conformance to a speciﬁcation, round values to the samenumber of places as the corresponding table entry beforemaking comparisons. The expressing of chemical limitationsby means of calculated assumed phases does not necessarilymean that the oxides are actually or entirely present as suchphases.
+A1.2 When expressing phases, C = CaO, S = SiO
+2,
+A=A l2O3, F=F e2O3. For example, C3A = 3CaO·Al2O3.T i -
+tanium dioxide and phosphorus pentoxide (TiO2and P2O5)
+shall not be included with the Al2O3content (see Note A1.1 ).
+NOTEA1.1—When comparing oxide analyses and calculated phases
+from different sources or from different historic times, be aware that theymay not have been reported on exactly the same basis. Chemical dataobtained by Reference and Alternate Test Methods of Test Methods
+C114
+(wet chemistry) may include titania and phosphorus as alumina unlessproper correction has been made (see Test Methods
+C114 ), while data
+obtained by rapid instrumental methods usually do not. This can result insmall differences in the calculated phases. Such differences are usuallywithin the precision of the analytical methods, even when the methods areproperly qualiﬁed under the requirements of Test Methods
+C114 .
+A1.3 When the ratio of percentages of aluminum oxide to
+ferric oxide is 0.64 or more, the percentages of tricalciumsilicate, dicalcium silicate, tricalcium aluminate, and tetracal-cium aluminoferrite shall be calculated from the chemical
+analysis as follows:
+Tricalcium silicate (C3S) = (4.071 × % CaO) – (7.60 0×%S i O2)
+– (6.718 × % Al2O3)–( 1 . 4 3 0×%F e2O3)–( 2 . 8 5 2×%S O3)
+(A1.1)
+Dicalcium silicate (C2S )=( 2 . 8 6 7×%S i O2)–( 0 . 7 5 4 4×%C3S)
+(A1.2)
+Tricalcium aluminate (C3A) = (2.650 × % Al2O3)–( 1 . 6 9 2×%F e2O3)
+(A1.3)
+Tetracalcium aluminoferrite (C4A F )=3 . 0 4 3×%F e2O3
+(A1.4)
+A1.3.1 When the alumina-ferric oxide ratio is less than 0.64,
+a calcium aluminoferrite solid solution (expressed asss(C
+4A F+C2F)) is formed. No tricalcium aluminate will be
+C150/C150M − 21
+5
+iTeh Standards
+(https://standards.iteh.ai)
+Document Preview
+ASTM C150/C150M -21
+https://standards.iteh.ai/catalog/standards/sist/80b54b2e -516d- 4a07-8c01-7a44bbd9b58b/ astm-c150- c150m -21
+--- Page Break ---

@@ -1,0 +1,576 @@
+Designation: C595/C595M – 11
+Standard Speciﬁcation for
+Blended Hydraulic Cements1
+This standard is issued under the ﬁxed designation C595/C595M; the number immediately following the designation indicates the year
+of original adoption or, in the case of revision, the year of last revision. A number in parentheses indicates the year of last reapproval.A superscript epsilon ( ´) indicates an editorial change since the last revision or reapproval.
+This standard has been approved for use by agencies of the Department of Defense.
+1. Scope*
+1.1 This speciﬁcation pertains to blended hydraulic cements
+for both general and special applications, using slag or pozzo-lan, or both, with portland cement or portland cement clinker orslag with lime.
+NOTE 1—This speciﬁcation prescribes ingredients and proportions,
+with some performance requirements whereas Performance Speciﬁcation
+C1157 is a hydraulic cement speciﬁcation in which performance criteria
+alone govern the products and their acceptance.
+1.2 The values stated in either SI units or inch-pound units
+are to be regarded separately as standard. The values stated ineach system may not be exact equivalents; therefore, eachsystem shall be used independently of the other. Combiningvalues from the two systems may result in non-conformancewith the standard. Values in SI units [or inch-pound units] shallbe obtained by measurement in SI units [or inch-pound units]or by appropriate conversion, using the Rules for Conversionand Rounding given in
+IEEE/ASTM SI 10 , of measurements
+made in other units [or SI units]. Values are stated in only SIunits when inch-pound units are not used in practice.
+1.3 The text of this standard refers to notes and footnotes
+which provide explanatory material. These notes and footnotes(excluding those in tables and ﬁgures) are not requirements ofthe standard.
+2. Referenced Documents
+2.1 ASTM Standards:
+2
+C109/C109M Test Method for Compressive Strength of
+Hydraulic Cement Mortars (Using 2-in. or [50-mm] CubeSpecimens)C114 Test Methods for Chemical Analysis of Hydraulic
+Cement
+C150 Speciﬁcation for Portland Cement
+C151 Test Method for Autoclave Expansion of Hydraulic
+Cement
+C157/C157M Test Method for Length Change of Hardened
+Hydraulic-Cement Mortar and Concrete
+C183 Practice for Sampling and the Amount of Testing of
+Hydraulic Cement
+C185 Test Method for Air Content of Hydraulic Cement
+Mortar
+C186 Test Method for Heat of Hydration of Hydraulic
+Cement
+C187 Test Method for Amount of Water Required for
+Normal Consistency of Hydraulic Cement Paste
+C188 Test Method for Density of Hydraulic Cement
+C191 Test Methods for Time of Setting of Hydraulic
+Cement by Vicat Needle
+C204 Test Methods for Fineness of Hydraulic Cement by
+Air-Permeability Apparatus
+C219 Terminology Relating to Hydraulic Cement
+C226 Speciﬁcation for Air-Entraining Additions for Use in
+the Manufacture of Air-Entraining Hydraulic Cement
+C227 Test Method for Potential Alkali Reactivity of
+Cement-Aggregate Combinations (Mortar-Bar Method)
+C311 Test Methods for Sampling and Testing Fly Ash or
+Natural Pozzolans for Use in Portland-Cement Concrete
+C430 Test Method for Fineness of Hydraulic Cement by the
+45-µm (No. 325) Sieve
+C465 Speciﬁcation for Processing Additions for Use in the
+Manufacture of Hydraulic Cements
+C563 Test Method for Approximation of Optimum SO
+3in
+Hydraulic Cement Using Compressive Strength
+C688 Speciﬁcation for Functional Additions for Use in
+Hydraulic Cements
+C821 Speciﬁcation for Lime for Use with Pozzolans
+C1012 Test Method for Length Change of Hydraulic-
+Cement Mortars Exposed to a Sulfate Solution
+C1038 Test Method for Expansion of Hydraulic Cement
+Mortar Bars Stored in Water
+C1157 Performance Speciﬁcation for Hydraulic Cement1This speciﬁcation is under the jurisdiction of ASTM Committee C01 on
+Cement and is the direct responsibility of Subcommittee C01.10 on Hydraulic
+Cements for General Concrete Construction.
+Current edition approved April 1, 2011. Published June 2011. Originally
+approved in 1967. Last previous edition approved in 2010 as C595/C595M–10.DOI: 10.1520/C0595_C0595M-11.
+2For referenced ASTM standards, visit the ASTM website, www.astm.org, or
+contact ASTM Customer Service at service@astm.org. For Annual Book of ASTM
+Standards volume information, refer to the standard’s Document Summary page on
+the ASTM website.
+1*A Summary of Changes section appears at the end of this standard.
+Copyright © ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959, United States.
+--- Page Break ---
+IEEE/ASTM SI 10 Standard for Use of the International
+System of Units (SI): the Modern Metric System
+3. Terminology
+3.1 Deﬁnitions —The terms used in this speciﬁcation are
+deﬁned in Terminology C219 , except for the following terms:
+3.1.1 binary blended cement ,n—a blended hydraulic ce-
+ment consisting of portland cement with either a slag cement ora pozzolan.
+3.1.2 ternary blended cement ,n—a blended hydraulic ce-
+ment consisting of portland cement with either a combinationof two different pozzolans, or slag cement and a pozzolan.
+4. Classiﬁcation
+4.1 This speciﬁcation applies to the following types of
+blended cement that generally are intended for use as indicated.
+4.1.1 Blended hydraulic cements for general concrete con-
+struction.
+4.1.1.1 Type IS —Portland blast-furnace slag cement.
+4.1.1.2 Type IP —Portland-pozzolan cement.
+4.1.1.3 Type IT —Ternary blended cement.
+4.2 Reporting :
+4.2.1 The naming practice for blended cements shall be
+made by adding the suffix (X) to the type designation under
+4.1.1 , where (X) equals the targeted percentage of slag or
+pozzolan in the product expressed as a whole number by massof the ﬁnal blended product, within the allowable variation asstated in
+14.3.
+4.2.2 The naming practice for ternary blended cements shall
+be made by adding the suffixes (AX) and (BY) to the Type ITdesignation under
+4.1.1 , where:
+A is either “S” for slag cement, or “P” for pozzolan,
+whichever is present in larger amount by mass, and
+X is the targeted percentage by mass of constituent A, andB is either “S” for slag cement, or “P” for pozzolan, andY is the targeted percentage by mass of constituent B.
+Both X and Y values are expressed as a whole number by
+mass of the ﬁnal blended product, within the allowablevariation as stated in
+14.3. If X and Y are the same, list the
+pozzolan content ﬁrst.
+NOTE 2—Examples of the naming practice per 4.2.1 and4.3are shown
+below (all percentages by mass):
+Binary blended cement with 80 % portland cement and 20 % slag
+cement = Type IS(20).
+Binary blended cement with 85 % portland cement and 15 % pozzolan
+= Type IP(15).
+Ternary blended cement with 70 % portland cement, 20 % slag cementand 10 % pozzolan = Type IT(S20)(P10).
+Ternary blended cement with 65 % portland cement, 25 % of one
+pozzolan and 10 % of another pozzolan = Type IT(P25)(P10).
+Ternary blended cement with 60 % portland cement and 20 % of
+slag cement and 20 % pozzolan = Type IT(P20)(S20).
+4.2.3 A simpliﬁed naming practice is used in this standard
+for practicality and clarity when referring to speciﬁc require-ments for binary and ternary blended cements that are appli-cable to a range of products or in ternary blended cementswhen requirements are applicable to only one constituentwithin a speciﬁc range (%). (See
+Note 3 )
+NOTE 3—Examples of the simpliﬁed naming practices per 4.2.3 are
+shown below:
+1) An example when requirements are applicable to a range of products
+can be found in Table 1 , where the maximum SO3content of 3 % applies
+to: binary blended cements with slag cement contents <70 %, indicated asIS(<70); ternary blended cements with a pozzolan content less than theslag cement content and the slag cement content is less than 70 %,indicated as IT(P<S<70).
+2) An example when requirements are applicable to only one constitu-
+ent within a speciﬁc range (%) of that constituent can be found in
+8.2,
+where testing is required only when the slag cement content is <25 %.Because the requirement is based on the slag cement content only with norelation to the pozzolan content, a simpliﬁed naming practice is employedand the range of ternary blended cements are indicated as Type IT(S<25).
+4.3 Special Properties :
+4.3.1 Air-entraining cement, when desired by the purchaser,
+shall be speciﬁed by adding the suffix (A) to any of the abovetypes. The air-entraining option is speciﬁed in combinationwith any of the other special properties where required.
+NOTE 4—A given mass of blended cement has a larger absolute volume
+than the same mass of portland cement. This should be taken intoconsideration in purchasing cements and in proportioning concrete mix-tures.
+4.3.2 Moderate sulfate resistance or moderate heat of hy-
+dration, or both, when desired by the purchaser, shall bespeciﬁed by adding the suffix (MS) or (MH), respectively, tothe type designation under
+4.1.1 .
+4.3.3 High sulfate resistance, when desired by the pur-
+chaser, shall be speciﬁed by adding the suffix (HS) to the typedesignation under
+4.1.1 .
+NOTE 5—Special characteristics attributable to slag or pozzolan will
+vary based on quantities contained within the blended cements.
+NOTE 6—There are cases where performance of a cement is improved
+with SO3in excess of the Table 1 limits in this speciﬁcation. Test Method
+C563 is one of several methods a manufacturer can use to evaluate the
+effect of sulfate content on cement characteristics. Whenever SO3content
+of a cement exceeds Table 1 limits, Test Method C1038 results provide
+TABLE 1 Chemical Requirements
+Cement TypeAApplicable
+Test
+MethodIS(< 70),
+IT(P<S<70)IS($70),
+IT(S$70)IP ,
+IT(P$S)
+Magnesium oxide (MgO), max, % C114 ... ... 6.0
+Sulfate reported as SO3, max, %BC114 3.0 4.0 4.0
+Sulﬁde reported as S2-, max, % C114 2.0 2.0 ...
+Insoluble residue, max, % C114 1.0 1.0 ...
+Loss on ignition, max, % C114 3.0 4.0 5.0
+AThe chemical requirements in this table are applicable to all air-entrained cement equivalents.
+BIt is permissible to exceed the values in the table for SO3content, provided it has been demonstrated by Test Method C1038 that the cement with the increased SO3
+will not develop expansion exceeding 0.020 % at 14 days. When the manufacturer supplies cement under this provision, supporting data shall be supplie d to the purchaser.
+See Note 6 .
+C595/C595M – 11
+2
+--- Page Break ---
+evidence that excessive expansion does not occur at this higher sulfate
+content.
+4.3.4 Low heat of hydration, when desired by the purchaser,
+shall be speciﬁed by adding the suffix (LH) to the typedesignation under
+4.1.1 .
+5. Ordering Information
+5.1 Orders for material under this speciﬁcation shall include
+the following:
+5.1.1 Speciﬁcation number,5.1.2 Type or types required,5.1.2.1 Indicate allowable slag or pozzolan % maximum or
+minimum, or both, if required.
+5.1.3 Optional special properties required (see
+4.3):
+5.1.3.1 MS if moderate sulfate resistance is required;5.1.3.2 HS if high sulfate resistance is required;5.1.3.3 MH if moderate heat of hydration is required;5.1.3.4 LH if low heat of hydration is required;5.1.3.5 A if air entraining is required;5.1.3.6 Accelerating addition, if required;5.1.3.7 Retarding addition, if required;5.1.3.8 Water reducing addition, if required;5.1.3.9 Water reducing and accelerating addition, if re-
+quired; and
+5.1.3.10 Water reducing and retarding addition, if required.5.1.4 Certiﬁcation, if desired (see Section
+14).
+NOTE 7—It is important to check for availability of various options.
+Some multiple options are mutually incompatible or unattainable.
+6. Materials and Manufacture
+6.1 Blast-Furnace Slag —Blast-Furnace slag shall be the
+nonmetallic product, consisting essentially of silicates andaluminosilicates of calcium and other bases, that is developedin a molten condition simultaneously with iron in a blastfurnace.
+6.2 Granulated Blast-Furnace Slag —Granulated blast-
+furnace slag shall be the glassy granular material formed whenmolten blast-furnace slag is rapidly chilled, as by immersion inwater.
+6.3 Slag Cement —See Terminology
+C219 .
+6.4 Portland Cement —See Terminology C219 . For pur-
+poses of this speciﬁcation, portland cement meeting the re-quirements of Speciﬁcation
+C1157 or Speciﬁcation C150 are
+suitable. Portland cement or other hydraulic materials, or both,containing high free lime are not prohibited from use as long asthe autoclave test limits for the blended cement are met.
+6.5 Portland Cement Clinker —Portland cement clinker
+shall be partially fused clinker consisting primarily of hydrau-lic calcium silicates.
+6.6 Pozzolan —Pozzolan shall be a siliceous or siliceous and
+aluminous material, which in itself possesses little or nocementitious value but which will, in ﬁnely divided form andin the presence of moisture, chemically react with calciumhydroxide at ordinary temperatures to form compounds pos-sessing cementitious properties.
+6.7 Hydrated Lime —Hydrated lime used as part of a
+blended cement shall meet the requirements of Speciﬁcation
+C821 , except that when interground in the production process
+there shall be no minimum ﬁneness requirement.6.8 Air-Entraining Addition —When air-entraining cement
+is speciﬁed, an addition meeting the requirements of Speciﬁ-cation
+C226 shall be used.
+6.9 When processing additions are used in the manufacture
+of cement, they shall have been shown to meet the require-ments of Speciﬁcation
+C465 in the amounts used or greater,
+(see Section 14.2).
+6.10 When functional additions (used at the sole option of
+the purchaser) are used they shall have been shown to meet therequirements of Speciﬁcation
+C688 when tested with the
+cement to be used, in the amount used or greater, (see Section
+14.2).
+6.11 Other Additions —The cement covered by this speciﬁ-
+cation shall contain no additions except as provided for aboveexcept that water or calcium sulfate (see Terminology
+C219 ),
+or both, if added, shall be in amounts so that the limits shownin
+Table 1 for sulfate reported as SO3and loss on ignition are
+not exceeded.
+6.12 Binary Blended Cement —Binary blended cement shall
+be a hydraulic cement consisting of an intimate and uniformblend (see
+Note 8 ) produced either by intergrinding portland
+cement clinker with a pozzolan or a granulated blast-furnaceslag, or a slag cement, or by blending portland cement with apozzolan or a slag cement, or a combination of intergrindingand blending. Any granulated blast-furnace slag, slag cement,or pozzolan used as an ingredient or addition in portlandcement used to manufacture a binary blended cement shall beincluded in the total amount of those materials reported in
+4.2
+or14.1. The maximum constituent requirements of 6.14 and
+6.16 shall apply.
+6.13 Ternary Blended Cement —Ternary blended cement
+shall be a hydraulic cement consisting of an intimate anduniform blend (see
+Note 8 ) produced either by intergrinding
+portland cement clinker with 1) two different pozzolans, 2)granulated blast-furnace slag or slag cement and a pozzolan; orby blending portland cement with 1) two different pozzolans or2) slag cement and a pozzolan, or 3) a combination ofintergrinding and blending. Any granulated blast-furnace slag,slag cement, or pozzolan used as an ingredient or addition inportland cement used to manufacture a ternary blended cementshall be included in the total amount of those materials reportedin
+4.2 or14.1. Ternary cement type IT(P $S) and Type
+IT(P<S<70) shall have a maximum pozzolan content of 40 %by mass of the blended cement and the total content ofpozzolan and granulated blast-furnace slag or slag cement shallbe less than 70 % by mass of the blended cement.
+6.14 Portland Blast-Furnace Slag Cement —Portland blast-
+furnace slag cement shall be a hydraulic cement in which theslag cement constituent is up to 95 % by mass of the blendedcement. Binary or ternary blended cement with a slag cementcontent equal to or exceeding 70 % by mass, is permitted tocontain hydrated lime.
+NOTE 8—The attainment of an intimate and uniform blend of two or
+more types of ﬁne materials is difficult. Consequently, adequate equipmentand controls must be provided by the manufacturer. The purchasers shouldassure themselves of the adequacy of the blending operation.
+6.15 Air-Entraining Portland Blast-Furnace Slag Cement —
+Air-entraining portland blast-furnace slag cement shall be
+C595/C595M – 11
+3
+--- Page Break ---
+portland blast-furnace slag cement to which sufficient air-
+entraining addition has been added so that the resulting productcomplies with the air content of mortar requirements.
+6.16 Portland-Pozzolan Cement —Portland-pozzolan ce-
+ment shall be a hydraulic cement in which the pozzolanconstituent is up to 40 % by mass of the blended cement.
+6.17 Air-Entraining Portland-Pozzolan Cement —Air-
+entraining portland-pozzolan cement shall be portland-pozzolan cement to which sufficient air-entraining addition hasbeen added so that the resulting product complies with the aircontent of mortar requirements.
+7. Chemical Composition
+7.1 Cement of the type speciﬁed shall conform to the
+applicable chemical requirements prescribed in
+Table 1 .
+7.2 If the purchaser has requested the manufacturer to state
+in writing the composition of the blended cement purchased,the composition of the cement furnished shall conform to thatshown in the statement within the following tolerances (see
+Note 9 ).
+Tolerance, 6%
+Silicon dioxide (SiO2)3
+Aluminum oxide (Al2O3)2
+Calcium oxide (CaO) 3
+NOTE 9—This means that if the manufacturer’s statement of the
+composition says “SiO2: 32 %,” the cement when analyzed, shall be found
+to contain between 29 and 35 % SiO2.
+8. Physical Properties
+8.1 Blended Cement —Blended cement of the type speciﬁed
+shall conform to the applicable physical requirements pre-scribed in
+Table 2 .
+8.2 Pozzolan or Slag —Pozzolan or granulated blast-furnace
+slag or slag cement that is to be blended with cement shall betested in the same state of subdivision as that in which it is tobe blended. Pozzolan shall conform to the ﬁneness requirementand the activity index requirement of
+Table 3 . Slag cement that
+is to be used for portland blast-furnace slag cements TypeIS(< 25) or ternary blended cements Type IT(S<25) shallconform to the activity index requirement of
+Table 3 . Such
+pozzolan, or granulated blast-furnace slag, or slag cement thatis to be interground with portland cement clinker shall, beforetesting for conformance with requirements of
+Table 3 ,b e
+ground in the laboratory to a ﬁneness at which it is believed tobe present in the ﬁnished cement. It is the manufacturer’sresponsibility to decide on the ﬁneness at which the testing isto be carried out, and when requested to do so by a purchaser,to report the information upon which the decision was based.
+8.3 Pozzolan for use in the manufacture of portland-
+pozzolan cement, Type IP(< 15) and IP(< 15)-A or ternaryblended cements Type IT(P<15) and Type IT(P<15)-A, shallmeet the requirements of
+Table 3 when tested for mortar
+expansion of pozzolan as described in 10.1.13 . If the alkali
+content of the clinker to be used for the production lots changesby more than 0.2 % total as equivalent Na
+2O, calculated as
+Na2O + 0.658 K2O, from that of the clinker with which the
+acceptance tests were carried out, the pozzolan shall be retestedto show compliance with the requirements of
+Table 3 .9. Sampling
+9.1 Sample the materials in accordance with the following
+methods:
+9.1.1 Sampling Blended Cements —Practice C183 .
+9.1.1.1 When the purchaser desires that the cement be
+sampled and tested to verify compliance with this speciﬁcation,perform sampling and testing in accordance with Practice
+C183 .
+9.1.1.2 Practice C183 is not designed for manufacturing
+quality control and is not required for manufacturer’s certiﬁ-cation.
+9.1.2 Sampling Pozzolan —Test Methods
+C311 .O n e2k g[ 4
+lb] sample shall be taken from approximately each 360 Mg[400 tons] of pozzolan.
+10. Test Methods
+10.1 Determine the applicable properties enumerated in this
+speciﬁcation in accordance with the following test methods:
+10.1.1 Chemical Analysis —Test Methods
+C114 , with the
+special provisions noted therein applicable to blended cementanalyses.
+10.1.2 Fineness by Sieving —Test Method
+C430 .
+10.1.3 Fineness by Air-Permeability Apparatus —Test
+Method C204 .
+10.1.4 Autoclave Expansion —Test Method C151 , except
+that, in the case of portland blast-furnace slag cement IS( $70)
+or ternary blended cement IT(S $70), the test specimens shall
+remain in the moist cabinet for a period of 48 h before beingmeasured for length, and the neat cement shall be mixed for notless than 3 min nor more than 3
+1⁄2min.
+10.1.5 Time of Setting —Test Method C191 .
+10.1.6 Air Content of Mortar —Test Method C185 , using the
+actual speciﬁc gravity of the cement, if it differs from 3.15 bymore than 0.05, in calculating the air content.
+10.1.7 Compressive Strength —Test Method
+C109/C109M .
+10.1.8 Heat of Hydration —Test Method C186 .
+10.1.9 Normal Consistency —Test Method C187 , except
+that in the case of portland blast-furnace slag cement IS( $70)
+or ternary blended cement IT(S $70), the paste shall be mixed
+for not less than 3 min nor more than 31⁄2min.
+10.1.10 Speciﬁc Gravity —Test Method C188 .
+10.1.11 Water Requirement —The mass of mixing water
+added to the six-cube batch in accordance with Test Method
+C109/C109M , as a percentage of the total cementing ingredi-
+ents.
+10.1.12 Mortar Expansion of Blended Cement —Test
+Method C227 , using crushed Pyrex glass No. 77403as aggre-
+gate and the grading prescribed in Table 4 .
+10.1.13 Mortar Expansion of Pozzolan for Use in Portland-
+Pozzolan Cement Types IP(< 15) and IP(< 15)-A or TernaryBlended Cement Types IT(P<15) and IT(P<15)-A —Using the
+pozzolan and the clinker or cement that are to be used together
+3Pyrex Glass No. 7740 is available as lump cullet from the Corning Glass
+Works, Corning, NY; this is the sole source of supply of the apparatus known to thecommittee at this time. If you are aware of alternative suppliers, please provide thisinformation to ASTM International Headquarters. Your comments will receivecareful consideration at a meeting of the responsible technical committee,
+1which
+you may attend.
+C595/C595M – 11
+4
+--- Page Break ---
+TABLE 2 Physical Requirements
+Cement TypeA Applicable
+Test MethodIS(< 70),
+IT(P<S<70),IP ,IT(P$S)IS(< 70) (MS),
+IT(P<S<70) (MS),IP (MS),IT(P$S) (MS)IS(< 70) (HS),
+IT(P<S<70) (HS),IP (HS),IT(P$S) (HS)IS($70),
+IT(S$70)IP (LH),
+B
+IT(P$S) (LH)B
+Fineness C204 ,C430CC C C C
+Autoclave expansion, max, % C151 0.80 0.80 0.80 0.80 0.80
+Autoclave contraction, max, %DC151 0.20 0.20 0.20 0.20 0.20
+Time of setting, Vicat test:EC191
+Set, minutes, not less than
+Set, hours, not more than45
+745
+745
+745
+745
+7
+Air content of mortar, volume %, maxAC185 12 12 12 12 12
+Compressive strength, minA, MPa [psi]: C109/C109M
+3 days 13.0 [1890] 11.0 [1600] 11.0 [1600] ... ...7 days 20.0 [2900] 18.0 [2610] 18.0 [2610] 5.0 [720] 11.0 [1600]
+28 days 25.0 [3620] 25.0 [3620] 25.0 [3620] 11.0 [1600] 21.0 [3050]
+Heat of hydration, max, kJ/kg [cal/g]:
+C186
+7 days 290 [70]F290 [70]F290 [70]F... 250 [60]
+28 days 330 [80]F330 [80]F330 [80]F... 290 [70]
+Water requirement, max weight % of cement
+Drying shrinkage, max, %Mortar expansion, max, %:
+GC109/C109MC157/C157MC227 .........
+......
+......
+...64
+0.15
+14 days
+8 weeks0.020
+0.0600.020
+0.0600.020
+0.0600.020
+0.0600.020
+0.060
+Sulfate resistance, max, %:
+H
+Expansion at 180 daysC1012
+... 0.10 0.05 ... ...I
+Expansion at 1 year ... ... 0.10 ... ...I
+AAir-entrained cements shall have a mortar air content of 19 63 % by volume and the minimum compressive strength shall be no less than 80 % of the comparable non-air-entrained cement type.
+BApplicable only when higher strengths at early ages are not required or when low heat is required.
+CBoth amount retained when wet sieved on 45-µm (No. 325) sieve and speciﬁc surface by air permeability apparatus, m2/kg, shall be reported on all mill test reports requested under 14.4 .
+DThe specimens shall remain ﬁrm and hard and show no signs of distortion, cracking, checking, pitting, or disintegration when subjected to the autocla ve expansion test.
+ETime of setting refers to initial setting time in Test Method C191 . The time of setting of cements containing a user-requested accelerating or retarding functional addition need not meet the limits of this table, but shall
+be stated by the manufacturer.
+FApplicable only when moderate heat of hydration (MH) is speciﬁed, in which case the strength requirements shall be 80 % of the values shown in the table.
+GThe test for mortar expansion is an optional requirement to be applied only at the purchaser’s request and is not required unless the cement will be used with alkali-reactive aggregate.
+HIn the testing of HS cement, testing at one year shall not be required when the cement meets the 180-day limit. An HS cement failing the 180-day limit shal l not be rejected unless it also fails the one-year limit.
+IIf speciﬁcally invoked, the optional sulfate resistance criterion that applies for MS is a maximum of 0.10% expansion at 180 days and for HS is a maximum of 0.05% expansion at 180 days or a maximum of 0.10%
+expansion at one year (see Footnote H).
+C595/C595M – 11
+5
+--- Page Break ---
+in the production of the blended cement, prepare portland-
+pozzolan cements Types IP(< 15) and IP(< 15)-A or TernaryBlended Cement Types IT(P<15) and IT(P<15)-A containing2.5, 5, 7.5, 10, 12.5, and 15 mass % of the pozzolan. Theseblends shall be tested in accordance with Test Method
+C227
+using a sand judged to be a nonreactive by the mortar bar testin Test Method
+C227 . The expansion of the mortar bars shall be
+measured at 91 days, and all the six blends shall meet theexpansion requirement in
+Table 3 .
+10.1.14 Drying Shrinkage —Test Method C157/C157M .
+Make three specimens using the proportion of dry materials of1 part of cement to 2.75 parts of Test Method
+C109/C109M
+graded Ottawa sand. Use a curing period of 6 days and an airstorage period of 28 days. Report the linear contraction duringair storage based on an initial measurement after the 6-daywater-curing period.
+10.1.15 Activity Index with Portland Cement —Test in ac-
+cordance with
+Annex A1 .
+10.1.16 Sulfate Resistance —see Test Method C1012 .
+11. Testing Time Requirements
+11.1 The following periods from time of sampling shall be
+allowed for the completion of testing:
+3-day test 8 days
+7-day test 12 days
+14-day test 19 days28-day test 33 days
+8-week test 61 days
+12. Inspection
+12.1 Facilities shall be provided to the purchaser for careful
+inspection and sampling of the ﬁnished cement. Inspection andsampling of ﬁnished cement shall be at the mill or distributionsite controlled by the manufacturer, or at any other location asagreed by the purchaser and seller.
+12.2 The manufacturer shall provide suitable facilities to
+enable the inspector to check the relative masses of theconstituents used, and the intergrinding or blending operationused to produce the cement. The plant facilities for intergrind-ing or blending and inspection shall be adequate to ensurecompliance with the provisions of this speciﬁcation.
+13. Rejection
+13.1 At the option of the purchaser, cement shall be rejected
+if it fails to meet any of the requirements of this speciﬁcationapplicable to the cement. Such rejection shall apply to an
+optional requirement only if that option has been invoked forthe cement.
+13.2 When the purchaser requires, cement in bulk storage
+for a period greater than six months shall be resampled andretested and, at the option of the purchaser, shall be rejected ifit fails to meet any of the applicable requirements of thisspeciﬁcation. Cement so rejected shall be the responsibility ofthe owner of record at the time of sampling for retest.
+13.3 When the purchaser requires, packages more than 2 %
+below the mass marked thereon shall be rejected; or if theaverage mass of packages in any shipment, as shown bydetermining the mass of 50 packages taken at random, is lessthan that marked on the packages, the entire shipment, at theoption of the purchaser, shall be rejected.
+14. Certiﬁcation
+14.1 At the request of the purchaser, the manufacturer shall
+state in writing the source, amount, and composition of theessential constituents used in manufacture of the ﬁnishedcement and the composition of the blended cement purchased.
+14.2 At the request of the purchaser, the manufacturer shall
+state in writing the nature, amount, and identity of anyprocessing, functional, or air-entraining addition used; andalso, if requested, shall supply test data showing compliance ofany such processing addition with the provisions of Speciﬁca-tion
+C465 and of any such functional addition with the
+provisions of Speciﬁcation C688 , and of any such air-
+entraining addition with the provisions of Speciﬁcation C226 .
+14.3 At the request of the purchaser, the manufacturer shall
+also state in writing that the amount of pozzolan or slag in theﬁnished cement will not vary more than 65.0 mass % of the
+ﬁnished cement from lot to lot or within a lot.
+14.4 Upon request of the purchaser in the contract or order,
+a manufacturer’s certiﬁcation shall be furnished indicating thatthe material was tested during production or transfer inaccordance with this speciﬁcation, that it complies with thisspeciﬁcation, and a report of the test results shall be furnishedat the time of shipment (to include both amount retained on the45-µm (No. 325) sieve and speciﬁc surface by the air perme-ability method).
+15. Packaging and Package Marking
+15.1 When the cement is delivered in packages, the words,
+“portland blast-furnace slag cement,” “portland-pozzolan ce-ment,” or “ternary blended cement” as appropriate; the type ofcement, name and brand of the manufacturer, and the mass ofthe cement contained therein, shall be plainly marked on eachTABLE 3 Requirements for Pozzolan for Use in Blended
+Cements and for Slag for Use in Portland Blast-Furnace Slag
+Cement Type IS(< 25) and Ternary Blended Cement Type IT(S<25)
+Pozzolan and Slag,
+as applicableApplicable
+Test
+Method
+Fineness: C430
+Amount retained when wet-sieved on 45-µm
+(No. 325) sieve, max, % 20.0
+Alkali reactivity of pozzolan for use in Types C227
+IP(< 15); IT(P<15) and IP(< 15)-A; IT(P<15)-A cements, six
+tests, mortar bar
+expansion at 91 days, max, % 0.05
+Activity index with portland cement, at 28 days,
+min, %(see
+Annex
+A1)7 5
+TABLE 4 Aggregate Grading Requirements for Mortar Expansion
+Test
+Sieve Size
+Weight %
+Passing Retained on
+4.75-mm (No. 4) 2.36-mm (No. 8) 10
+2.36-mm (No. 8) 1.18-mm (No 16) 25
+1.18-mm (No. 16) 600-µm (No. 30) 25
+600-µm (No. 30) 300-µm (No. 50) 25300-µm (No. 50) 150-µm (No. 100) 15
+C595/C595M – 11
+6
+--- Page Break ---
+package. When the cement contains a functional addition listed
+in5.1.3.5-5.1.3.10 , the type of functional addition shall be
+plainly marked on each package. Similar information shall beprovided in the shipping documents accompanying the ship-ment of packaged or bulk cement. All packages shall be ingood condition at the time of inspection.
+16. Storage
+16.1 The cement shall be stored in such a manner as to
+permit easy access for proper inspection and identiﬁcation ofeach shipment, and in a suitable weathertight building that will
+protect the cement from dampness and minimize warehouseset.
+17. Keywords
+17.1 blended hydraulic cement; ﬂy ash cement; hydraulic
+cement; portland blast-furnace slag cement; portland pozzolancement; pozzolanic cement; slag; granulated blast furnace slag
+ANNEX
+(Mandatory Information)
+A1. ACTIVITY INDEX WITH PORTLAND CEMENT
+A1.1 Specimen Preparation
+A1.1.1 Mold, cure, and test the specimens from a control
+mix and from a test mix in accordance with Test Method
+C109/C109M . The portland cement used in the control mix
+shall meet the requirements of Speciﬁcation C150 , and shall be
+the type, and if available, the brand of cement to be used in thework. Make three-cube batches as follows: (For 6- or 9-cubebatches, double or triple, respectively, the amounts of dryingredients.)
+A1.1.1.1 Control Mix :
+250 g of portland cement687.5 g of graded Ottawa sandX mL of water required for ﬂow of 100 to 115
+A1.1.1.2 Pozzolan Test Mix :
+162.5 g of portland cementg of pozzolan:87.5 3sp gr of the sample/sp gr of the portland cement
+687.5 g of graded Ottawa sandY mL of water required for ﬂow of 100 to 115
+A1.1.1.3 Slag Test Mix :
+75 g of portland cementg of slag:175 3sp gr of the slag/sp gr of the portland cement
+687.5 g of graded Ottawa sandZ mL of water required for ﬂow of 100 to 115
+A1.2 Storage of Specimens
+A1.2.1 After molding, place the specimens and molds (on
+the base plates) in the moist room or closet at 23.0 62.0 °C
+[73.5 63.5 °F] for 20 to 24 h. While in the moist room or
+closet, protect the surface from dripping water. Remove themolds from the moist room or closet and remove the cubesfrom the molds. Place the cubes in close-ﬁtting metal or glasscontainers (
+Note A1.1 ), seal the containers airtight, and store at
+38.0 62.0 °C [100.0 63.5 °F] for 27 days. Allow the
+specimens to cool to 23.0 62.0 °C [73.5 63.5 °F] before
+testing.
+NOTE A1.1—Use any metal container having a capacity of three cubes
+if it can be sealed airtight by soldering. Containers of light-tinned sheetmetal with inside dimensions of 52 by 52 by 160 mm [2 by 2 by 6.25 in.]
+have been found to be satisfactory. Wide-mouth Mason jars of 1-Lcapacity have been found to be satisfactory, provided care is taken toprevent breakage.
+(Warning —Fresh hydraulic cementitious mixtures are caustic and may
+cause chemical burns to skin and tissue upon prolonged exposure.)
+4
+A1.3 Compressive Strength Test
+A1.3.1 Determine the compressive strength of the three
+specimens of the control mix and of the test mix at an age of28 days in accordance with Test Method
+C109/C109M .
+A1.4 Calculation
+A1.4.1 Calculate the activity index with portland cement as
+follows:
+Activity index with portland cement 5 ~A/B!3100 (A1.1)
+where:
+A= average compressive strength of test mix cubes, MPa,
+and
+B= average compressive strength of control mix cubes,
+MPa.
+A1.5 Precision and Bias
+A1.5.1 Precision —Single operator precision, on blended
+cements using ﬂy ash is essentially the same as on ﬂyash/cement blends in Research Report C09-1001
+5and it was
+found to have 3.8 % coefficient of variation (1s %). Thisindicates that results of two properly conducted tests by thesame operator are not expected to differ by more than 10.7 %(d2s) of the average of two results. Since the test is performedsolely for the purpose of manufacturer certiﬁcation of rawmaterial quality, no multilaboratory precision is applicable.
+A1.5.2 Bias—Since there are no standard reference materi-
+als, bias cannot be determined.
+4Section on Safety, Manual of Cement Testing, Annual Book of ASTM
+Standards , V ol 04.01.
+5Supporting data have been ﬁled at ASTM International Headquarters and may
+be obtained by requesting Research Report RR:C09-1001.
+C595/C595M – 11
+7
+--- Page Break ---
+SUMMARY OF CHANGES
+Committee C01 has identiﬁed the location of selected changes to this standard since the last issue
+(C595/C595M–10) that may impact the use of this standard. (Approved April 1, 2011.)
+(1) Revised Footnote B in Table 1 .
+(2) Added Note 6 .(3) Revised Table 2 .
+(4) Revised 6.12 and6.13.
+Committee C01 has identiﬁed the location of selected changes to this speciﬁcation since the last issue,
+C595/C595M–09, that may impact the use of this speciﬁcation. (Approved April 1, 2010)
+(1) Revised 4.2.2 ,Note 2 ,6.13,Table 1 , and Table 2 .
+Committee C01 has identiﬁed the location of selected changes to this speciﬁcation since the last issue,
+C595–08a, that may impact the use of this speciﬁcation. (Approved June 15, 2009)
+(1) Revised Sections 3,4,6,8,10,15, and Tables 1-3 .( 2) Revised the standard as a dual-units speciﬁcation.
+Committee C01 has identiﬁed the location of selected changes to this speciﬁcation since the last issue,
+C595–08, that may impact the use of this speciﬁcation. (Approved December 15, 2008)
+(1) Revised 6.10.
+(2) Deleted old Note 5 and renumbered subsequent notes.(3) Revised the “IP(LH)” value for “Compressive strength,
+min: 28 days” in Table 2 .
+ASTM International takes no position respecting the validity of any patent rights asserted in connection with any item mentioned
+in this standard. Users of this standard are expressly advised that determination of the validity of any such patent rights, and the riskof infringement of such rights, are entirely their own responsibility.
+This standard is subject to revision at any time by the responsible technical committee and must be reviewed every ﬁve years and
+if not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standardsand should be addressed to ASTM International Headquarters. Your comments will receive careful consideration at a meeting of theresponsible technical committee, which you may attend. If you feel that your comments have not received a fair hearing you shouldmake your views known to the ASTM Committee on Standards, at the address shown below.
+This standard is copyrighted by ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959,
+United States. Individual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the aboveaddress or at 610-832-9585 (phone), 610-832-9555 (fax), or service@astm.org (e-mail); or through the ASTM website(www.astm.org). Permission rights to photocopy the standard may also be secured from the ASTM website (www.astm.org/COPYRIGHT/).
+C595/C595M – 11
+8
+--- Page Break ---

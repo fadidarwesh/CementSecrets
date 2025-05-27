@@ -1,0 +1,2447 @@
+Cements and Materials 
+for Well Cementing
+API SPECIFICATION 10A
+TWENTY-FIFTH EDITION, MARCH 2019
+API MONOGRAM PROGRAM EFFECT IVE DATE: SEPTEMBER 2019
+ADDENDUM 1, NOVEMBER 2019
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+Special Notes
+API publications necessarily address problems of a general natu re. With respect to particu lar circumstances, local,
+state, and federal l aws and regulations s hould be reviewed.
+Neither API nor any of API's em ployees, subcontractors, consult ants, committees, or other assignees make any
+warranty or representation, either  express or implied, with res pect to the accuracy, completeness, or usefulness of the
+information contained herein, or assume any liability or respon sibility for any use, or the results of such use, of any
+information or process disclos ed in this publication. Neither A PI nor any of API's employees, subcontractors,
+consultants, or other assignees  represent that use of this publ ication would not infringe upon privately owned rights.
+API publications may be used by anyone desiring to do so. Every  effort has been made by the Institute to assure the
+accuracy and reliability of t he data contained in them; however , the Institute makes no r epresentation, warranty, or
+guarantee in connection with this publication and hereby expres sly disclaims any liability or responsibility for loss or
+damage resulting from its use or for the violation of any autho rities having jurisdiction wi th which this publication may
+conflict.
+API publications are published to facilitate the broad availabi lity of proven, sound engineering and operating
+practices. These publications are not intended to obviate the n eed for applying sound engineering judgment
+regarding when and where thes e publications should be utilized.  The formulation and publication of API publications
+is not intended in any  way to inhibit any one from using any oth er practices. 
+Any manufacturer marking equipment or materials in conformance with the marking requirements of an API standard
+is solely responsible for compl ying with all the applicable req uirements of that standard.  API does not represent,
+warrant, or guarantee that such products do in fact conform to the applicable API standard.
+Classified areas may vary depending on the location, conditions , equipment, and substances involved in any given
+situation. Users of this specif ication should c onsult with the appropriate authorities  having jurisdiction.
+Users of this specif ication should not rel y exclusively on the information contained in thi s document. Sound business,
+scientific, engineering, and sa fety judgment should be used in employing the informa tion contained herein.
+All rights reserved. No part o f this work may be reproduced, tr anslated, stored in a retrieval  system, or transmitted by any m eans, 
+electronic, mechanical, photocopy ing, recording, or otherwise, without prior written permissio n from the publisher. Contact th e 
+Publisher, API Publishing Serv ices, 200 Massachusetts Avenue, N W, Suite 1100, Washington, DC 20001.
+Copyright © 2019 American Petroleum Institute
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+Foreword
+Nothing contained in any API publication is to be construed as granting any right, by implication or otherwise, for the
+manufacture, sale, or use of any method, apparatus, or product covered by letters patent. Neither should anything
+contained in the publication be c onstrued as insuring anyone ag ainst liability for infr ingement of letters patent.
+The verbal forms used to express  the provisions i n this recomme nded practice are as follows:
+— the term “shall” denotes a minim um requirement in order to con form to the specification;
+— the term “should” denotes a recommendation or that which is ad vised but not required in order to conform to the
+specification;
+— the term “may” is used to express  permission or  a provision th at is optional; and
+— the term “can” is used to expre ss possibility or capability.
+This document was produced under  API standardization procedures  that ensure appropriate notification and
+participation in the development al process and is designated as  an API standard. Questions concerning the
+interpretation of the content of this publication or comments a nd questions concerning the procedures under which
+this publication was developed s hould be directed in writing to  the Director of Standards, American Petroleum
+Institute, 200 Massachusetts A venue, NW, Suite 1100, Washington , DC 20001. Requests for permission to reproduce
+or translate all or any part o f the material published herein s hould also be addressed to the director.
+For API Monogram Program licens ees and APIQR Program registrant s, this standard shall become effective on the
+program date printed on the cove r but may be used voluntarily f rom the date of publication.
+Generally, API standards are rev iewed and revised, reaffirmed, or withdrawn at least every five years. A one-time
+extension of up to t wo years may be added to  this review cycle.  Status of the publication c an be ascertained from the
+API Standards Department, telephone (202) 682-8000. A catalog o f API publications and materials is published
+annually by API, 200 Massachusetts  Avenue, NW, Suite 1100, Wash ington, DC 20001.
+Suggested revisions are invited and should be submitted to the Standards Department, API, 200 Massachusetts
+Avenue, NW, Suite 1100,  Washington, DC 20001, standards@api.org .
+iii
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+Contents
+Page
+1 Scope . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1.1 General. . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1.2 Application of the API M onogram . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . 1
+1.3 Use of Metric SI and US C ustomary Units  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . 1
+2 Normative References  . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+3 Terms, Definitions, Acronyms, and Abbreviations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . 2
+3.1 Terms and Definitions  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . 2
+3.2 Acronyms and Abbreviations  . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+4 Requirements  . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+4.1 Specification, Chemical, and Ph ysical Requirements. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . 4
+4.2 Sampling Frequency, Timing of  Tests, and Equipment  . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+5 Sampling Procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . 10
+6 Fineness Tests  . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+6.1 Procedure  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . 10
+6.2 Requirements  . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+7 Preparation of Slurry for Free-fluid, Compressive Strength and   Thickening-time Tests . . . . . . . . . . 11
+7.1 Apparatus  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . 11
+7.2 Procedure  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . 12
+8 Free-fluid Test (free-water). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . 13
+8.1 Apparatus  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . 13
+8.2 Calibration . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+8.3 Procedure  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . 19
+8.4 Calculation of Percent Free-Fluid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . 19
+8.5 Acceptance Requirements . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+9 Compressive Strength Test s . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . 20
+9.1 Apparatus  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . 20
+9.2 Procedure  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . 22
+9.3 Test Procedure  . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+9.4 Compressive Strength Accep tance Criteria . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . 24
+10 Thickening-time Tests  . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+10.1 Apparatus  . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+10.2 Calibration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . 31
+10.3 Procedure  . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+10.4 Thickening-time and Consistency. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . 37
+10.5 Specification Ac ceptance Requirements . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+11 Marking  . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+12 Packing  . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+13 Bentonite . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+v
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+Contents
+Page
+Annex A (informative) API Monogr am Program—Use of the API Monog ram by Licensees  . . . . . . . . . . . . 40
+Annex B (normative) Composite Well Cements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . 44
+Annex C (normative) Calibration and Verification  of Well Cement  Testing Equipment . . . . . . . . . . . . . . . . 49
+Annex D (informative) Calibration Procedures for Thermocouples,  
+Temperature-measuring Systems,  and Controllers. . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+Bibliography . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . 66
+Figures
+1 Example of a Typical Cement-Mixing Device . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+2 Common Blade Assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . 12
+3 Container Assembly for an Atmospheric Pressure Consistometer  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+4 Typical Lid and Mechanism for an Atmospheric Pressure Consisto meter  . . . . . . . . . . . . . . . . . . . . . . . . 15
+5 Slurry Container for an Atmospheric Pressure Consistometer. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16
+6 Paddle for an Atmospheric Pressu re Consistometer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . 17
+7 Typical Conical 500-mL Flask for Free-fluid Measurement  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . 18
+8 Typical Gear Drive Consistomete r for Pressurized Specification  Thickening-time Test  . .  . . . . . . . . . . . 26
+9 Typical Magnetic Drive Consis tometer for Pressurized Specifica tion Thickening-time Test  . . . . . . . . . 27
+10 Slurry Container Assembly for a Pressurized Consistometer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . 28
+11 Slurry Container Assembly for a High-temperature Pressurized Consistometer . . . . . . . . . . . . . . . . . . . 29
+12 Paddle for a Pressurized Slurry  Container. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . 30
+13 Paddle Shaft for a Pressurized Slurry Container. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . 31
+14 Typical Potentiometer Mechanism for a Pressurized Consistomet er. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+C.1 Worn Blade Compared to a New One . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . 56
+C.2 Common Calibrating Device for Pressurized Consistometer Pote ntiometer  . . . . . . . . . . . . . . . . . . . . . . 60
+Tables
+1 Chemical Requirements . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+2 Summary of Physical and Performance Requirements . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+3 Specification Test Equipment for Well-Cement Manufacturers. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+4 Slurry Requirement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . 13
+5 Dimensions for a 500-mL Conical Flask without Caps or Stoppers  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+6 Dimensions for 50-mm and 2-in. Cube-molds in Use . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . 20
+7 Specification Schedules for Pressurized Curing of Class D Ceme nt Specimens. . . . . . . . . . . . . . . . . . . 23
+8 Compressive Strength Specificatio n Requirements. . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+9 Schedule 4: Specification Thickening-time Test for Classes A, B, C, and D Cement . . . . . . . . . . . . . . . . 36
+10 Schedule 5: Specification Thickening-time Test for Classes G and H Cement . . . . . . . . . . . . . . . . . . . . . 36
+11 Schedule 6: Specification Thickening-time Test for Class D Ce ment. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 7
+12 Thickening-time Acceptance Requi rement  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . 38
+B.1 Physical and Performance Requirements for Composite Well Cem ents . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+C.1 Equipment Calibration Requirements. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . 50
+C.2 Verification and Calibration of Well Cement Testing Equipmen t. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+C.3 Permissible Variation in Mass of Reference Weights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . 55
+C.4 Slurry Consistency vs Equivalent Torque (for Potentiometer w ith Radius of 52 mm ±1 mm). . . . . . . . . 61
+C.5 Density of Distilled Water as a Function of Temperature . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+vi
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+Introduction
+It is necessary that users of th is specification be aware that further or differing requirements can be required for
+individual applications. This s pecification is not intended to inhibit a vendor from offering, or the purchaser from
+accepting, alternative equipment  or engineering solutions for t he individual application. T his can be particularly
+applicable where there is innov ative or developing technology. Where an alternative is offered, it is the responsibility
+of the vendor to identif y any variations fro m this specificatio n and provide details.
+In this specification, where prac tical, US Customary (USC) unit s are included in brackets for information. The units do
+not necessarily represent a direc t conversion of SI to USC unit s, or USC to SI units. Cons ideration has been given to
+the precision of the instrument m aking the measurement. For exa mple, thermometers are typically marked in 1°
+increments, thus temperature  values have been rounded to the ne arest degree.
+In this specification, calibra ting an instrument refers to assu ring the accuracy of the measurement. Accuracy is the
+degree of conformity of a measurement of a quantity to its actu al or true value. Accuracy is related to precision, or
+reproducibility, of a measurement. Precision is the degree to w hich further measurements or calculations will show
+the same or similar results. Precision is characterized in term s of the standard deviation of the measurement. The
+results of calculations or a measurement can be accurate, but n ot precise, precise but not a ccurate, neither or both. A
+result is valid i f it is both accu rate and precise.
+viii
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+ 
+ 
+Cements and Materials for Well Cementing 
+1 Scope 
+1.1 General 
+This document specifies requirements and gives recommendations for six classes of well cements, and two 
+classes of composite well cements including their chemical and physical requirements, and procedures for 
+physical testing.  
+This specification is  applicable to well ce ment classes A, B, C , and D, which are the products obtained by grinding 
+Portland cement clinker and, if needed, calcium sulfate (CaSO 4) as an interground additive. Processing additives 
+can be used in the manufacture of cement of these classes. Suit able set-modifying agents can be interground or 
+blended during the manufacture of Class D cement. Annex B descr ibes composite well cement classes K and L, 
+which are the products obtained by intergrinding Portland cemen t clinker and one or more forms of CaSO 4 with 
+composite constituents, or by subsequent blending of separately  produced Portland cement with separately 
+processed composite constituent s. Composite constituents are al so specified in Annex B. 
+This specification is also applicable to well cement classes G and H, which are the products obtained by grinding 
+clinker with no additives other than one or more forms of CaSO 4, water, or chemical additives as required for 
+chromium (VI) reduction. 
+1.2 Application of the API Monogram 
+When product is manufactured at a facility licensed by API and is intended to be supplied bearing the 
+API Monogram, the requirements of Annex A shall apply. 
+1.3 Use of Metric SI and US Customary Units 
+This document contains metric SI and US customary oilfield unit s. For the purposes of this document, the 
+conversion between the systems is not exact and has been intent ionally rounded to allow for ease of use in 
+calibration and measurement. 
+2 Normative References 
+The following referenced documents are indispensable for the ap plication of this document. For dated references, 
+only the edition cited applies. For undated references, the lat est edition of the referenced document applies 
+(including any addenda/errata). However, not all documents list ed may apply to your specific needs. The body of 
+the standard should be referred  to for how these documents are specifically applied. 
+API Specification 13A, Specification for Drilling Fluid Materials  
+ASTM1 C109/C109M, Standard Test Method for Compressive Strength of  Hydraulic Cement Mortars (Using 2-in. 
+or [50-mm] Cube Specimens)  
+ASTM C114, Standard Test Methods for Chemical  Analysis of Hydraulic Cement  
+ASTM C115, Standard Test Method for Fineness of Po rtland Cement by the Turbidimeter  
+ 
+1 ASTM International, 1 00 Barr Harbor Drive , West Conshohoken, P A  19428-2959, www.astm.org. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+2 API SPECIFICATION 10A 
+ASTM C183, Standard Practice for Sampling and the Am ount of Testing of Hydraulic Cement  
+ASTM C204, Standard Test Methods for Fineness of Hydrau lic Cement by Air- Permeability Apparatus  
+ASTM C465, Standard Specification for Processi ng Additions for Use in the Ma nufacture of Hydraulic Cements  
+ASTM E1404, Standard Specification for Labor atory Glass Conical Flasks  
+EN2 196-2, Methods of testing cement — Part 2: Chemical analysis of cement   
+EN 196-6, Methods of testing cement — Pa rt 6: Determination of fineness  
+EN 196-7, Methods of testing cement — Part 7: Met hods of taking and preparing samples of cement  
+ISO3 24450, Laboratory glassware — Wi de-necked boiling flasks   
+3 Terms, Definitions, Acronyms, and Abbreviations 
+3.1 Terms and Definitions 
+For the purposes o f this document, the fo llowing terms and defi nitions apply. 
+additive  
+Material added to a cement slu rry to modify its properties. 
+atmosp heric pressure consistometer 
+Device used for pre-conditioning a cement slurry under temperat ure and at atmospheric pressure. 
+Bear den units of consistency 
+Bc 
+Measure of the consistency of a  cement slurry when determined o n a pressurized consistometer. 
+blending  
+A process in which two or more ingredients are combined into an  intimate and uniform product of finely divided 
+dry material, as by special blending equipment.  
+cement 
+Portland ce ment 
+Ground clinker genera lly consisting of hydraulic calcium silicates and aluminates, and usually containing one or 
+more forms of CaSO 4 as an interground additive. 
+2 European Committee for Standardi zation, Rue de la Science 23, B-1040 Brussels, Belgium; www.cen.eu. 
+3 International Organization fo r Standardization, BIBC II, Chemi n de Blandonnet 8, CP 401, 1214 Vernier, Geneva, 
+Switzerland; www.iso.org. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  3  
+  
+cement class 
+Designation for classification o f well cement according to its intended use. 
+  
+clinker 
+Fused materials produced in the kiln during cement manufacturin g that are interground with CaSO 4 t o  m a k e  
+cement. 
+  
+compressive strength 
+Measured strength of a  set cement sample calculated by the forc e required to cause it to fail in compression, 
+expressed as a force per unit of area. 
+  
+free-fluid 
+(free-water) Colored or colorless liquid tha t separates from a  cement slurry  under static conditions. 
+  
+grade 
+Designation achieved under the API system for denoting the sulf ate resistance of a particular cement. 
+  
+intergrinding 
+A process involving grinding Portland cement clinker with suita ble other components to produce finely divided dry 
+material.  
+  
+load frame 
+Frame to place a load on cement s amples for determining compres sive strength of cement. 
+  
+pressurized consistometer 
+Device used to measure the thic kening time of a cement slurry u nder temperature and pressure.  
+  
+slurry container 
+(slurry cup) Container in an atmospheric or pressurized consistometer used t o hold the slurry for pre-conditioning purpose or 
+for the thickening-time test. 
+  
+thickening time 
+Time after which the consistency of a cement slurry has become so high that the slurry is considered 
+unpumpable. 
+NOTE The results of a thickening-time test provide an indicatio n of the length of time a cement slurry remains pumpable 
+under the test conditions. 
+3.2 Acronyms and Abbreviations 
+For the purposes o f this document, the fo llowing terms and defi nitions apply. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+4  API  SPECIFICATION 10A 
+ASTM American Society for Testing and Materials 
+C3A tricalcium aluminate 
+C4AF tetracalcium aluminoferrite 
+CaSO 4 calcium sulfate 
+C3S tricalcium silicate 
+EN European Committee for Standardization 
+HSR high sulfate-resistant INSP inspection (dimension requiring verification) 
+ISO International Organization for Standardization 
+MSR moderate sulfate-resistant NIST National Institute o f Standards and Technology 
+O ordinary  
+OD outside diameter  
+4 Requirements 
+4.1 Specification, Chemical, and Physical Requirements 
+ Classes and Grades 
+ General 
+Well cements shall be specified using the classes A, B, C, D, G , or H and the grades ordinary (O), moderate 
+sulfate-resistant (MSR), and high  sulfate-resistant (HSR). Comp osite well cements shall be specified using 
+classes K and L, consisting o f Portland cements and additional composite constituents according to Annex B.  
+A well cement, or composite well cement, that has been manufact ured and supplied in accordance with this 
+specification may be mixed and pl aced in the field using altern ate water ratios and/or additives. It is not intended 
+that manufacturing compliance with this specification be based on such field conditions.   
+Processing additives, set modify ing agents, or chemical additiv es used to reduce chromium (VI) shall not prevent 
+a well cement from performi ng its intended functions. 
+ Class A 
+This product is obtained by grinding clinker that consists of h ydraulic calcium silicates and contains one or more 
+forms of CaSO 4 as an interground additive. Processing additives used in the m anufacture of Class A cement shall 
+meet the requirements given in ASTM C465.  
+NOTE This product is intended for use when special properties a re not required and is available only in O grade, similar 
+to the requirements given in ASTM C150 for Type I cement. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  5  
+ Class B 
+This product is obtained by grinding clinker that consists of h ydraulic calcium silicates and contains one or more 
+forms of CaSO 4 as an interground additive. Processing additives used in the m anufacture of Class B cement shall 
+meet the requirements given in ASTM C465. 
+NOTE This product is intended for use when conditions require m oderate or high sulfate resistance and is available in 
+both MSR and HSR grades, similar  to the requirements given in A STM C150 for Type II cement. 
+ Class C 
+This product is obtained by grinding clinker that consists of h ydraulic calcium silicates and contains one or more 
+forms of CaSO 4 as an interground additive. Proc essing additives used in the m anufacture of Class C cement shall 
+meet the requirements given in ASTM C465.  
+NOTE This product is intended for use when conditions require h igh early strength, and is available in O, MSR, and HSR 
+grades, similar to the requirem ents given in ASTM C150 for Type  III cement. 
+ Class D 
+This product is obtained by grinding clinker that consists of h ydraulic calcium silicates and contains one or more 
+forms of CaSO 4 as an interground additive. Proc essing additives used in the m anufacture of Class D cement shall 
+meet the requirements given in ASTM C465.  
+Further, at the option of the manufacturer, suitable set-modify ing agents may be interground or blended during 
+manufacture. 
+NOTE This product is intended for use under conditions of moder ately high temperatures and  pressures and is available 
+in MSR and HSR grades. 
+ Class G 
+This product is obtained by grinding clinker that consists of h ydraulic calcium silicates and contains one or more 
+forms of CaSO 4 as an interground additive. No additives other than CaSO 4, water, or chemical additives as 
+required for chromium (VI) reduction shall be interground or bl ended with the clinker during manufacture of 
+Class G well cement, provided that such additives do not preven t the well cement from performing its intended 
+purpose. 
+NOTE This product is intended for use as a basic well cement an d is available in MSR and HSR grades. 
+ Class H 
+This product is obtained by grinding clinker that consists of h ydraulic calcium silicates and contains one or more 
+forms of CaSO 4 as an interground additive. No additives other than CaSO 4, water, or chemical additives as 
+required for chromium (VI) reduction shall be interground or bl ended with the clinker during manufacture of 
+Class H well cement, provided that such additives do not preven t the well cement from performing its intended 
+purpose. 
+NOTE This product is intended for use as a basic well cement an d is available in MSR and HSR grades. 
+ Composite Well Cements 
+See Annex B for the specificat ions of composite well cements. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+6  API  SPECIFICATION 10A 
+ Chemical Requirements 
+Well cements shall conform to the respective chemical requireme nts of classes and grades given in Table 1. This 
+specification is applicable to t he testing of cements that conf orm to the chemical requirements of classes and 
+grades given in Table 1. 
+Chemical analyses of well cement s shall be carried out as speci fied in ASTM C114.  
+NOTE For the purposes of this pro vision, EN 196- 2 is equivalent  to ASTM C114. 
+Table 1—Chemical Requirements 
+ Cement Class 
+A BCD  G  H
+Ordinary grade (O)  
+Magnesium oxide (MgO ), maximum, percent 6.0 NAa 6.0 NA NA NA 
+Sulfur trioxide (SO 3), maximum, percentb 3.5 NA 4.5 NA NA NA 
+Loss on ignition, maximum, percent 3.5c NA 3.5c NA NA NA 
+Insoluble residue, maximum, percent 1.5 NA 1.5 NA NA NA 
+Tricalcium aluminate (C 3A), maximum, percente NRd NA 15 NA NA NA 
+Moderate sulfate-resistant grade (MSR)  
+Magnesium oxide (MgO ), maximum, percent NA 6.0 6.0 6.0 6.0 6.0 
+Sulfur trioxide (SO 3), maximum, percentb NA 3.0 3.5 3.0 3.0 3.0 
+Loss on ignition, maximum, percent NA 3.0 3.5c 3.0 3.0 3.0 
+Insoluble residue, maximum, percent NA 0.75 1.5 0.75 0.75 0.75 
+Tricalcium silicate (C 3S), maximum, percente NA NR NR NR 58 58 
+  minimum, percente NA NR NR NR 48 48 
+Tricalcium aluminate (C 3A), maximum percente N A  8  8  8  8  8  
+Total alkali content, exp ressed as sodium oxide 
+(Na2O) equivalent, maximum, percentf  NA NR NR NR 0.75 0.75 
+High sulfate-resistant grade (HSR)  
+Magnesium oxide (MgO), maximum, percent NA 6.0 6.0 6.0 6.0 6.0 
+Sulfur trioxide (SO 3), maximum, percentb NA 3.0 3.5 3.0 3.0 3.0 
+Loss on ignition, maximum, percent NA 3.0 3.5c 3.0 3.0 3.0 
+Insoluble residue, maximum, percent NA 0.75 1.5 0.75 0.75 0.75 
+Tricalcium silicate (C 3S), maximum, percente NA NR NR NR 65 65 
+  minimum, percente NA NR NR NR 48 48 
+Tricalcium aluminate (C 3A), maximum, percente N A  3  3  3  3  3  
+Tetracalcium alu minoferrite (C 4AF) plus twice the 
+tricalcium aluminate (C 3A), maximum, percente  NA 24 24 24 24 24 
+Total alkali content expressed as sodium oxide 
+(Na2O) equivalent, maximum, percentf  NA NR NR NR 0.75 0.75 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  7  
+ a NA indicates “not applicable.” 
+ b When the tricalcium aluminate content (expressed as C 3A) of the cement is 8 % or less, the maximum SO 3 content shall be 3 %, 
+or 3.5 % for Class C cement. 
+ c Added mineral ingredients shall hav e a calcium carbonate conte nt greater or equal than 75 %. 
+ d NR indicates “no requirement.” 
+ e The expressing of chemical limitations by means of calculated assumed compounds does not necessarily mean that the oxides 
+are actually or entirely present as such compounds. The compoun ds (in percent) are calculated according to the ratio of the ma ss 
+percentages of aluminum oxi de to ferric oxide (Al 2O3 t o  F e 2O3), where w is the percentage mass fraction of the compound 
+indicated in the subscript: 
+1) When wAl2O3/wFe2O3 is greater than 0.64, the compounds shall be calculated as fol lows: 
+i) C 3A  2.65 wAl2O3  1.69 wFe2O3 
+ii) C 3S  4.07 wCaO  7.60 wSiO2  6.72 wAl2O3  1.43 wFe2O3  2.85 wSO3 
+iii) C 4AF  3.04 wFe2O3 
+2) When wAl2O3/wFe2O3 is 0.64 or less, the C3A content is zero, and the C3S and C4AF shall be calculated as follows: 
+i) C 3S  4.07 wCaO  7.60 wSiO2  4.48 wAl2O3  2.86 wFe2O3  2.85 wSO3 
+ii) C4AF  3.04 wFe2O3 
+ f The sodium oxide equivalent, expressed as Na2O equivalent, shall be calculated by the formula: 
+ N a 2O equivalent = 0.658 wK2O  wNa2O 
+ Physical and Performance Requirements 
+Well cement shall conform to the respective physical and perfor mance requirements specified in Table 2 and in 
+Sections 6 through 10. 
+ 
+  
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+8  API  SPECIFICATION 10A 
+Table 2—Summary of Physical and Performance Requirements 
+Well Cement Class A B C D G H 
+Mix water , % mass fraction of cement (Table 4) 46 46 56 38 44 38 
+Fineness tests  (alternative methods) (Section 6)       
+Turbidimeter  (specific surface, minimum, m 2/kg) 150 160 220 NRa NR NR 
+Air permeability  (specific surface, minimum, m 2/kg) 280 280 400 NR NR NR 
+Free-fluid content , maximum, percent (Section 8) NR NR NR NR 5.9 5.9 
+Compressive 
+Strength Test  
+Curing time: 8 hr Schedule 
+Number  
+Table 7 Final Curing 
+Temperature
+°C (°F) Curing 
+Pressure  
+MPa (lbf/in.²) Minimum Compressive Strength  
+MPa (lbf/in.²) 
+(Section 9) NAb 38 (100) atmospheric 1.7 
+(250) 1.4 
+(200) 2.1 
+(300) NR 2.1 
+(300) 2.1 
+(300) 
+(Section 9) NA 60 (140) atmospheric NR NR NR NR 10.3 
+(1500) 10.3 
+(1500) 
+(Section 9) 6S 110 (230) 20.7 
+(3000) NR NR NR 3.4 
+(500) NR NR 
+Compressive 
+Strength Test  
+Curing time: 24 hr Schedule 
+Number  
+Table 7 Final Curing 
+Temperature
+°C (°F) Curing 
+Pressure  
+MPa (lbf/in.²) Minimum Compressive Strength  
+MPa (lbf/in.²) 
+(Section 9) NA 38 (100) atmospheric 12.4
+(1800)10.3
+(1500)13.8
+(2000) NR NR NR 
+(Section 9) 4S 77 (170) 20.7 
+(3000) NR NR NR 6.9 
+(1000) NR NR 
+(Section 9) 6S 110 (230) 20.7 
+(3000) NR NR NR 13.8 
+(2000) NR NR 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  9  
+Well Cement Class A B C D G H 
+Thickening-time 
+Test Specification 
+Test 
+Schedule 
+Number  
+Tables 9 
+through 11 Maximum Consistency  
+(15 min to 30 min 
+stirring period)  
+Bcc Thickening Time   
+(minimum/maximum) 
+minutes 
+(Section 10) 4 30 90/NR 90/NR 90/NR 90/NR NR NR 
+(Section 10) 5 30 NR NR NR NR 90/120 90/120
+(Section 10) 6 30 NR NR NR 100/NR NR NR 
+a NR indicates “no requirement.” 
+b NA indicates “not applicable.” 
+c Bearden units of consistency, Bc, obtained on a pressurized consis tometer as defined in Section  10 and calibrated in accordance with 
+Annex C. 
+4.2 Sampling Frequency, Timing of Tests, and Equipment 
+ Sampling Frequency 
+ Well Cement Classe s C, D, G, and H   
+A sample for testing shall repr esent the product as produced. A t the discretion of the manuf acturer, a sample shall 
+be taken by either of the following methods: 
+a) over an interval of 24 h; or 
+b) on a 1000-ton (maximum) production run. 
+ Well Cement Cl asses A and B  
+A sample for testing shall repr esent the product as produced. A t the discretion of the manuf acturer, a sample shall 
+be taken by either of the following methods: 
+a) over a 14-day continuous production interval; or 
+b) on a 25,000 ton (max imum) production run. 
+ Time from Sampling to Testing 
+Each sample shall be tested for conformance to this specificati on. All tests shall be completed within seven 
+working days after sampling. 
+ Specified Equipment 
+Equipment used for testing well ce ments shall comply with Table  3. Dimensions shown in  Figures 5 through 7 and 
+Figures 10 through 14 are for the purposes of manufacturing the  cement-specification test equipment. 
+Dimensional recertification is not  required, with the exception  of key dimensions tagged “INSP,” which shall be 
+verified to judge wear (see Annex C). 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+10  API  SPECIFICATION 10A 
+Table 3—Specification Test Equipm ent for Well-Cement Manufactur ers 
+Test or preparation Well cement 
+Classes Section 
+ReferenceRequired Equipment 
+Sampling All 5 Apparatus as specified in ASTM C183 
+NOTE For the purposes of this provision, EN 196-7 is equivalent  t o  
+ASTM C183. 
+Fineness A, B, C 6 Turbidimeter and auxiliary equipment as specified in ASTM C115 or 
+air permeability apparatus and auxiliary equipment as specified  i n  
+ASTM C 204. 
+ 
+NOTE For the purposes of this p rovision, EN 196-6 is equivalent  t o  
+ASTM C204. 
+Slurry preparation All 7 A pparatus as specified in 7.1 
+Free-fluid G, H 8 Apparatus as specified in 8.1 
+Atmospheric pressure 
+compressive strength A, B, C, G, H 9 Apparatus  as specified in 9.1  
+Pressure cured 
+compressive strength D 9 Apparatus as specified in 9.1 
+Thickening time All 10 Pressurized consistometer specified in 1 0.1 
+ Calibration 
+Equipment shall be calibrated in a ccordance with the requiremen ts in Annex C. 
+5 Sampling Procedure 
+One or more of the procedures in accordance with ASTM C183 shal l be used to secure a sample of well cement 
+for specification  testing purposes. 
+NOTE For the purposes of this pro vision, EN 196- 7 is equivalent  to ASTM C183. 
+6 Fineness Tests 
+6.1 Procedure 
+Tests for fineness of well cement shall be in accordance with e ither the procedure in ASTM C115 for the 
+turbidimeter test or the procedure in ASTM C204 for the air per meability test that is at  the discretion of the 
+manufacturer. 
+NOTE For the purposes of this pro vision, EN 196-6 is equivalent  to ASTM C204. 
+6.2 Requirements 
+Acceptance requirements for the fi neness test are a minimum spe cific surface area (expressed in square meters 
+per kilogram) as given in Table 2. Classes D, G, and H cements have no fineness requirement. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  11 
+7 Preparation of Slurry for Fr ee-fluid, Compressive Strength an d  
+Thickening-time Tests 
+7.1 Apparatus 
+ General  
+Unless otherwise noted, all appar atuses shall be calibrated acc ording to Annex C. 
+ Electronic or Mechanical Balances 
+Balances shall have, at a minimum, a two-decimal-place precisio n reading and conform to requirements specified 
+in Annex C.  
+ Weight Sets 
+Weight sets include sets used daily for routine weighing and re ference weight sets used for calibration. Weight 
+sets shall conform to requirements specified in Annex C. 
+ Sieves 
+An 850 µm wire cloth sieve (US sieve No. 20), shall be used for  sieving cement prior to  slurry preparation.  
+NOTE The sieve does no t require verification. 
+ Mixing Devices 
+The mixing device for the preparation of well cement slurries s hall be a 1 L (1 qt) size, bottom-drive, blade-type 
+mixer, with a timing device able to measure both 15 s and 35 s.  The mixing device shall be able to mix cement 
+slurry at 4000 r/min ±250 r/min rotational speed, and at 12,000  r/min ±500 r/min rotati onal speed (see Annex C). 
+An example of a mixing device in common use is shown in Figure 1. The mixing-blade assembly and mixing 
+container shall be constructed of  durable, corrosion-resistant material. The mixing-blade assembly (see Figure 2) 
+shall be constructed in such a manner that the blade can be rem oved for weighing and changing. The blade shall 
+be mounted with its sharp edge on the leading-edge rotation. If  the mixing device leaks at any time during the 
+mixing procedure, the contents sh all be discarded, the leak sha ll be repaired, and the procedure shall be 
+restarted. According to Annex C, the mixing blade shall be weig hed initially and replaced with an unused blade if 
+observed blade deformation has o ccurred or after a blade has lo st 10 % of its mass. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+12  API  SPECIFICATION 10A 
+ 
+Figure 1—Example of a Typical Cement-Mixing Device 
+ 
+Figure 2—Common Blade Assembly 
+7.2 Procedure 
+ Sieving 
+Prior to mixing, the cement shall be sieved using the method de scribed according to ASTM C183 using a sieve 
+defined in 7.1.4. 
+NOTE For the purposes of this pro vision, EN 196-7 is equivalent  to ASTM C183. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  13 
+ Temperature of Water and Cement 
+The temperature of the mix water in the container within 60 s p rior to mixing shall be 23 °C ±1 °C (73 °F ±2 °F), 
+and the temperature of the cement  within 60 s prior to mixing s hall be 23 °C ±1 °C (73 °F ±2 °F). 
+ Mix Water 
+Distilled or deionized water sha ll be used for testing. The mix  water shall be weighed directly into a clean, dry 
+mixing container. No water shall be added to compensate for eva poration, wetting, or other losses. 
+ Mixing Quantities 
+The quantities of slurry component shown in Table 4 shall be us ed for testing. The use of the quantities of 
+components shown in Table 4 result s in mix-water percentages (b ased on the mass of dry cement) consistent 
+with the water percentages shown in Table 2. 
+Table 4—Slurry Requirements 
+Components  Class A and B 
+g Class C 
+g Class D and H  
+g Class G  
+g 
+Mix water 355 ±0.5 383 ±0.5 327 ±0.5 349 ±0.5 
+Cement 772 ±0.5 684 ±0.5 860 ±0.5 792 ±0.5 
+For composite well cement classes without specified mix-water p ercentages (see Annex B), the quantities of 
+composite well cement and mix water shall be measured at ±0.5 g  based on a calculated slurry volume of 
+600 mL. 
+ Mixing Cement and Water 
+The mixing container with the required mass of mix water, as sp ecified in Table 4, shall be placed on the mixer 
+base, with the motor turned on and maintained at 4000 r/min ±25 0 r/min while the cement sample is added at a 
+uniform rate for no more than 15 s. After 15 s at 4000 r/min ±2 50 r/min, place the cover on the mixing container 
+and continue mixing at 12,000 r/mi n ±500 r/min for 35 s ±1 s. 
+8 Free-fluid Test (free-water) 
+8.1 Apparatus 
+ Atmospheric Pressure Consistometer 
+The atmospheric pressure consi stometer (see Figures 3 through 6 ) or the pressurized consistometer described in 
+10.1 (run at atmospheric pressur e) shall be used for stirring a nd conditioning the cement slurry for the 
+determination of free-fluid content. The atmospheric pressure c onsistometer consists of a rotating cylindrical 
+slurry container, equipped with a fixed paddle assembly, in a t emperature-controlled liquid bath. It shall be 
+capable of maintaining the tem perature of the bath and the slur ry container rotating speed requirements as 
+specified in Annex C. The paddle and all parts of the slurry co ntainer exposed to the slurry shall be constructed of 
+corrosion-resistant materials.   
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+14  API  SPECIFICATION 10A 
+ 
+Key 
+1 lid (see Figure 4) 3 fill -level indicator groove 
+2 slurry container (see Figure 5) 4 paddle (see Figure 6) 
+NOTE  Dimensions are provided for manufacturing reference only and are in mm (in.) unless otherwise indicated. 
+Figure 3—Container Assembly for  an Atmospheric Pressure Consist ometer 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  15 
+ 
+ 
+Key  
+1 cap lock nut 
+2 center lock reverse jam nut 
+3 dial 4 pointer 
+5 dial and base assembly 
+6 spring 7 collar 
+8 bearing 
+9 retaining ring 10 lid 
+11 roll pin 
+12 shaft 
+Figure 4—Typical Lid and Mechanis m for an Atmospheric Pressure Consistometer (see Figure 3) 
+  
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+16  API  SPECIFICATION 10A 
+ 
+ NOTE  Dimensions are provided for manufacturing reference only  in mm (in.) unless otherwise indicated. 
+Figure 5—Slurry Container for an Atmospheric Pressure Consistom eter (see Figure 3) 
+ 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  17 
+ 
+NOTE 1 Paddle material: stainless steel, 1.0 mm ±0.1 mm (0.04 i n. ±0.005 in.). 
+NOTE 2 Shaft material: stainless steel, 6.4 mm ±0.1 mm (0.25 in . ±0.005 in.). 
+NOTE 3 Dimensions are provided for manufacturing reference only  and are in mm (in.) unless otherwise indicated. 
+Figure 6—Paddle for an Atmospher ic Pressure Consistometer (see Figure 3) 
+ Balances 
+Balances shall have at a minimum two-decimal-place precision re ading and conform to requirements as specified 
+in Annex C.  
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+18  API  SPECIFICATION 10A 
+ Test Flask 
+A wide-mouth general-purpose coni cal glass flask (Erlenmeyer) w ith a capacity of 500 mL shall be used; see 
+Figure 7. The conical flask sha ll be in accordance with ASTM E1 404, type I, class 2, or with  ISO 24450; see Table 5. 
+ 
+Key  
+1 body outside diameter (OD at widest point). 
+2 overall height 
+Figure 7—Typical Conical 500-mL F lask for Free-fluid Measuremen t 
+Table 5—Dimensions for a 500-mL  Conical Flask without Caps or S toppers 
+Specification ASTM type 1, class 2 
+Conical Flask ISO Wide-necked 
+Conical Flask 
+Body OD widest point 105 mm (4.13 in.) (maximum) 105 mm ±2 mm ( 4.13 in. ±0.08 in.) 
+Overall height 186 mm (7.32 in.)  (maximum) 175 mm ±4 mm (6.89 i n. ±0.16 in.) 
+8.2 Calibration 
+ General 
+Unless otherwise noted, all appar atuses shall be calibrated to the requirements gi ven in Annex C.  
+ Temperature Measuring System 
+Temperature-measuring and -cont rolling devices inc ludes thermom eters, digital thermometers, thermocouples, 
+temperature controllers on consistometers, and those that are u sed separate from or are not an integral part of 
+the instrument. Thermocouples mounted in the cylinder wall of a  consistometer, not used for controlling the 
+temperature in the consistometer, are permanently exempt from c alibration (see Annex C). The calibration 
+procedure for a thermocouple as specified in Annex D is also co mmonly used. 
+ Slurry Container R otational Speed 
+The rotational speed shall be 150 r/min 15 r/min (see Annex C).  
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  19 
+ Timer 
+The timer shall be accurate to within 5 seconds per hour. If not withi n required accuracy, the units shall be 
+adjusted or replaced.  
+8.3 Procedure 
+The following procedure describ es how the free-fluid test shall  be performed: 
+a) Prepare the slurry in ac cordance with Section 7. 
+b) For an atmospheric pressure  consistometer, fill a clean and dry consistometer slurry container to the fill 
+groove, or as specified in 10.3. 2 for use of a pressurized cons istometer. 
+c) Assemble the slurry container and associated parts, place th em in the consistometer, and start the motor 
+according to the operating instructions of the manufacturer so that the interval between completion of mixing 
+and starting of the consistomete r shall not exceed 5 minutes. 
+d) Stir the slurry in the consistometer for a period of 20 min 30 s while the temperature of the slurry is 
+27 °C 2 °C (80 °F 3 °F) and atmospheric pressure  throughout the st irring period. 
+e) Transfer 790 g 5 g of Class H slurry or 760 g 5 g of Class G slurry directl y into the clean, dry 500-mL 
+conical flask within 1 min of the end of stirring.  
+1) Record the actual  mass transferred, mS.  
+2) Seal the flask to prevent evaporation. 
+f) Set the slurry-filled flask on  a surface that is nominally l evel and vibration-free.  
+1) The air temperature to which  the slurry-filled flask is expo sed shall be 23 °C 3 °C (73 °F 5 °F).  
+2) The temperature sensor for meas uring air temperature shall m eet the requirements given in 8.2.2.  
+3) Let the slurry-filled flask remain undisturbed for a period of 2 h 5 min. 
+g) Remove the supernatant fluid  that has developed with a pipet te or syringe at the end of the 2 h 5 min 
+period.  
+1) Measure the volume of superna tant fluid to an accuracy of 0.1 mL. 
+2) Record the measure volume  as “milliliters free-fluid”, VFF. 
+Convert the milliliters free-flu id to a percentage of starting slurry volume ( 400 mL depending on the recorded 
+initial mass) and express tha t value as percent free-fluid. 
+8.4 Calculation of Percent Free-Fluid 
+The volume fraction, , of free-fluid in the slurry, expressed as a percentage, is th en calculated using 
+Equation (1): 
+V
+mFF
+S100     (1) 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+20  API  SPECIFICATION 10A 
+where 
+VFF is the volume of free-fluid (sup ernatant fluid) collected, exp ressed in milliliters; 
+ is the density of slurry, equal to 1.98 g/cm3 for Class H at 38 % water and 1.91 g/cm3 for Class G at 
+44 % water; if the density of t he base cement is other than the  typical value of 3.18 g/cm3 0.04 
+g/cm3, the actual specific gravity o f slurry should be calculated an d used; 
+mS is the initially recorded (starti ng) mass of the slurry, expres sed in grams. 
+EXAMPLE Calculation of percent free-fluid: 
+mS  791.7 g 
+VFF  15.1 mL 
+  1.98 g/cm3 (Class H) 
+  [(15.1 mL  1.98 g/cm3) / 791.7 g] x 100 
+  3.78 %  
+NOTE Milliliters and cubic centim eters are equal and interchang eable. 
+8.5 Acceptance Requirements 
+The free-fluid for Class G and Class H well cements shall not e xceed 5.9 % of the slurry volume. 
+9 Compressive Strength Tests 
+9.1 Apparatus 
+ General 
+Unless otherwise noted, all appar atuses shall be calibrated to the requirements gi ven in Annex C. 
+ Cube Molds and Compressive Strength-testing Machine 
+Cement specimens are prepared using 50-mm or 2-in. cube-molds. Molds and testing machines for compressive 
+strength tests shall conform to  the requirements given in ASTM C109/C109M, except for the following: 
+a) cube-molds. 
+1) Molds may be separable into more than two parts. 
+2) Dimensions for 50 mm and 2 in. cube molds shall be manufactu red in accordance with ASTM C109.  
+Except for Table 6 dimensions, no other dimensions are auditabl e.   
+Table 6—Dimensions for 50-mm  and 2-in. Cube-molds in Use 
+ 50-mm Cube  2-in. Cube 
+Distance between opposite sides 50.0 mm ±0.5 mm  2.00 in. ±0.02 in. 
+Height of compartments  50.0 mm +0.25mm/-0.38 mm  2 in. +0.01 in./-0.015 in. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  21 
+b) Compressive strength-testing machine (load frame).   
+1) The two surfaces of the bearing blocks shall have a diameter  or diagonal of no less than 70.7 mm 
+(2.83 in.).  
+2) The bearing blocks should have a Rockwell hardness of no les s than 30 HRc. This is not auditable. 
+ Cube Mold Base and Cover Plates 
+Glass, brass, or stainless steel plates having a minimum thickn ess of 5 mm (0.2 in.) are used. Cover plates may 
+be grooved on the surface that c ontacts the top of the cement. 
+ Water Curing Baths 
+ General 
+A curing bath or tank having dimensions that allow the complete  immersion of a compressive strength mold(s) in 
+water and are capable of maintai ning the prescribed test temper atures within 2 °C (3 °F) shall be used. The two 
+types of water curing baths sha ll have the requirements given i n 9.1.4.2 and 9.1.4.3. 
+ Atmospheric Pressure Water Curing Bath 
+An atmospheric pressure curing bath is a vessel for curing spec imens at atmospheric pressure and temperatures 
+of 66 °C (150 °F) or less tha t has a circulating system. 
+ Pressurized Curing Bath (curing chamber) 
+A pressurized curing bath is a vessel suitable for curing speci mens at temperatures up to 110 °C (230 °F) and 
+under pressure that can be contro lled at 20.7 MPa ±3.4 MPa (300 0 lbf/in.² 500 lbf/in.²). The vessel shall be 
+capable of fulfilling the appropria te specification schedule gi ven in Table 7. 
+ Water Cooling Bath 
+The cooling bath dimensions shall be such that the specimens be ing cooled from the curing temperature can be 
+completely submerged in water mai ntained at 27 °C ±3 °C (80 °F ±5 °F). 
+ Temperature-measuring System 
+ General 
+The temperature-measuring system shall meet the requirements sh own in Annex C. This includes thermometers 
+or digital thermometers, thermocouples, temperature controllers  on water curing baths, curing chambers, cooling 
+baths, and those that are used se parate from or are not an inte gral part of the instrument. The calibration 
+procedure described in A nnex D is commonly used. 
+ Temperature-measuring Device 
+A thermometer or digital thermometer with a minimum range from 20 °C to 90 °C (70 °F to 180 °F) , with minimum 
+scale divisions not exceeding 1 °C (2 °F), or a thermocouple wi th a minimum range of 20 °C to 120 °C (70 °F to 
+250 °F) shall be used. 
+ Puddling Rod 
+A corrosion-resistant puddling r od of diameter 6 mm ±2 mm (0.25  in. ±0.08 in.) shall be used. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+22  API  SPECIFICATION 10A 
+ Sealant 
+Sealants are commonly used to sea l the exterior contact points of the specimen mold and have a consistency that 
+permits ease of use, good sealing properties to prevent leakage , water resistance, and inertness to the cement. 
+Sealants are non-corrosive when s ubjected to the curing tempera tures and pressures given in Table 8. 
+ Mold-release Agent (optional) 
+A thin layer of mold-release agent may be applied to the interi or surfaces of the mold to prevent the sample from 
+being damaged when removed from the mold. The mold-release agen t should comply with 9.1.8. 
+ Timer 
+The timer shall be accurate to within 5 seconds per hour. If not withi n required accuracy, the units shall be 
+adjusted or replaced.  
+ Caliper Device 
+A caliper accurate to 0.1 mm (1/16 in.) at a minimum shall be used to measure dimensions of cemen t cube 
+specimens. 
+9.2 Procedure 
+ Preparation of Molds 
+The base of assembled molds shall be watertight. The interior f aces of the molds and the contact surfaces of the 
+plates shall be clean, dry, and may be lightly coated with rele ase agent.  
+ Preparation and Placement of Slurry 
+ Slurry 
+Three or more specimens of cem ent slurry shall be prepared in a ccordance with Section 7. 
+ Placing Slurry in Molds 
+To prepare each sample, the following procedure shall be follow ed. 
+a) Place the slurry in the prepar ed molds in a layer approximat ely one-half of the mold depth.  
+b) Place the slurry in all the s pecimen compartments before com mencing the puddling operation. 
+c) Use the puddling rod to puddl e the slurry in an evenly distr ibuted pattern (27 ti mes per specimen).  
+d) After puddling the first layer, stir the remaining slurry by  hand, using a puddling rod or spatula to minimize 
+segregation. 
+e) Fill the molds to overflowing  and puddle the same as for the  first layer.  
+f) After puddling, use a straight -edge to strike off the excess  slurry level with the top of the mold.  
+g) Discard specimens in molds that leak.  
+h) Place a prepared cover plate on top of the mold. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  23 
+ Pressure and Temperature Schedules 
+For Class A, B, C, G, and H cements, place the specimens in the  water bath preheated to the final curing 
+temperature (see Table 8) for test s at atmospheric pressure wit hin 5 min after mixing. 
+For Class D cement, within 5 min after mixing, place the specim ens in the pressure vessel filled with water at 
+27 °C ±3 °C (80 °F ±5 °F), and ap ply the temperature and pressu re given in Table 7. 
+Table 7—Specification Schedules f or Pressurized Curing of Class  D Cement Specimens 
+Schedule 
+Number Curing 
+Pressurea 
+MPa 
+(lbf/in.²) Elapsed Time from First Application of Heat and Pressure  
+h:min (±2 min) 
+0:00 0:30 0:45 1:00 1:15 1:30 2:00 2:30 3:00 3:30 4:00 
+Temperature  
+°C (°F) 
+4S 20.7 
+(3000) 27 
+(80) 47 
+(116) 49 
+(120) 51 
+(124) 53 
+(128) 55 
+(131) 59 
+(139) 64 
+(147) 68 
+(155) 72 
+(162) 77 
+(170) 
+6S 20.7 
+(3000) 27 
+(80) 56 
+(133) 64 
+(148) 68 
+(154) 72 
+(161) 75 
+(167) 82 
+(180) 89 
+(192) 96 
+(205) 103 
+(218) 110 
+(230) 
+a The test pressure of 20.7 MPa 3.4 MPa (3000 lbf/in.² 500 lbf/in.²) shall be applied as soon as the specimens are pla ced in the 
+pressure vessel, and maintained for the duration of the curing period. The 4-hour temperature shall be maintained within 
+2 °C (3 °F) throughout the remainder of the curing period and complet ion of the test. 
+ Curing 
+ Curing Periods 
+The curing period is the time elapsed from subjecting the speci mens to the specified temperature in the curing 
+vessel (or initiating the temper ature/pressure schedule given i n Table 7) to testing the specimen for strength. The 
+strength of the specimen shall be tested at the appropriate tim e, shown in Table 8. 
+For specimens cured at atmospheric pressure (Class A, B, C, G, and H cements), the curing period starts when 
+specimens are initially placed in the curing bath preheated to the test temperature. The te st temperature shall be 
+maintained at ±2 °C (±3 °F). 
+For specimens cured at above atmospheric pressure (Class D ceme nt), the curing period starts with the initial 
+application of pressure and temperature. 
+ Specimen Cooling 
+Specimens cured at 60 °C (140 °F) and below shall be removed fr om the curing bath 45 min ±5 min before the 
+time at which they will be test ed. Specimens shall be removed f rom their molds and cooled by being placed in a 
+water cooling bath maintained at  27 °C ±3 °C (80 °F ±5 °F) for 40 min ±5 min. Do not leave the specimen out of 
+water for more than 5 min to avoid dehydration.  
+For Class D specimens cured at temperatures equal to or greater  than 77 °C (170 °F) under pressure, maintain 
+the maximum scheduled temperatur e and pressure given in Table 8  until 105 min ±5 min pri or to the time at which 
+the specimens will be tested; at that point, discontinue heatin g. During the next 60 min ±5 min, decrease the 
+temperature to 77 °C (170 °F) or less, without a reduction in t he pressure other than that caused by the reduction 
+in temperature. At 45 min ±5 min p rior to the time at which the  specimens will be tested, release the remaining 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+24  API  SPECIFICATION 10A 
+pressure and remove the specimens from the molds. Cool the spec imens by transferring them to a water cooling 
+bath maintained at 27 °C ±3 °C ( 80 °F ±5 °F) for 40 min ±5 min.  Do not leave specimens out of water for more 
+than 5 min to avoid dehydration.  
+ Specimen Acceptance 
+Cube-test specimens that are damaged shall be discarded prior t o testing. If fewer than two test specimens are 
+left for determining the compressive st rength at any given peri od, a retest shall be made. 
+9.3 Test Procedure  
+In order to condu ct the compressive str ength test, the followin g procedure shall be followed. 
+a) Remove specimens from the water bath or the cooling bath tha t has been maintained at 27 °C ±3 °C 
+(80 °F ±5 °F); wipe each specimen  to remove any loose material from the faces that will be in contact with the 
+bearing blocks of the  testing machine. 
+b) The dimensions of the cube height shall be measured to ±1.6 mm (50-mm mold) or to ±1/16 in. (2-in. mold) for 
+calculation of the cr oss-sectional area.  
+c) If the cube height is less than 47.5 mm (cube prepared using  a 50-mm mold) or less than 1.9 in. (cube 
+prepared using a 2-in. mold), t he cube should be discarded. 
+d) Place the specimen in the test ing machine centered below the  upper bearing block.  
+1) The load will be applied to the specimen faces that were in contact with the plane (vertical) surfaces of 
+the mold (not in contact with t he base or the co ver plates). 
+2) Prior to the testing of each cube, ascertain that the spheri cally seated block is free to tilt.  
+3) Use no cushioning or bedding materials. 
+e) Apply the load to the cube-specimen. The rate of loading sha ll be 18 kN/min ±2 kN/min (4000 lbf/min ±400 
+lbf/min) for specimens that were cured for 8 hours at 38 °C (10 0 °F). For all other specimens cured at any 
+other temperature, time, or pressure, the rate of loading shall  be 72 kN/min ±7 kN/min (16,000 lbf/min ±1600 
+lbf/min). 
+Caution—Employ appropriate safety and handling procedures in te sting the specimen. 
+f) Calculate the compressive strength expressed in megapascals (pounds force per square inch) as the force 
+required to break the sample divided by the smallest calculated  cross-sectional area in contact with the load-
+bearing plates of the load frame. 
+9.4 Compressive Strength Acceptance Criteria 
+The compressive strength of all acceptance-test specimens made from the same sample and tested at the same 
+period shall be recorded and averaged to the nearest 0.1 MPa (1 0 lbf/in.²). At least two- thirds of the original 
+individual specimens and the average of all the specimens teste d shall meet or exceed the minimum compressive 
+strength given in Table 8. A retest shall be made if fewer than  two strength values are left for determining the 
+compressive strength at any given period. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  25 
+Table 8—Compressive Strength S pecification Requirements 
+Cement Class Schedule 
+Number Final Curing 
+Temperaturea 
+°C (°F) Curing Pressureb
+MPa (lbf/in.²) Minimum Compressive Strength at 
+Indicated Curing Period 
+8 h 15 minc 
+MPa (lbf/in.²) 24 h 15 minc 
+MPa (lbf/in.²) 
+A — 38 (100) atmospheric 1.7 (250) 12.4 (1800) 
+B — 38 (100) atmospheric 1.4 (200) 10.3 (1500) 
+C — 38 (100) atmospheric 2.1 (300) 13.8 (2000) 
+D 4S 77 (170) 20.7 (3000) NRd 6.9 (1000) 
+6S 110 (230) 20.7 (3000)  3.4 (500) 13.8 (2000) 
+G, H — 38 (100) atmospheric 2.1 (300) NR 
+— 60 (140) atmospheric 10.3 (1500) NR 
+a The curing temperature shall be maintained at the indicated te mperature 2 °C (3 °F). 
+b The test pressure shall be applied as soon as specimens are pl aced in the pressure vessel, and maintained at the given 
+pressure within 3.4 MPa ( 500 lbf/in.²) for schedules 4S and 6S. 
+c Time includes cooling time of 40 min ±5 min. 
+d NR indicates “no requirement.” 
+10 Thickening-time Tests 
+10.1 Apparatus 
+A pressurized consistometer (see Figures 8 and 9) shall consist  of a rotating cylindrical slurry container (see 
+Figures 10 and 11) equipped with a stationary paddle assembly ( see Figures 12 and 13) enclosed in a pressure 
+vessel capable of withstanding t he pressures and temperatures s hown in Tables 9 through 11. 
+A heating system capable of raising the temperature of this oil  bath at the rate of at least 3 °C/min (5 °F/min) is 
+required. A temperature-measuring system shall be provided for determining and controlling the temperature of 
+the cement slurry (centerline). The slurry container is rotated  at a speed of 150 r/min 15 r/min. The consistency 
+of the slurry (see 10.2.2) shall be measured. The paddle and al l parts of the slurry container exposed to the slurry 
+shall be constructed according  to the dimensions given in Figur es 10 through 13. 
+The space between the slurry container and the walls of the pre ssure vessel shall be completely filled with white 
+mineral or synthetic oil. S ynthetic oil is a liquid consisting of chemical compounds artificially made (chemically 
+modified petroleum components or synthesized from other raw mat erials). White mineral oil is a  colorless, 
+odorless liquid consisting of a mixture of hydrocarbons obtaine d by distillation. 
+The selected oil shall safely a llow the required 3 °C/min heat- up rate. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+26  API  SPECIFICATION 10A 
+ 
+Key 
+1 slurry-container thermocouple 
+2 sealing ring 
+3 potentiometer mechanism 4 contact pin 
+5 pressure port 
+6 drive bar 7 wall thermocouple 
+8 heater 
+9 cooling coil 10 slurry container 
+11 container drive table  
+(rotates counterclockwise) 
+12 removable packing cartridge 13 pressure port 
+14 thrust bearing 
+15 miter gears 16 gear reducer 
+Figure 8—Typical Gear Drive Cons istometer for Pressurized Speci fication Thickening-time Test 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  27 
+ 
+Key 
+1 slurry-container thermocouple 
+2 sealing ring 
+3 potentiometer mechanism 4 contact pin 
+5 pressure port 6 slurry container 
+7 cooling coil 
+8 heater 9 wall thermocouple 
+10 container drive table  
+(rotates counterclockwise) 11 pressure port 
+12 magnetic drive 
+13 drive belt 
+Figure 9—Typical Magnetic Drive Consistometer for Pressurized S pecification Thickening-time Test  
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+28  API  SPECIFICATION 10A 
+ 
+Key 
+INSP inspection 
+NOTE 1 Dimensions provided are for manufacturing reference only  and are in mm (in.) unles s otherwise indicated. 
+NOTE 2 Dimensions tagged as “IN SP” for use with evaluating wear . Maximum “INSP” wear: ±1.0 mm (±0.04 in.). 
+Figure 10—Slurry Container Assembl y for a Pressurized Consistom eter 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  29 
+ 
+Key 
+INSP inspection  
+NOTE 1 Dimensions provided are for manufacturing reference only  and are in mm (in.) unless otherwise indicated. 
+NOTE 2 Dimensions tagged as “IN SP” for use with evaluating wear . Maximum “INSP” wear: ±1.0 mm (±0.04 in.). 
+Figure 11—Slurry Container Assembly for a High-temperature Pres surized Consistometer 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+30  API  SPECIFICATION 10A 
+ 
+ 
+Key 
+INSP inspection  
+TYP typical 
+NOTE 1 Paddle material: stainless steel, typically made as one piece without welds, typical thickness 1.5 mm +0.5 mm/ 
+-0.0 mm (0.06 in. +0.02 in./-0.00 in.).   
+NOTE 2 Taper all leading edges out and down, and round all trai ling edges; typical radius 0.75 mm (0.03 in.). 
+NOTE 3 Rotate the slurry contain er counterclockwise when viewed  from the top of the paddle. 
+NOTE 4 Dimensions provided are for manufacturing reference only  and are in mm ( in.) unless otherwise indicated. 
+NOTE 5 Dimensions tagged as “IN SP” for use with evaluating padd le wear. Maximum “INSP” wear: ±1.0 mm (±0.04 in.). 
+Figure 12—Paddle for a Pressurized Slurry Container 
+ 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  31 
+ 
+ 
+NOTE 1 Dimensions provided are for manufacturing reference only  and are in mm (in.) unles s otherwise indicated. 
+NOTE 2 Dimensions tagged as “IN SP” for use with evaluating wear . Maximum “INSP” wear: ±1.0 mm (±0.04 in.). 
+Figure 13—Paddle Shaft for a Pressurized Slurry Container  
+10.2 Calibration 
+ General 
+Measurement of the thickening-ti me of a cement slurry requires calibration and maintena nce of operating systems 
+of the pressurized consistometer, including consistency measure ment, temperature-measuring systems, 
+temperature controllers, motor speeds, timers, and gauges, as w ell as the slurry container assembly for wear. All 
+apparatuses are calibrated according to Annex C. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+32  API  SPECIFICATION 10A 
+ Consistency 
+Consistency of cement slurry is expressed in Bearden units of c onsistency, Bc. This value shall be determined by 
+a torque measurement device (see Figure 14 for a typical potent iometer mechanism) and voltage measurement 
+circuit that has been calibr ated according to Annex C. 
+The calibration method as specified in Annex C shall be used, a s well as procedures in the potentiometer 
+manufacturer’s instructions manual. A weight-loaded device (see  Figure C.2 for a typical potentiometer calibrating 
+device) is used to produce a series of torque equivalent values  for consistency for calibration. Dedicated 
+potentiometer calibration weights are used to apply torque to t he potentiometer spring, using the radius of the 
+potentiometer frame as a lever arm. As dedicated calibration we ights are added, the spring is deflected and 
+resulting DC voltage and/or Bc increases.  
+ 
+ 
+ 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  33 
+ 
+Key 
+1 resistor 
+2 bearing shaft 
+3 arm contact 4 collar, spring 
+5 sleeve, spring 6 retainer, shaft bearing spring 
+7 clamp, spring adjustor 
+8 insulator 9 adjustor, spring 
+10 resistor 11 frame, mount 
+12 stop, mount frame 
+13 contact springs 14 bearing, frame 
+15 arm, stop 
+Figure 14—Typical Potentiometer M echanism for a Pressurized Con sistometer 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+34  API  SPECIFICATION 10A 
+ Temperature-measuring System 
+The temperature-measuring system shall be accurate to ±1 °C (±2 °F); see Annex C. Calibration procedure details 
+as given in Annex D are commonly used.  
+ Motor Speed 
+The motor shall meet the requi rements given in Annex C. 
+ Timers 
+Timers shall be accurate to within ±5 seconds per hour. If not within required accuracy, the units shall be adjusted 
+or replaced. 
+ Pressure-measuring System 
+Calibration shall be conducted against a dead -weight tester or master gauge; see Annex C.  
+ Slurry Container Assembly  
+A caliper accurate to 0.1 mm (0.005 in.) at minimum is required  to verify pressurized consistometer key 
+dimensions (dimensions tagged as “INSP” shown in Figures 10 thr ough 13) for wear of slurry container assembly 
+parts; see Annex C.  
+10.3 Procedure 
+ Operating Instructions 
+Detailed operating instructions developed by the operator or fu rnished by the equipment manufacturer are 
+applicable for this method and shall be followed, provided they  conform to the specifications contained in this 
+specification. Grease may be pl aced only on the threaded surfac es of the slurry container. 
+ Assembling and Filling the Slurry Container 
+Inspect and assemble the slurry cup, prepare the slurry accordi ng to Section 7, and fill the slurry container by the 
+following steps: 
+1) Ensure the cup and threads are clean. 
+2) Inspect the diaphragm and r eplace it if it is damaged. 
+3) Assemble the paddle shaft assembly and diaphragm with diaphr agm support ring and backup plate, and 
+secure them in the cup sleeve with the flange ring (the paddle and inside of the cup sleeve should not be 
+greased, as some greases have been found to affect thickening-t ime results). Ensure the tapered side of the 
+diaphragm support ring is agains t the diaphragm for the best se al. 
+4) Assemble the base and center plug (pivot bearing) and make s ure the paddle turns freely. 
+5) Remove the base and pivot beari ng. Grease the threads of the  cup on the base end to ease removal 
+following the test. Gre ase the threads of t he center plug to ea se removal. 
+6) With the base end of the slu rry container up, prepare the sl urry according to Section 7 and fill to the top (or 
+leaving two to three threads showing); 
+7) Strike the cup and remove any  air that rises to the top of t he slurry. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  35 
+8) Install the base until slurry  is extruded through the center  hole. 
+9) Install the center plug (pivot  bearing) into the container a nd tighten it until both the plug and base are tight in 
+the container. 
+10) Rinse all cement from the outer surfaces and dry them. 
+11) Recheck the paddle to ens ure it turns smoothly. 
+ Initiation of Test 
+ Place the filled slu rry container on the drive table in the pr essure vessel, start r otation of the slurry 
+container, and secure the potentio meter mechanism or other suit able device for measurin g consistency so as to 
+engage the paddle shaft drive bar . Begin filling the vessel wit h oil. The paddle shaft s hould not be rotating. 
+NOTE Some consistometers fill w ith oil faster than others. Begi n filling those that fill quickly after the head assembly has 
+been secured in the pressure vessel.  
+ Secure the head assembly in t he pressure vesse l and insert the  thermocouple through its fitting, and 
+partially engage the threads. Afte r the pressure vessel is comp letely filled with oil, ti ghten the threads of the 
+thermocouple. 
+ Begin the thickening-time test b y applying the initial pressur e and starting the temperature ramp. No 
+more than 5 min should have elapsed after cessation of mixing o f the slurry as specified in 7.2.5 and the 
+beginning of the test.  
+ Temperature and Pressure Control 
+During the test period, increase the temperature and pressure o f the cement slurry in the slurry container in 
+accordance with the appropriate specification schedule given in  Tables 9, 10, and 11. During the ramp of schedules 
+4, 5, and 6, the temperature and pressure shall be maintained w ithin ±3 °C (±5 °F) and ±2 MPa (±300 lbf/in.²lbf/in.²) of 
+their targets, respectively, v ersus the appropriate elapsed tim e. Within 10 min after the end of the ramp, the 
+temperature and pressure shall be within ±1 °C (±2 °F) and ±0.7 MPa ( ±100 lbf/in.²lbf/in.²), respectively, of the 
+specified values. Determine the temperature of the cement slurr y for specification testing by the use of a 
+temperature-measuring device l ocated in the center of the sampl e container. 
+The tip of the thermocouple shall be vertically positioned with in the paddle shaft in the slurry cup in such a way 
+that it is between 45 mm (1.77 in.) and 89 mm (3.5 in.) above t he inside of the base of the sample container. As 
+there are many models of consist ometers having different dimens ions, care shall be taken to ensure that the 
+thermocouple used is compatible w ith the consistometer and that  the position of the tip of the thermocouple is in 
+the correct location specified above. 
+  
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+36  API  SPECIFICATION 10A 
+Table 9—Schedule 4: Specification Thickening-time Test 
+for Classes A, B, C, and D Cement 
+Elapsed Time   
+min Pressure  
+MPa (lbf/in.²lbf/in.²) Temperature  
+°C (°F) 
+0 5.2 (750) 27 (80) 
+2 7.6 (1100) 28 (83) 
+4 9.7 (1400) 31 (87) 
+6 11.7 (1700) 32 (90) 
+8 13.8 (2000) 34 (93) 
+10 15.9 (2300) 36 (97) 
+12 17.9 (2600) 38 (100) 
+14 20.0 (2900) 39 (103) 
+16 22.1 (3200) 41 (106) 
+18 24.8 (3600) 43 (110) 
+20 26.7 (3870) 45 (113) 
+ 
+Table 10—Schedule 5: Specificati on Thickening-time Test for Cla sses G and H Cement 
+Elapsed Time  
+min Pressure  
+MPa (lbf/in.²lbf/in.²) Temperature  
+°C (°F) 
+0 6.9 (1000) 27 (80) 
+2 9.0 (1300) 28 (83) 
+4 11.1 (1600) 30 (86) 
+6 13.1 (1900) 32 (90) 
+8 15.2 (2200) 34 (93) 
+10 17.3 (2500) 36 (96) 
+12 19.3 (2800) 37 (99) 
+14 21.4 (3100) 39 (102) 
+16 23.4 (3400) 41 (106) 
+18 25.5 (3700) 43 (109) 
+20 27.6 (4000) 44 (112) 
+22 29.6 (4300) 46 (115) 
+24 31.7 (4600) 48 (119) 
+26 33.8 (4900) 50 (122) 
+28 35.6 (5160) 52 (125) 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  37 
+Table 11—Schedule 6: Specificati on Thickening-time Test for Cla ss D Cement 
+Elapsed Time  
+min Pressure  
+MPa (lbf/in.²lbf/in.²)  Temperature  
+°C (°F)  
+0 8.6 (1250) 27 (80) 
+2 11.0 (1600) 29 (84) 
+4 13.1 (1900) 31 (87) 
+6 15.9 (2300) 33 (91) 
+8 17.9 (2600) 34 (94) 
+10 20.7 (3000) 37 (98) 
+12 22.8 (3300) 38 (101) 
+14 25.5 (3700) 41 (105) 
+16 27.6 (4000) 42 (108) 
+18 30.3 (4400) 44 (112) 
+20 32.4 (4700) 47 (116) 
+22 35.2 (5100) 48 (119) 
+24 37.2 (5400) 51 (123) 
+26 39.3 (5700) 52 (126) 
+28 42.1 (6100) 54 (130) 
+30 44.1 (6400) 56 (133) 
+32 46.9 (6800) 58 (137) 
+34 49.0 (7100) 60 (140) 
+36 51.6 (7480) 62 (144) 
+10.4 Thickening-time and Consistency 
+Record the elapsed time between the initial application of pres sure and temperature (initiation of the test) to the 
+pressurized consistometer and the time at which a consistency o f 100 Bc is reached, as the thic kening time for the 
+test. 
+Report the maximum consistency during the 15 min to 30 min peri od after the initiation of the test. 
+10.5 Specification Acceptance Requirements 
+The acceptance requirements for the maximum consistency during the 15 min to 30 min period after the initiation 
+of the test shall be 30 Bc for all classes of cement manufactured in accordance with this specification. The 
+acceptance requirement for the th ickening time is given in Tabl e 12. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+38  API  SPECIFICATION 10A 
+Table 12—Thickening-time Acceptance Requirement 
+Class Schedule Minimum Thickening-time 
+min Maximum Thickening-time 
+min 
+A 4 90 NRa 
+B 4 90 NR 
+C 4 90 NR 
+D 4 90 NR 
+6 100 NR 
+G 5 90 120 
+H 5 90 120 
+ a  NR indicates “no requirement.” 
+11 Marking 
+For sacked cement, the information required shall be marked on each sack; for bulk cement, the information 
+required shall be marked or attached to the bill of lading on e ach shipment. The following information shall be 
+marked on or made available with each shipment of well cement: 
+a) manufacturer's name; b) class and sulfate-resistance grade of cement; 
+c) net mass. 
+Licensed API cement manufacturers wishing to mark their product s with the API Monogram shall follow marking 
+requirements according to Annex A. 
+12 Packing 
+Well cement shall be furnishe d in bulk or in sacks. 
+Each sack shall contain a specif ied net mass of ±2 %. The avera ge net mass of 5 % of all sacks in a shipment, 
+taken at random, shall not be le ss than the specified mass. 
+A cement sack shall be resistant to moisture, resistant to dama ge during handling, and easy to cut during transfer 
+to bulk facilities.  
+NOTE Cement sacks frequently consist of up to six paper layers,  with a minimum areic mass of 70 g/m2 (0.014 lbm/ft2), 
+each with up to two polyethylene or polypropylene layers with a n areic mass of 15 g/m2 (0.003 lbm/ft2) to 24 g/m2 
+(0.005 lbm/ft2) each included between the first and fifth paper layers. Up to  two asphalt or bitumen layers are included to 
+further improve resistance to damage. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  39 
+Flexible bulk cement containers should provide an acceptable te nsile strength (safety factor of 5-to-1 minimum).  
+They should also be resistant to ultraviolet radiation when pol yethylene or polypropylene layers are used, and be 
+suitably moisture-proof. 
+13 Bentonite 
+Bentonite is a naturally occurri ng clay mineral, composed prima rily of smectite. Non-treated bentonite, for use in 
+well cementing, is dried and ground, but not chemically treated  during processing. 
+Bentonite meeting the requirement s of this specification for us e in well cementing shall meet all the requirements 
+for non-treated bentonite in acco rdance with API Specification 13A. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+ 
+ 
+Annex A 
+(informative) 
+API Monogram Program  
+Use of the API Monogram by Licensees 
+A.1 Scope  
+The API Monogram® is a registered certification ma rk owned by the American Petro leum Institute (API) and 
+authorized for licensing by the API Board of Directors. Through  the API Monogram Program, API licenses product 
+manufacturers to apply the API Monogram to new products which c omply with product specifications and have 
+been manufactured under a qualit y management system that meets the requirements of API Spec Q1. API 
+maintains a complete, searchable list of all Monogram licensees  on the API Composite List website 
+(http://compositelist.api.org ).  
+The application of the API Monogram and license number on produ cts constitutes a representation and warranty 
+by the licensee to API and to purchasers of the products that, as of the date indicated, the products were 
+manufactured under a quality management system conforming to th e requirements of API Spec Q1 and that the 
+product conforms in every deta il with the applicable standard(s ) or product specification(s). API Monogram 
+Program licenses are issued only after on-site audits have veri fied that an organization has implemented and 
+continually maintained a quality management system that meets t he requirements of API Spec Q1 and that the 
+resulting products satisfy the requirements of the applicable A PI product specification(s) and/or standard(s). 
+Although any manufacturer may claim that its products meet API product requirements without monogramming 
+them, only manufacturers with a license from API can apply the API Monogram to their products. 
+Together with the requirements of the API Monogram license agre ement, this annex establishes the requirements 
+for those organizations who wish to voluntarily obtain an API l icense to provide API monogrammed products that 
+satisfy the requirements of the applicable API product specific ation(s) and/or standard(s) and API Monogram 
+Program requirements.  
+For information on becoming an API Monogram Licensee, please co ntact API, Certification Programs, 1220 L 
+Street, NW, Washington, DC 20005 at Certification@api.org . 
+A.2 Normative References 
+For Licensees under the Monogram Program, the latest version of  this document shall be used. The requirements 
+identified therein are mandatory.  
+A.3 Terms and Definitions 
+For purposes of this annex, the  following terms and definitions  apply. 
+A.3.1 
+API monogrammable product 
+Product that has been newly manufactured by an API Licensee uti lizing a fully implemented API Spec Q1 
+compliant quality management system and that meets all the API- specified requirements of the applicable API 
+product specification(s) and/or standard(s). 
+A.3.2 
+API product specification 
+Prescribed set of rules, conditions, or requirements attributed  to a specified product that address the definition of 
+terms; classification of compone nts; delineation of procedures;  specified dimensions; manufacturing criteria; 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  41 
+material requirements, performance testing, design of activitie s; and the measurement of quality and quantity with 
+respect to materials; products, p rocesses, services, and/or pra ctices.  
+A.3.3 
+API-specified requirements 
+Requirements, including performance and Licensee-specified requ irements, set forth in API Spec Q1 and the 
+applicable API product specification(s) and/or standard(s). 
+NOTE Licensee-specified requirem ents include those activities n ecessary to satisfy API-s pecified requirements. 
+A.3.4 
+design package  Records and documents required to provide evidence that the app licable product has been designed in 
+accordance with API S pec Q1 and the require ments of the applica ble product specification(s) and/or standard(s). 
+A.3.5 
+licensee 
+Organization that has successfu lly completed the application an d audit process, and has been issued a license by 
+API to use the API Monogram Mark.  
+A.4  Quality Management System Requirements 
+An organization applying the API Monogram to products shall dev elop, maintain, and operate at all times a quality 
+management system conforming to API Spec Q1. 
+A.5 Control of the Application and Removal of the API Monogram  
+Each licensee shall control the applicati on and removal of the API Monogram in accordance with the following: 
+a) Products that do not conform  to API specified requirements s hall not bear the API Monogram. 
+b) Each licensee shall develop and maintain an API Monogram mar king procedure that documents the 
+marking/monogramming requirement s specified by this annex and a ny applicable API product specification(s) 
+and/or standard(s). The marking procedure shall:  
+4) define the authority responsib le for application and removal  of the API Monogram and license number; 
+5) define the method(s) used to  apply the Monogram and license number; 
+6) identify the location on the product where the API Monogram and license number are to be applied;  
+7) require the application of t he date of manufacture of the pr oduct in conjunction with the use of the API 
+Monogram and license number; 
+8) require that the date of manufacture, at a minimum, be two d igits representing the month and two digits 
+representing the year (e.g. 05-12 for May 2012) unless otherwis e stipulated in the applicable API 
+product specification(s) or standard(s); and  
+9) define the application of a ll other required API product spe cification(s) and/or standard(s) marking 
+requirements.  
+c) Only an API licensee shall apply the API Monogram and its de signated license number to API 
+monogrammable products. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+42  API  SPECIFICATION 10A 
+d) The API Monogram and license number, when issued, are site-s pecific and subsequently the API Monogram 
+shall only be applied at that sit e specific licen sed facility l ocation. 
+e) The API Monogram may be applie d at any time appropriate duri ng the production process but shall be 
+removed in accordance with the licensee’s API Monogram marking procedure if the product is subsequently 
+found to be out of conformance with any of the requirements of the applicable API product specification(s) 
+and/or standard(s) and API Monogram Program.  
+For certain manufacturing process es or types of products, alter native API Monogram marking procedures may be 
+acceptable. Requirements for alternative API Monogram marking a re detailed in the API Alternative Marking 
+Agreement (AMA), which is available on the API Monogram Program  website at: 
+https://www.api.org/~/media/File s/Certification/Monogram-APIQR/ 0_API-Monogram-APIQR/Resources/API-
+Monogram-Alt-Marking-Agreement _Rev-8_FM-011_Modified-20180601.p df. 
+A.6 Design Package Requirements 
+Each licensee and/or applicant for licensing shall maintain a c urrent design package for all of the applicable 
+products that fall under the scope of each Monogram license. Th e design package information shall provide 
+objective evidence that the prod uct design meets the requiremen ts of the applicable and mo st current API product 
+specification(s) and/or standard( s). The design package(s) shal l be made available during API audits of the 
+facility.  
+In specific instances, the exclusion of design activities is al lowed under the Monogram Program, as detailed in 
+Advisory # 6, available on the API Monogram Program website at https://www.api.org/ 
+products-and-services/api-monog ram-and-apiqr/advisories-updates .  
+A.7 Manufacturing Capability  
+The API Monogram Program is designed to identify facilities tha t have demonstrated the ability to manufacture 
+equipment that conforms to API specifications and/or standards.  API may refuse initial licensing or suspend 
+current licensing based on a facility’s level of manufacturing capability. If API determines that additional review is 
+warranted, API may perform additional audits (at the organizati on’s expense) of any primary subcontractors to 
+ensure their compliance with applicable specifications. 
+Facilities with capabilities that  are limited to the processes or activities defined below do not meet the 
+manufacturing capability requirements to produce new products, and therefore, shall not be licensed or be the 
+basis for licensing under the API Monogram Program: 
+— Capabilities that are limited to performing final inspection and testing of the product, except for testing     
+agencies as Specified in API S pec 14A and/or API Spec 6AV 
+— Buying, selling and/or distributing finished products and mat erials; 
+— Design and development activities; 
+— Tearing-down and/or re-assemb ling of products/components; and , 
+— Repairing or remanufacturing of existing, used, worn or damag ed products. 
+In all instances where requirements for manufacturing or manufa cturing facilities are explicitly identified within the 
+API product specification, those requirements shall take preced ence over this advisory. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  43 
+A.8 Product Marking Requirements  
+A.8.1 General 
+These marking requirements shall apply only to those API Licens ees wishing to mark applicable products in 
+conjunction with the requirem ents of the API Monogram Program. 
+A.8.2 Product Specification Identification  
+Manufacturers shall mark products as specified by the applicabl e API specifications or standards. Marking shall 
+include reference to the applicable API specification and/or st andard. Unless otherwise specified, reference to the 
+API specifications and/or standard s shall be, as a minimum, “AP I [Document Number]” (e.g. API 6A, or API 600). 
+Unless otherwise specified, when  space allows, the marking may include use of “Spec” or “Std”, as applicable 
+(e.g. API Spec 6A or API Std 600). 
+A.8.3 Units  
+Products shall be marked with units as specified in the API spe cification and/or standard. If not specified, 
+equipment shall be marked with U.S. customary (USC) units. Use of dual units [USC units and metric (SI) units] 
+may be acceptable, if such units are allowed by the applicable product specification and/or standard. 
+A.8.4 Nameplates  
+Nameplates, when applicable, shall be made of a corrosion-resis tant material unless otherwise specified by the 
+API specification and/or standard. Nameplate shall be located a s specified by the API specification and/or 
+standard. If the location is not  specified, then the licensee s hall develop and maintain a procedure detailing the 
+location to which the nameplate shall be applied. Nameplates ma y be attached at any time during the 
+manufacturing process. 
+The API Monogram and license number shall be marked on the name plate, in addition to the other product 
+marking requirements specified by the applicable product specif ication and/or standard.  
+A.8.5 License Number 
+The API Monogram license number shall not be used unless it is marked in conjunction with the API Monogram. 
+The license number shall be use d in close proximity to the API Monogram. 
+A.9 API Monogram Program: Nonconformance Reporting  
+API solicits information on products that are found to be nonco nforming with API specified requirements, as well 
+as field failures (or malfunctions), which are judged to be cau sed by either specification and/or standard 
+deficiencies or nonconformities against API specified requireme nts. Customers are requested to report to API all 
+problems with API monogrammed products. A nonconformance may be  reported using the API Nonconformance 
+Reporting System available at http://ncr.api.org/ncr.aspx .  
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+ 
+ 
+Annex B 
+(normative) 
+Composite Well Cements 
+B.1 General 
+Composite well cements consist of Portland cement and additiona l constituent(s) such as s ilica, fly ash ( coal ash), 
+expanded shale, clay, or any other  natural, processed, or manma de materials that are either blended or 
+interground. Such composite well cements have been manufactured  by cement manufacturers and others, and 
+have a long and successful history of use for cementing oil and  gas wells. Such composite well cements are 
+appropriate for cementing oil or gas wells when used by themsel ves or when blended with other materials to 
+enhance their properties to meet the well conditions, and all a ppropriate design and regulatory requirements for 
+mixing, placement, and pe rformance in the well. 
+This annex defines specifications for certain composite well ce ments that are manufactured by facilities having a 
+fully implemented, recognized quality management system in plac e, but does not precl ude the use of other 
+composite well cements as described above for use in wells when  such composite well cements meet the 
+requirements of the well. 
+The physical and chemical specifications for composite well cem ents described in this annex may also be used 
+for reference testing of field blended composite well cements b efore tailoring them to the specific well cement 
+conditions. 
+B.2 Specification, Chemical, and Physical Requirements 
+ Classes and Grades 
+B.2.1.1 General 
+Composite well cements according to this annex shall be specifi ed using Classes K and L. Class K is available in 
+different grades : ordinary (O), m oderate sulfate-resistant (MSR ), and high sulfate-resistant (HSR). 
+Composite well cement by this annex shall be manufactured at fa cilities having a fully i mplemented, recognized 
+quality management system in place  such as, but not limited to,  API Specification Q1. 
+Composite well cement is obtaine d by intergrinding Portland cem ent clinker and one or more forms of CaSO 4 with 
+composite constituents as specified in B.2.2, or by subsequent blending of separately produced Portland cement 
+with separately processed compos ite constituents as specified i n B.2.2. 
+Composite well cement that has been manufactured and supplied i n accordance with this annex may be mixed 
+and placed in the field using water ratios or additives at the user’s discretion. It is not  intended that manufacturing 
+compliance with this part of API Specificati on 10A be based on such field conditions. 
+Processing additives, set modify ing agents, or chemical additiv es to reduce chromium (VI ) are permitted, provided 
+that such additives do not prev ent the composite well cement fr om performing its intended functions. 
+B.2.1.2 Class K 
+Class K composite well cement is obtained by intergrinding Port land cement clinker and one or more forms of 
+CaSO 4 with silica as specified in B.2 .2.1, or by subsequent blending  of separately produced Portland cement with 
+separately ground silica flour as specified in B.2.2.1. At the manufacturer’s discreti on, another constituent 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  45 
+(additive) as specified in B.2.2 may be interground or interble nded. When added, such other constituents shall be 
+reported to the final user by content and type. 
+This product is intended for use as a basic well cement and is available in O, MSR, and HSR grades, depending 
+on the C 3A content of the Portland cement  clinker being interground or P ortland cement being blended to produce 
+the product.   
+B.2.1.3 Class L 
+Class L composite well cement is obtained by intergrinding Port land cement clinker and one or more forms of 
+CaSO 4 with fly ash as specified in B.2.2.3; with other pozzolanic ma terial as specified in B.2.2.2; by blending 
+separately produced Portland cement with separately processed f ly ash as specified in B.2.2.3; or with other 
+pozzolanic material as specified in B.2.2.2. At the manufacture r’s discretion, free-fluid at the manufacturer’s 
+design water ratio may be adjust ed by using bentonite or other materials that provide suitable particle-suspending 
+properties that, when added to the final pro duct, shall be repo rted to the final user by content and type. 
+This product is intended for use under conditions when a lowe- density cement slu rry is desired. 
+ Composite Constituents (Other than Portland Cement or Clinker) 
+B.2.2.1 Silica 
+Silica is synonymous wit h silicon dioxide (SiO 2). Silica exists in different for ms that can be crystalline (mo st 
+commonly as quartz) as  well as non-cryst alline (amorphous). 
+NOTE 1 A special form  of amorphous silica is silica fume specif ied, e.g. in EN 197-1.  
+NOTE 2 Amorphous silica is no t considered in the context of thi s specification. 
+The term silica in the context of this specification refers onl y to crystalline silica with a  silicon dioxide content of at 
+least 90 %, the remainder being minerals that naturally occur i n conjunction with silico n dioxide. Silica flour or 
+processed silica refers to cryst alline silica being produced to  a fineness that makes it su itable as a constituent for 
+composite well cement Class K according to this annex. 
+B.2.2.2 Pozzolanic Constituents 
+B.2.2.2.1 General 
+Pozzolanic materials are descri bed as siliceous (mainly in form  of reactive silicon dioxide, SiO 2) or siliceous and 
+aluminous (mainly Al 2O3) materials, and iron oxide (Fe 2O3), with small amounts of oxi des of other elements that 
+themselves possess little or no cementitious value but that wil l, in finely divided form and in the presence of 
+moisture, chemically react with calcium hydroxide [Ca(OH) 2] at ordinary temperatures to form compounds 
+possessing cementitious properties. These compounds are similar  to those that are formed in the hardening of 
+Portland cement. 
+Before use for manufacturing of API composite well cements acco rding to this annex, pozzolanic materials shall 
+be correctly prepared, e.g. sele cted, homogenized, dried, or he at-treated and comminuted, depending on their 
+state of production or delivery. 
+Although some fly ashes have pozzo lanic properties, they are sp ecified separately (see B.2.2.3). 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+46  API  SPECIFICATION 10A 
+B.2.2.2.2 Natural Pozzolanic Constituents 
+Natural pozzolanic constituents are naturally occurring materia ls of volcanic origin, such as volcanic ashes, tuffs, 
+pumices, etc., or sedimentary rocks with suitable chemical and mineralogical composition, and shall conform to 
+the requirements given in B.2.2.2.1. 
+B.2.2.2.3 Natural Calcined Pozzolanic Constituents 
+Natural calcined pozzolanic constituents are materials of volca nic origin, clays, shales, or sedimentary rocks that 
+are thermally treated to improve or activate their pozzolanic r eactivity, and shall conform to the requirements 
+given in B.2.2.2.1.  
+B.2.2.3 Fly Ashes 
+Fly ash is the finely divided re sidue that results from the com bustion of ground or powdered coal. It is obtained by 
+electrostatic or mechanical s eparation of fine particles from f urnace flue gases. 
+Fly ash is called artificial p ozzolan and is the pozzolan most commonly used in well cement formulations. 
+According to ASTM C618-08, a Class C fly ash is obtained by bur ning lignite or subbituminous coals. Class C fly 
+ash has pozzolanic properties and also has some cementitious pr operties. Class C fly ash may have lime content 
+higher than 10 %. 
+According to ASTM C618-08, a Class F fly ash is produced as the  combustion residue from anthracite or 
+bituminous coals. Class F fly a sh has pozzolanic properties. 
+ Chemical Requirements 
+Composite well cements shall conform to the respective chemical  requirements as stipulated in the following 
+clauses. 
+B.2.3.1 Class K 
+The manufacturer of Class K is required to calculate and make a vailable to the end user the CaO-to-SiO 2 mole 
+ratio of the finished product. This determines the capability o f the product to prevent or lessen strength 
+retrogression at elevated well temperatures. Usually, such capa bility is given at a ratio lower than 1.25. For 
+blended Class K composite well cements, this is usually accompl ished by adding high-purity silica in the 
+magnitude of 35 % to 40 % by weight of cement. 
+Chemical analysis of hydraulic cements shall be carried out as shown in ASTM C114 or EN 196-2, e.g. by X-ray 
+fluorescence analysis. The CaO-to-SiO 2 mole ratio is calculated us ing the following formula:  
+ 
+2
+22CaO
+CaO
+SiO
+SiOm
+M CaOmole ratiom SiO
+M   (B.1) 
+where  
+𝑚CaO is the mass fraction of CaO in a sample of composite well ceme nt, expressed in grams;  
+𝑚SiO 2 is the mass fraction of SiO 2 in a sample of composite well cement, expressed in grams; 
+𝑀CaO  is the molar mass of calci um oxide (56.08 g/mol); 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  47 
+𝑀SiO 2 is the molar mass of silic on dioxide (60.09 g/mol). 
+NOTE In cement chemistry terms, CaO is abbreviated as C and SiO 2 is abbreviated as S. Therefore, CaO/SiO 2 often 
+expressed as C/S mole ratio. 
+EXAMPLE   CaO/SiO 2 mole ratio calculation in a sam ple of composite well cement of  100 g: 
+mCaO = 47.43 g, here in 100 g of a  composite sample (= 47.43 %) 
+mSiO=  41.51 g, here in 100 g of a c omposite sample (= 41.51 %) 
+ 
+247.43
+0.846 56.08 /1.2241.51 0.691
+60.09 /g
+CaO mol gm o lmole ratiog SiO mol
+gm o l    
+Class K composite well cement is further specified by sulfate-r esistance grades ordinary (O), moderate sulfate-
+resistant (MSR), and high sulfat e-resistant (HSR). The sulfate- resistance grade of the finished Class K composite 
+well cement depends on the percentage mass fraction of C 3A of the Portland cement clinker or the Portland 
+cement—the first in case the co mposite well cement is manufactu red by intergrinding the composite constituents, 
+and the latter in case the compos ite well cement is manufacture d by blending Portland cem ent with the composite 
+constituents. The assignment of su lfate-resistance grades of Cl ass K to the C 3A content of Class K clinker or 
+cement—whatever production method is chosen—is the same as for Classes A to H. For calculation of 
+percentage mass fraction of C 3A of clinker and cement, the formul as as specified in Section 4 , Table 1 apply. 
+NOTE Generally, the formulas of Section 4, Table 1 apply only t o the finished cement as an interground blend of Portland 
+cement clinker and gypsum. When ap plying them to clinker only, the error due to the absence of gypsum can be considered 
+as marginal (negligible) fo r the purpose of this annex. 
+B.2.3.2 Class L 
+The manufacturer of Class L shall calculate and make available to the end user the CaO-to-SiO 2 mole ratio of the 
+finished product. 
+No further chemical requirement s are set for Class L composite well cement. 
+ Physical and Performance Requirements 
+Composite well cements shall conform to the respective physical  and performance requirements given in Table 
+B.1 and in accordance with Secti on 8 through 10. When reporting  results of specification  testing, the manufacturer 
+shall always state them in conjunction with the applied mix wat er percentage at which these tests were 
+performed. 
+The manufacturer of Class L shall also state the slurry density4 at the design mix water percentage and at which 
+mix water percentage the perfor mance tests were performed. 
+Users of composite well cement m ay mix at different mix water p ercentages and with other modifying additives to 
+meet the performance requirement s of the well in which it is to  be applied. 
+ 
+ 
+4 For slurry density preferred me thod of determination, see API 10B-2. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+48  API  SPECIFICATION 10A 
+Table B.1—Physical and Performance Requirements for Composite W ell Cements 
+Composite Well Cement Class K L 
+Mix water as per manufacturer’s requirements a a,b 
+Free-fluid content , maximum, percent (Section 8) 5.9 5.9c 
+Compressive 
+Strength Test 
+Curing time: 8 h Schedule 
+Number 
+ Final Curing 
+Temperature 
+°C (°F) Curing 
+Pressure Minimum Compressive Strength 
+MPa (lbf/in.²lbf/in.²) 
+(Section 9) NAd 60 (140) atmospheric 3.5 (500) NA 
+Compressive 
+Strength Test 
+Curing time: 24 h Schedule 
+Number 
+ Final Curing 
+Temperature 
+°C (°F) Curing 
+Pressure Minimum Compressive Strength 
+MPa (lbf/in.²lbf/in.²) 
+(Section 9) NA 38 (100) atmospheric NA 1.7 (250) 
+Thickening-time 
+Test Specification 
+Test 
+Schedule 
+Number Maximum Consistency 
+(15 to 30 minutes stirring period) 
+Bce Thickening Time 
+(minimum/maximum) 
+minutes 
+(Section 10) 4 (Table 9) 30 NA 90/NA 
+(Section 10) 5 (Table 10) 30 70/140 NA 
+a The manufacturer shall indicate  on certificates of conformance the design mix water percentage for the composite well cement 
+and which performance tests are performed. 
+b Mix water percentage by slurry d ensity desired. The manufacture r shall indicate on certificat es of conformance the slurry dens ity 
+at the design mix water percentage and at which performance tes ts are performed. 
+c Free-fluid may be adjusted by use of bentonite (see B.2.1.3) or  other water-adsorbing materials.  
+d NA indicates “not applicable.” 
+e Bearden units of consistency, B c, obtained on a pressurized consis tometer as defined in Section  10 and calibrated in 
+accordance with Annex C.   
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+ 
+ 
+Annex C  
+(normative)  
+ 
+Calibration and Verification o f Well Cement Testing Equipment 
+C.1 Overview 
+This annex defines the requirements for calibration and verific ation of measurements by instruments used in 
+testing cement for oil and gas well applications according to t he procedures prescribed in this document. 
+Henceforth, the term “calibration” is used to mean either verif ication and/ or calibration according to the 
+requirements of this document. Procedures will depend on the sp ecific instrument used for the calibration. 
+Manufacturer’s instructions should be followed for the calibrat ion. Calibrations shall be conducted using 
+instruments and devices traceable to national standards. 
+NOTE Calibration refers to the verification of an instrument or  to the adjustments made to the instrument if it is out of 
+calibration. If a verification shows the instrument to be in ca libration, the date and verification data will be the calibrati on. In this 
+calibration section, the word “verification” pertains to instru ments that cannot be changed if  they are inaccurate, and the wo rd 
+“calibrate” pertains to instruments that, if they are out of ca libration as seen by the “verific ation” of the instrument, may be 
+adjusted to get them i nto calibration. 
+C.2 General 
+The following sections set the requirements for interval and ac curacy of calibration of devices used in a laboratory 
+conducting tests according to this API specification. The requi rements by equipment type are given in Table C.1 
+and the frequency and allowable tolerances are given in Table C .2. 
+Volumetric glassware (graduated cylinders, conical flasks, and similar equipment) calibration is generally 
+performed by the glassware supplier, and may be part of the pur chase specification. Glassware users should 
+obtain documented evidence, where  deemed important, of glasswar e calibration from the supplier. Calibration 
+may be checked gravimetrically before the first use. Periodic r ecalibration is not required. As specified in C.3.14, a 
+procedure for graduated cylinders applicable to any volumetric glassware is detailed. 
+Dimensions of apparatuses such as cube molds and consistometer parts for wear may be verified using a caliper 
+accurate to at least 0.1 mm (0.005 in.).  
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+50  API  SPECIFICATION 10A 
+Table C.1—Equipment Calibration Requirements 
+Measurement 
+Instrument 
+Balance 
+Mixing Device 
+HPHT 
+Consistometer 
+Atmospheric 
+Pressure 
+Consistometer 
+Handheld Timers 
+Handheld 
+Thermometers 
+Atmospheric and 
+Pressurized Water 
+Baths 
+Cube Molds 
+Load Frame 
+Weight Sets 
+Chart Recorder 
+ (where used)  
+ Mass V/C V a        V   
+ Timer  V  V  V  V       V/C 
+(speed)
+ Rotation  V V/C V/C        
+ Temperature    V/C V/C  V/C V/C    V/C 
+ Dimensions   V     V    
+ Consistency    V / C         V / C  
+ Pressure gauge   V / C     V / C     V / C  
+ Auxiliary display   V  V         
+ Indication         V / C    
+NOTE   V/C indicates the verifi cation of calibration may be per formed first. If the verification values are acceptable at the time 
+it is verified, the verification will serve as a calibration. I f it is not in calibration tolerance, the calibration needs to be performed.  
+a  Blender blade mass  
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  51 
+ 
+ Table C.2—Verificatio n and Calibration of W ell Cement Testing E quipment 
+Equipment and 
+Component/Function Verification/
+Calibration  Check Points Tolerance Frequency 
+Balance (each range on 
+multi-range balance) Calibration Three points spread evenly 
+across range 0.1 % of reading for meas urements made at 10 g or 
+greater, up to the full scale of the balance 
+0.01 g of reading for meas urement made less than 10 g Annually 
+Weight sets Verification Each piece 0.1 % of nominal mass value 
+0.01 g of the nominal ma ss for 10 g or less. Routine usage: annually 
+Reference weight sets: 
+once every 2 years (or 5 years; see C.3.2)  
+Potentiometer calibration weight set  Verification Each piece  
+Note: Include holding support washer 0.1 % of mass value Annually  
+Timers Verification 12 min Within 5 s in one hour (minimum verification period: 
+within 1 s in 12 min) Annually 
+Chart speed Calibration One hour 2 min in one hour Annually 
+Mixing device (1 L) Verification 4000 r/min and 
+12,000 r/min 250 r/min @ 400 0 r/min and 
+250 r/min @ 12,000 r/min Annually 
+Mixing device blade mass Verific ation Initially when replaced M aximum 10 % loss  Prior each production 
+run tested or every 30 
+days, whichever is 
+greater 
+Blender timing device Verificati on 35 s Within 1 s in 35 s Annu ally 
+Temperature controlling 
+systems and displays Calibration Three points spanning the range Maximum of 1 °C (2 °F) Quarterly 
+Thermocouple Verification Three points spanning the range Maximum of 1 °C (2 °F) Quarterly 
+Handheld thermometer or 
+digital thermometer Calibration Three points spanning the range Maximum of 1 °C (2 °F)  Quarterly 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+52  API  SPECIFICATION 10A 
+ 
+ Equipment and 
+Component/Function Verification/
+Calibration  Check Points Tolerance Frequency 
+Consistometer container 
+speed (or paddle) Verification At 150 r/min 15 r/min at 150 r/min  Quarterly  
+Slurry container  Verification Figure 10 or Figure 11 (INSP” 
+dimensions)  Maximum wear 1.0 mm (0.04 in.) Annually 
+Slurry container paddle and 
+shaft Verification Figures 12 and 13 (INSP” 
+dimensions)  Maximum wear 1.0 mm (0.04 in.) Annually and whenever 
+parts are replaced 
+Consistency measuring 
+devices Calibration Table C.4 5 Bc or 0.5 V DC, as appropriate Monthly and whenever it 
+is adjusted, or parts 
+replaced 
+High range pressure gauge 
+or pressure measuring 
+device (>17,000 kPa or 
+2500 lbf/in.²) a Calibration 17MPa, 34 MPa, and 52 MPa 
+(2500 lbf/in.², 5000 lbf/in.² and 
+7500 lbf/in.²) or  25 %, 50 %, 
+75 % of full scale or maximum 
+user-defined working pressure Using deadweight tester  or master gauge;  
+1 % of full range or min imum gauge increment, 
+whichever is greater Annually or when 
+pressure transducer is 
+replaced 
+Low range pressure gauge 
+or pressure measuring 
+device— 
+(up to 17,000 kPa or 
+2500 lbf/in.²)  Calibration 3500 kPa (500 lbf/in.²) at 
+minimum and 10,500 kPa 
+(1500 lbf/in.²) or at the maximum 
+allowable working pressure or the 
+user defined working pressure 300 kPa (  50 lbf/in.²) Annually or when 
+pressure transducer is 
+replaced 
+Load frame Calibration At 9.0 kN (2000 lbf) and at 25 %, 
+50 % and 75 % of the maximum 
+load ±2 % of the indicated force or one minimum instrument 
+scale division, whichever is greater Annually 
+Cube molds (in use) Verification Cubes dimensions 50-mm molds: distance between opposite side 0.5 mm, 
+height of compartment +0.25 mm/-0.38 mm 
+2-in molds: distance between opposite side 0.02in., 
+height of compartmen t: +0.01in./-0.015 in. Once every two years 
+Data acquisition devices Verification Same as T and P Adjust or  prepare calibration table With sensor recorded 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  53 
+ 
+ Equipment and 
+Component/Function Verification/
+Calibration  Check Points Tolerance Frequency 
+Volumetric glasswareb,  NRc     Before first use 
+Graduated cylinderb, Verification/ 
+calibration 5 points  If required , prepare calibration  table Before first u se 
+NOTE  Calibration of air pressure gauges is not required. 
+a  Check points at 17MPa, 34 MPa, and 52 MPa (2500 lbf/in.², 5000 lbf/in.² and 7500 lbf/in.²) are the minimum requirements for hi gh range pressure gauges or pressure measuring 
+devices used for test conditions  as specified in API 10A. 
+b  Volumetric glassware (including graduated cylinders) calibratio n is done by supplier and may be part of the purchase specifica tion. Calibration may be checked gravimetrically before 
+the first use. Periodic reca libration is not required. 
+c  Not required  
+ 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+54  API  SPECIFICATION 10A 
+ 
+ The individual performing the verification/calibration shall po ssess adequate skill and training to properly perform the 
+calibration according to the proc edures specified for the devic e(s) being used. 
+Records of such calibration shall be maintained in a manner whe re the data or record cannot be altered after 
+certification. The records sha ll be maintained at least as long  as the data from tests performed during the calibration 
+period on the specific instrument are maintained.  
+Verification and calibration reco rds shall contain, as appropri ate: 
+ model name/number, serial number , and local identification num ber of the instrument; 
+— name, model number, and serial number of instrument used for the calibration; 
+— certification number, date of  certification, and date of next  calibration against national standard is due for the 
+calibration instrument; 
+— calibration inputs from the calibration instrument and the in itial (before calibration) and final (calibrated) 
+indications from instrument being calibrated; 
+— indication that instrument pas sed or failed each calibration point; 
+— condition found/condition left ( e.g. out of or in calibration ); 
+— adjustments made and re sults after adjustment; 
+— date of calibration; 
+— name and signature of c alibration technician; 
+— if calibration is by technician from an outside service, name  of service, location, and phone number. 
+Some instruments have multiple ce lls or testing systems within one unit (e.g. dual-cell consistometers). In such 
+cases, each cell or testing system shall be verified and/or cal ibrated (if not in calibration) individually, with a separate 
+certificate showing a unique i dentifier for each testing system . Components that are common to all of the cells or 
+testing systems need be calibra ted only once, but the calibrati on data shall be indicated on each certificate. 
+When the device is being used for a test, and a verification or  calibration becomes due, the verification or calibration 
+remains valid for the duration o f that test and the instrument should be calibrated a t the end of that test. 
+C.3 Requirements 
+ Balances 
+Balances shall be verified and/or calibrated (if not in calibra tion) no less frequently than annually. Balances shall be 
+accurate to 0.1 % of reading for measurement s made at 10 g or greater, up t o the full scale of the balance.  
+Balances shall be accurate to  0.01 g of reading for measurement made less than 10 g.  Balanc es shall have two-
+decimal-place precision at a minimum. Each range of a dual rang e balance shall be calibrated in this fashion. 
+ Weight Sets 
+Weight sets should be verified agai nst reference weights tracea ble to a national standard.  Weight sets to be verified 
+include, but are not limited to , those used daily (routine weig hing), and those used to calibrate consistometer 
+potentiometers (dedicated potentio meter calibration weight set)  or their equivalent.  
+Weight sets should be verified and/or calibrated no less freque ntly than once annually. Weights should conform 
+within 0.1 % of the nominal weight exc ept for weights with a mass equa l or less than 10 g (see Table C.3). Weights 
+of 10 g and less should conform within 0.01 g of the nominal mass. If weights do not conform to the sp ecification, 
+they should be discarded or sen t to the manufacturer for recert ification. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  55 
+ 
+NOTE 1 Dedicated potentiometer c alibration weights include the holding support washer. 
+NOTE 2 Annual verification should be required for weight sets u sed daily for routine weighing. For reference weight sets used 
+for annual verification, weights should be recertified against certified master weights every f ive years providing weights set s are 
+kept in a padded dust- and moisture-proof holder and used with tongs with plastic tips. If not t he case, reference weight sets  
+should be recertified every two years. 
+Table C.3—Permissible Variati on in Mass of Reference Weights 
+Mass  
+g Permissible Variation  
+g 
+1000 ±1.00 
+500 ±0.50 
+300 ±0.30 
+200 ±0.20 
+100 ±0.10 
+50 ±0.05 
+≤10 ±0.01 
+ 
+ Mixing Device (Blender) 
+C.3.3.1 Mixing Device Speed 
+Mixing device display of rotational speed shall be verified and /or calibrated (if not in calibration) no less frequently 
+than annually. The tolerance measured by a calibrated tachomete r shall not deviate more than the limits given in 
+Table C.2: 250 r/min at either 4000 r/min low speed and at 12,000 r/min hi gh speed.  
+However, when mixing a cement slurry, the one liter [1 L (1 qt) ] blender shall operate at a low-speed range of 
+3750 r/min to 4250 r/ min (4000 r/min  250 r/min) and high-speed rang e of 11,500 r/min to 12,500 r/mi n 
+(12,000 r/min  500 r/min). The indicated speed shall not deviate by more than  these limits at either the low speed or 
+the high speed from the true speed observed using a calibrated tachometer. If the mixing device is unable to control 
+within the required range, the bl ender motor or controller shal l be repaired or replaced, as appropriate. 
+NOTE The ability of the control ler to maintain speeds within th e required range during mixing a cement slurry is not a 
+calibration issue. Typical motors available for the 1 L (1 quar t) mixer are 3.6 A/0.04HP and t he 7 A/0.7 HP; typically, the 3. 6 A 
+motor will not maintain the tole rance, especially with viscous slurry.   
+C.3.3.2 Blender Blade 
+Initial blade weight and dimensions may vary due to the manufac turing process. The weight loss of the blender blade 
+(blade only, not the blade assembly) shall be verified to be no  more than 10 % when it is changed. The mixing blade 
+shall be weighed initially and prior to each production run tes ted or every 30 days, whichever is greater. Replace with 
+an unused blade if obser ved blade deformation has occurred or a fter a blade has los t 10 % of its mass. 
+Users will develop pr ocedures to ensure that the blade is not u sed with >10 % weight loss compared to its unused 
+(out of the package) weight, and will develop a system to confi rm weight loss of the blade when it is changed. This 
+system will include a method of  identifying the blender contain er in which the blade is installed. A log of blade 
+weights and dates changed will be  maintained with the calibrati on records. A practical method of judging when a 
+blade is approaching the limit in w eight loss is by comparing t he blade in the blender to a blade with known weight 
+loss (see Figure C.1). The appearance of wear for a hardened bl ade may be different than shown in Figure C.1 for a 
+non-hardened blade. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+56  API  SPECIFICATION 10A 
+ 
+ C.3.3.3 Blender Timing Controller  
+The blender timing controller device shall be verified against a calibrated timer (stopwatch) (see C.3.4), for 
+12,000 r/min high s peed mixing time at 35 s ±1 s.   
+ 
+Figure C.1—Worn Blade (right) Compared to a New One (left) 
+ Timers 
+Timers on all instruments shall be verified/and or calibrated ( if not in calibration) no less frequently than annually. 
+This includes timers on consistometers, handheld timers, and an y other timer, whether as part of an instrument or 
+separate. Timers shall be accurate to within ±5 seconds per hou r and shall be verified over a period of no less than 
+12 minutes. Calibration may use the time signal from the NIST o r similar websites and radi o stations. If not within 
+required accuracy, the units sha ll be adjusted or replaced. 
+NOTE Blender timing devices (see C3.3.3) are not covered by thi s section.  
+ Recorders 
+Charts used for recording thickening times or other data shall be checked at least annually to ensure they vary by no 
+more than 2 min/h. This can be done by running the chart, causi ng a deflection of the temperature or pressure trace 
+at the beginning and end of one hour according to a calibrated timer, and measuring the deviation on the chart. The 
+chart on which this recording is made shall be maintained with the calibration record for the instrument (as 
+applicable: temperature, press ure, and/or con sistency).  
+ Temperature Devices 
+C.3.6.1 Temperature-measuring and -cont rolling devices shall be verifie d and/or calibrated (if not in calibration) no 
+less frequently than quarterly. This includes thermometers, the rmocouples, and temperature controllers on 
+consistometers, curing chambers,  and those that are used separa te from or are not an integr al part of the instrument. 
+Measurements shall be made at no less than three temperatures s panning the manufacturer- or user-defined 
+operating range of the equipment on or with which the device is  used. The lowest temperature calibrated shall be no 
+more than 5 °C (10 °F) above the minimum and the highest temper ature calibrated shall be no more than 5 °C 
+(10 °F) below the maximum of the user-defined operating range o f the instrument. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  57 
+ 
+C.3.6.2 Thermometers or thermocouples shall be verified for accuracy by  use of a known temperature source (such 
+as a heat block) with a thermometer or thermocouple that is cer tified and traceable to a national standardization 
+body. Accuracy shall be within ±1 °C (±2 °F) or for special J t ype thermocouple accuracy shall be ±1.1 °C (±2 °F). If 
+the thermometer or thermocouple error is greater than that, it shall be replaced by one meeting the accuracy 
+requirements. Thermocouples mounted in the cylinder wall of a c onsistometer are exempt from calibration, but during 
+the test, adjustments should be made to the controlling tempera ture when control is from the oil thermocouple, so the 
+final temperature of the slurry i s within the required test tem perature. 
+C.3.6.3 Temperature Control System 
+Temperature-controlling systems consist of: 
+ the sensing device (normally a thermocouple); 
+— display (may be integral to c ontroller or may be separate); 
+— the controller that receives input from the sensing device an d, in turn, provides output to the heating or cooling 
+medium. The output circuit is not calibrated in this procedure;  and 
+— all wiring, connectors, etc. between the sensor and the contr oller. 
+The temperature controller may be verified and/or calibrated wh ile connected to its thermocouple placed in a 
+calibrated heat source or using a cold-junction compensated inp ut device in place of the thermocouple. If the 
+controller is calibrated using a cold-junction compensated inpu t device, the thermocouple shall be calibrated 
+independently. The thermometer or thermocouple that is used for  the verification of calibration tolerance shall be 
+certified and traceable to a national standardization body. The  controller accuracy shall be wi thin ±1 °C (±2 °F). If the 
+system is not within the require d accuracy, the source of the i naccuracy should be determined and the component(s) 
+that is (are) not within the r equired accuracy shall be adjuste d or replaced. 
+The temperature controller shall be verified for accuracy at an  interval no less than quarterly and be checked at no 
+less than three temperatures spanning the operating range of th e equipment on or with which the device is used.  
+The lowest temperature calibrated shall be no more than 5 °C (1 0 °F) above the minimum and the highest 
+temperature calibrated shall be no more than 5 °C (10 °F) below  the maximum of the user-defined operating range of 
+the instrument. 
+Temperature displays that are separate from the controller shal l be calibrated by the same methods used to calibrate 
+the controller. Separate displays  shall have their own calibrat ion record. 
+C.3.6.4 Temperature Data Acquisition 
+See C.3.13 for temperat ure data acquisition. 
+C.3.6.5 Guidance for Tempe rature Device C alibration 
+This subsection provides additional guidance for temperature de vice calibration. 
+C.3.6.5.1 Heating Medium 
+The heating medium shall permit proper immersion of both the te st thermocouple (the one being verified/calibrated) 
+and the reference thermocouple or thermometer. The medium may b e a fluidized solids bath, a heated block, or a 
+furnace. The equipment shall be capable of maintaining a stable  temperature that is uniform throughout the test 
+section. If the heat source (heat er and instrument) is portable , it should be allowed to stabilize at the ambient 
+temperature prior to being used. This is especially true when t he instrument is removed from a car or storage room, 
+etc. 
+C.3.6.5.2 Procedure 
+Items listed here are those needing special attention or relate d to the use of the indicated type of equipment. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+58  API  SPECIFICATION 10A 
+ 
+  The test and reference thermocouple or thermometer shall be pl aced as close together in the heating medium as 
+possible. 
+— After each change of the temper ature setting, the temperature  of the heating medium sha ll be allowed to stabilize 
+before reading the reference temperature (or voltage) and the t est thermocouple temperature (or voltage). If 
+several thermocouples are checked in sequence, each one shall b e allowed to reach a stable reading before 
+making the calibration measurement. 
+— If the test thermocouple does not accurately sense the temper ature, a calibration curve shall be drawn and used 
+to correct the indicated temper atures from the test thermocoupl e. Occasionally, small inaccuracies in 
+thermocouple response can be compensated for during the calibra tion of the temperatur e-measuring system 
+being used in conjunction with t he thermocouple (see C.3.6.3). 
+C.3.6.5.3 Verification and Calib ration of Temperature-measuring  Systems and Controllers 
+C.3.6.5.3.1 Equipment 
+The verification/calibration of temperature-measuring systems a nd controllers requires a millivolt source, the correct 
+connecting thermocouple extension cable for the type of thermoc ouple being used, and possibly a thermometer and 
+a table of reference voltages. Signal sources, or calibrators, are of two types, namely uncompensated and cold-
+junction compensated. Several com mercial calibrators are availa ble that are cold-junction compensated and have a 
+digital display of the temperat ure equivalent of the millivolt signal being supplied. The accuracy of all calibration 
+equipment shall be traceable to national standards certificatio n. Some older galvanometer-type temperature-
+indicating instruments and controllers require a stronger signa l for operation than the newer potentiometric and 
+digital-type temperature-measuri ng systems and controllers, and  thus require a calibrator with sufficient signal 
+strength to give an accurate calibration. 
+An alternate method consists of placing the thermocouple that i s connected to the controlling or indicating instrument 
+into a heat source and comparing it with a calibrated thermocou ple or thermometer. The temperature of the heat 
+source is then changed as specified in C.3.6.5.2 to certify tha t the controlling or indicatin g instrument is accurately 
+calibrated. 
+C.3.6.5.3.2 Procedure 
+— Follow the manufacturer’s procedure for calibrating temperatu re-measuring systems and controllers. For greatest 
+accuracy, allow proper warm-up time for calibrators, temperatur e-measuring systems, and controllers as 
+specified by the manufacturer. T he following items need special  attention: 
+— Fit the thermocouple extension cable with a proper thermocoup le-grade adapter to permit plugging it into 
+the same receptacle used for connecting the test equipment ther mocouple. Take care to ensure the correct 
+polarity of the connections. 
+— Thermocouple calibrators with cold-junction compensation need  only be properly connected with the proper 
+thermocouple extension cable and thermocouple connectors. The t emperature-measuring systems and/or 
+controllers using this signal shall display the same temperatur e within the accuracy of the thermometer or 
+controllers as supplied by the manufacturer. 
+— Uncompensated thermocouple calibrators require a thermometer to determine the cold-junction temperature 
+of the thermocouple extension c able connection of the calibrato r. This cold-junction te mperature shall be set 
+on the calibrator by the operator. 
+— The use of an uncompensated m illivolt potentiometer requires that the temperature at the 
+calibrator/thermocouple extension cable terminals be read with a thermometer of known accuracy. The 
+millivolt equivalent of this temperature is then subtracted fro m the equivalent test millivolt signal to obtain 
+the calibrator millivolt signal u sed. These volt ages may be fou nd in reference millivolt/temperature tables for 
+the type of thermocouple in use. 
+— The temperature of the calibration instrument should be allow ed to stabilize at the ambient temperature at 
+the location where it is being used. This is especially true wh en the instrument is removed from a car or a 
+storage room, etc. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  59 
+ 
+C.3.6.5.4 Specific Procedure fo r Atmospheric Pressure Consistom eter 
+When verifying the temperature calibration of an atmospheric pr essure consistometer, place one slurry container in 
+the unit and leave the second one out. Place the reference ther mocouple (attached to a master temperature 
+calibration instrument) in the open hole as close as possible t o the atmospheric pressure consistometer 
+thermocouple, and heat the consistometer to no less than three temperatures from ambient temperature to 88 °C 
+(190 °F) to verify the accuracy of the temperature indication. Calibrate the controller if it is not in calibration. If it is in 
+calibration, use the verification as the calibration and date i t for reference. 
+C.3.6.5.5 Specific Procedure fo r Atmospheric Pressure Water Bat h 
+When verifying the temperature calibration of an atmospheric pr essure water bath, place a stirring device in the bath 
+(if it does not have one) along wi th a reference thermocouple a ttached to a master temperature calibration instrument 
+in the water bath. Heat the wate r bath to no less than three di fferent temperatures from ambi ent temperature to 88 °C 
+(190 °F) to verify the accuracy of the temperature indication. Calibrate the controller if it is not in calibration. If it is in 
+calibration, use the verification as the calibration and date i t for reference 
+ Instrument Rotation 
+Rotation of consistometer containers (or paddles) at 150 r/min shall be verified and/or calibrated (if not in calibration) 
+no less frequently than quarterly. The tolerance measured by a calibrated tachometer shall not deviate more than 
+±15 r/min.  
+ Pressurized Consistometer Slurry Container Assembly   
+Pressurized slurry container, paddle, and paddle shaft key dime nsions (dimensions tagged as “INSP”; see 
+Figures 10 to 13) shall be verified to judge wear; the maximum acceptable wear is 1 mm (0.04 in.). Dimensions shall 
+be verified no less frequently than annually or whenever a padd le or a paddle shaft is replaced. If dimensions are 
+found outside tolerances, the slurry container part needs to be  discarded. For these pressuri zed consistometer parts, 
+laboratories should devise a  method of identifying them. 
+To verify dimensions, a caliper  accurate to 0.05 mm (0.002 in.)  at minimum is required. 
+ Consistency Measurement Device or Potentiometer 
+C.3.9.1 General 
+The potentiometer or other consistency-measuring device shall b e verified and/or calibrated (if not in calibration) no 
+less frequently than monthly. A new calibration is required whe never repairs or adjustments are made to the device 
+(such as calibration spring, resistor, or contact arm). Accurac y shall be maintained within 5 Bc (if output is in Bc) or 
+0.5 V (if output is in volts) across the calibration range. Whe n the calibration is of a sy stem (potentiometer, wiring, 
+voltmeter, etc.), for the calibration to be valid, the potentio meter shall be kept together with the consistometer with 
+which it has been calibrated. For  these systems, laboratories s hould devise a method of identifying the potentiometer 
+with the consistometer on which it is calibrated and ensure it is only used on that consistometer. 
+Some potentiometer calibration devices allow the potentiometer to be calibrated so that the voltage output is fixed 
+based on applied load (equivalent to Bc). In such a case, provided all potentiometers are adjusted to the same 
+voltage output vs load  [or consistency ( Bc)], the potentiometers may be in terchanged between machines. 
+C.3.9.2 Procedure 
+A calibration chart or table showing indicated consistency vs i nput consistency (mass) shall be maintained. The 
+entire range of consistencies s hall be checked as given in Tabl e C.4. Consistency values shall be reported based on 
+the calibration curve or table. 
+A weight-loaded device (see Figu re C.2 for a typical potentiome ter calibrating device and Figure 14 for a typical 
+potentiometer) is used to produce  a series of torque-equivalent  values for consistency, defined by: 
+( )c 78.2  + 20.02TB  ( C . 1 )  
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+60  API  SPECIFICATION 10A 
+ 
+ where  
+T  is torque, expressed in gram•centimeters (g•cm);  
+Bc  is consistency, expressed in Bearden units. 
+Dedicated potentiometer calibration weights are used to apply t orque to the potentiometer spring, using the radius of 
+the potentiometer frame as a lev er arm. Weights cause a deflect ion, and the resulting DC voltage is recorded and 
+used to determine Bc (alternatively, some instruments display the Bc equivalent directly). Slurry consistencies at 
+±5 Bc versus equivalent torques (mass of dedicated calibration weigh ts at ±0.1 % of the indicated mass; see C.3.2) 
+for a potentiometer with a radius of 52 mm ±1 mm are given in T able C.4. Operating instructions from the 
+manufacturer should be followed for proper calibration. 
+NOTE Dedicated calibrat ion weights include the holding support washer.  
+ 
+Figure C.2—Common Calibrating D evice for Pressurized Consistome ter Potentiometer 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+CEMENTS AND MATERIALS FOR WELL CEMENTING  61 
+Table C.4—Slurry Consistency vs Equivalent Torque (for Potentio meter with Radius of 52 mm ±1 mm) 
+Torque Equivalent 
+(g•cm) Mass of Added Calibration 
+Weightsa 
+±0.1% of the indicated  mass  Slurry Consistency 
+(Bc  5) 
+260 50 9 
+520 100 22 
+780 150 35 
+1040 200 48 
+1300 250 61 
+1560 300 74 
+1820 350 87 
+2080 400 100 
+NOTE 1  For a potentiometer with a radius other than 52 mm 1 mm, an adaptor ring with a radius of 52 mm 1 mm or an 
+appropriate table of equival ent tolerances is required. 
+NOTE 2  A consistency reading of a potentiometer may vary no mo re than  5 Bc from the slurry consistency shown in t his
+table.  
+a Mass of added calibration weight includes mass of the holding s upport washer.   
+ Pressure Gauges and Pressure-measuring Devices 
+C.3.10.1 Pressure gauges shall be verified and/or calibrated (if not in calibration) no less frequently than annually 
+using a deadweight tester or a master gauge. The term “gauge” i ncludes pressure-sensing transducers. 
+C.3.10.2 Gauges designed to measure pressures greater than 17,000 kPa (2 500 lbf/in.²) shall be calibrated at a 
+minimum of 25 %, 50 %, and 75 % of full scale or the maximum user-defined working pressure of the equipment on 
+or with which it is used. Maximum allowable error is 1 % of full range or  one minimum gauge increment, 
+whichever is greater. 
+High-range gauges used for API 10A testing shall be calibrated at 17 MPa, 34 MPa, and 52 MPa (2500 lbf/in.², 
+5000 lbf/in.², and 7500 lbf/in.²), w ith a maximum defined worki ng pressure of the equipment of 69 MPa 
+(10,000 lbf/in.²). 
+C.3.10.3 Gauges designed to measure pressures up to 17,000 kPa (2500 lbf /in.²) shall be calibrated with allowable 
+error of 300 kPa ( 50 lbf/in.²) at a minimum gauge reading of 3500 kPa (500 lbf/in .²) and at a gauge reading of 
+10,500 kPa (1500 lbf/in.²), or at t he maximum allowable working  pressure of the equipment or on the user-defined 
+working pressure, whichever is greater. 
+C.3.10.4 Calibration of gauges showing the pressure of air used to opera te pumps and purge pressure vessels of 
+liquid is not required. 
+ Load Frame 
+The load frame used to measure the break force of cement specim ens shall be verified and/or calibrated (if not in 
+calibration) no less frequently than annually. Indicated force shall deviate by no more than 2 % of the applied load 
+or one minimum instrument scale division, whichever is greater,  at 9.0 kN (2000 lbf) load and at a minimum of 25 %, 
+50 %, and 75 % of the range of the load cell or load indicator.  With units having multiple indicators for different 
+ranges, each indicator shall be calibrated according to these c riteria. 
+ Cube Molds 
+Cube molds used to prepare cem ent specimens shall be verified n o less frequently than two years. 
+Cube dimension tolerances are given in  Table C.5. If molds  are ou t of tolerances, m olds should be discarded. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+62 API SPECIFICATION 10A 
+Table C.5—Density of Distilled Water as a Function of Temperature 
+Temperature        
+°C Density
+g/mL Temperature       
+°F Density       
+g/mL 
+15.0 0.9991  59 0.9991 
+15.5 0.9990  60 0.9990 
+16.0 0.9989  61 0.9989 
+16.5 0.9989  62 0.9988 
+17.0 0.9988  63 0.9987 
+17.5 0.9987  64 0.9986 
+18.0 0.9986  65 0.9985 
+18.5 0.9985  66 0.9984 
+19.0 0.9984  67 0.9983 
+19.5 0.9983  68 0.9982 
+20.0 0.9982  69 0.9981 
+20.5 0.9981  70 0.9980 
+21.0 0.9980  71 0.9978 
+21.5 0.9979  72 0.9977 
+22.0 0.9978  73 0.9976 
+22.5 0.9977  74 0.9975 
+23.0 0.9975  75 0.9973 
+23.5 0.9974  76 0.9972 
+24.0 0.9973  77 0.9970 
+24.5 0.9972  78 0.9969 
+25.0 0.9970  79 0.9968 
+25.5 0.9969  80 0.9966 
+26.0 0.9968  81 0.9965 
+26.5 0.9966  82 0.9963 
+27.0 0.9965  83 0.9961 
+27.5 0.9964  84 0.9960 
+28.0 0.9962  85 0.9958 
+28.5 0.9961  86 0.9956 
+29.0 0.9959  87 0.9955 
+29.5 0.9958  88 0.9953 
+30.0 0.9956  
+30.5 0.9955  
+31 0.9953 
+ Data Acquisition 
+C.3.13.1  Data acquisition can be by chart recorder or by electronic reco rding, such as computer data acquisition, 
+or both. Data recorded are not limited to temperature, pressure , consistency, or load.   
+C.3.13.2  For consistency measurement devic es with chart recorders, the i ndication of temperature and pressure 
+should be recorded during the calibration. If the chart can be adjusted to correct indication, the record on the chart 
+should show the indication of a verification check before calib ration and after adjustment of the chart. For those 
+without an adjustment, a calibration table should be maintained with the instrument, and appropriate corrections 
+made to charts of all tests conducted with the instrument. The chart should be attached to the calibration record. The use of chart recorders is discour aged due to their inaccuracy. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  63 
+ 
+C.3.13.3  Electronic data recording should be verified by acquiring data during the calibration of the system and 
+checking the accuracy of the data recorded. If the acquisition deviates by more than the limits for temperature 
+(see C.3.6) and pressure (see C.3.10), correct ions should be ma de. For dedicated data ac quisition systems, the data 
+acquisition system should confor m to the limits prescribed abov e for the data they are  designed to record. 
+ Volumetric Glassware 
+C.3.14.1 General 
+Calibration of pipettes, graduated cylinders, conical flasks, a nd similar equipment is generally performed by the 
+glassware supplier and may be part of the purchase specificatio n. Glassware users should obtain documented 
+evidence, where deemed important, of glassware calibration from  the supplier. Calibration may be checked 
+gravimetrically before the firs t use. Periodic recalibration is  not required.  
+C.3.14.2 Procedure—Verification/ Calibration of Graduated Cylind ers 
+The following procedure shall be followed to verified calibrati on of graduated cylinders. This procedure may be 
+adapted to any volumetric glassware.  
+a) Allow the receiver and deioniz ed (or distilled) water to rea ch ambient temperature. Record the temperature to 
+the nearest 0.5 °C (1 °F). 
+b) Place the clean, empty recei ver, with its bas e, on the balan ce and tare to zero. 
+c) Fill the receiver with deioni zed (or distilled) water, while  it is on the balance, to the various graduation marks in 
+increments of 2 mL for the 10-mL receiver, in increments of 4 m L for the 20-mL receiver,  and in increments of 
+10 mL for the 50-mL receiver. Use a pipette or syringe to caref ully fill the receiver to t he desired graduation mark 
+without leaving water droplet s on the walls of the receiver. 
+d) Record the masses for each incremental volume of water at th e specific graduation mark, mW, to the nearest 
+0.01 g. 
+e) Calculate the volume of t he receiver at each mark, VM: 
+W
+M
+WmV  (C.2) 
+where 
+VM is the receiver volume at a s pecific mark, expressed in millil iters; 
+mw is the mass of water, expressed in grams; 
+w is the water density, expre ssed in grams per milliliter, at th e test temperature (see Table C.6). 
+ 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+ 
+ Annex D 
+(informative)  
+ 
+Calibration Procedures for Thermocouples,  
+Temperature-measuring Systems, and Controllers 
+D.1 Calibration Methods 
+There are several satisfactory methods for calibrating thermoco uples, including methods supplied by equipment 
+manufacturers. See ASTM E220 for a more complete discussion of these procedures. No ASTM procedures for 
+calibration of temperature-measuring systems are available. 
+D.2 Thermocouple Calibration 
+ Apparatus 
+D.2.1.1 General 
+The individual pieces of the apparatus required to carry out th e calibration depend on the particular technique 
+selected. Those features that need special attention, regardles s of the technique, have the requirements given in 
+D.2.1.2 through D.2.1.4. 
+D.2.1.2 Heating Environment 
+The heating medium should permit proper immersion of both the t est thermocouple (the one being calibrated) and 
+the reference thermocouple or reference thermometer. The appara tus should be capable of maintaining a stable 
+temperature that is uniform  throughout the te st section. 
+D.2.1.3 Temperature Measurement 
+The reference temperature of the heating medium may be measured  by using either a thermometer or a 
+thermocouple. The accuracy of the reference measuring device sh ould be traceable to the reference of a 
+national/international standardization body. 
+D.2.1.4 Thermocouple Voltage Output 
+If a thermocouple is used to sense the reference temperature, t he voltage output from the reference thermocouple 
+and test thermocouple should be determined as described in appl icable national standards; see ASTM E220. In this 
+case, tables of temperature vs voltage for the type of thermoco uple being used should be consulted to determine the 
+temperature. Alternatively, a direct-reading, temperature-compe nsated readout instrument may be used. The 
+accuracy of the instrument should be traceable to national stan dards certification. 
+ Procedure 
+With the exception of the indica ting instruments, the specific procedures are detailed in applicable national 
+standards; see ASTM E220. The following items require special a ttention or are related to  the use of the indicating 
+type of equipment. 
+a) The test and reference thermocouples or thermometers should be placed as close together as possible in the 
+heating medium. 
+b) After each change in heating level, the temperature should b e allowed to remain at a stable value for 15 min 
+before reading the reference te mperature (or voltage) and the t est thermocouple temperature (or voltage). 
+c) Several (minimum three) test temperatures that span the oper ating range of the equipment should be used in 
+the calibration procedure. 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+  C EMENTS AND MATERIALS FOR WELL CEMENTING  65 
+ 
+d) If the test thermocouple error is greater than that specifie d by the manufacturer, the thermocouple should be 
+replaced by one that meets the thermocouple accuracy limits. Th e requirements given in ASTM E230 for 
+classification of “special” Type J thermocouple has error limit s equal to or better than ±1.1 °C (±2 °F) up to 
+275 °C (530 °F) and 0.4 % of the reading above 400 °F. 
+D.3 Calibration of Temperature- measuring Systems and Controller s 
+ Apparatus 
+The calibration of temperature-measuring systems and controller s requires a millivolt source, the correct connecting 
+thermocouple extension cable fo r the type of thermocouple being  used, and, possibly, a ther mometer with a table of 
+reference voltages. Signal sources, or calibrators, are of two types: uncompensated and co ld-junction compensated. 
+Several commercial calibrators are available that are cold-junc tion compensated and have a digital display of the 
+temperature equivalent to the m illivolt signal being supplied. The accuracy of all calibration apparatuses should be 
+traceable to a national standard certification. Some older galv anometer-type temperature-indicating instruments and 
+controllers require a stronger signal for operation than the ne wer potentiometric and digital-type temperature 
+measuring systems and controlle rs and, therefore, require a cal ibrator with sufficient signal strength to give an 
+accurate calibration. 
+ Procedure 
+The manufacturer's procedure for calibrating temperature-measur ing systems and controllers should be followed. 
+The following items require special attention. 
+a) The thermocouple extension cable should be fitted with a pro per thermocouple grade adapter to permit plugging 
+it into the same receptacle us ed for connecting the test equipm ent thermocouple. Care should be taken to 
+ensure the correct polarity of the connections. Calibrators, te mperature-measuring systems, and controllers 
+should be allowed proper warm- up time, as specified by the manu facturer, for greatest accuracy. 
+b) It is only necessary that thermocouple calibrators with cold -junction compensation be properly connected with 
+the proper thermocouple extension cable and thermocouple connec tors. The temperature-measuring systems 
+and/or controllers using this signal should have the same tempe rature readout, within the accuracy of the 
+temperature or controllers as supplied by the manufacturer. 
+c) Uncompensated thermocouple calibrators require a thermometer  to determine the cold-junction temperature of 
+the thermocouple extension cable connection of the calibrator. This cold-junction temperature is set on the 
+calibrator by the operator. 
+The use of an uncompensated m illivolt potentiometer requires th at the temperature at the calibrator/thermocouple 
+extension cable terminals be read with a thermometer of known a ccuracy. The millivolt equivalent of this temperature 
+is then subtracted from  the equivalent test millivolt signal to  obtain the calibrator millivolt signal used. These voltages 
+may be found in refer ence mV/temperature tables for the type of  thermocouple in use. 
+ 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+ 
+ Bibliography 
+ 
+[1] API Specification Q1, Specification for Quality Management Sy stem Requirements for Manufacturing 
+Organization for the Petroleum and Natural Gas Industry 
+[2] ASTM C150, Standard Specification for Portland Cement  
+[3] ASTM E220, Standard Test Method for Calibration of Thermocouples by Comparison Techniques 
+[4] ASTM E230/E230M, Standard Specification for Temperature-El ectromotive Force (emf) Tables for 
+Standardized Thermocouples  
+[5] ASTM C618, Standard Specification for Coal Fly Ash and Ra w or Calcined Natural Pozzolan for Use 
+in Concrete 
+[6] EN196-10, Methods of testing cements. Determination of the water-soluble chromium (VI) content of 
+cement 
+[7] EN 197-1, Cement. Composition, specifications and conformity criteria for common cements 
+[8] ISO 3310-1, Test sieves — Technical requirements and testi ng — Part 1: Test sieves of metal wire 
+cloth  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---
+200 Massachusetts Avenue, NW
+Suite 1100Washington, DC 20001-5571
+USA
+202-682-8000
+Additional copies are available online at www.api.org/pubsPhone Orders: 1-800-854-7179  (Toll-free in the U.S. and Canada)
+303-397-7956 (Local and International)
+Fax Orders: 303-397-2740
+Information about API publications, programs and services is available 
+on the web at www.api.org.
+ Product No. GX10A25
+ 
+Accessed by account: Northern Region Cement Co (NRC) | User: Yahia Zakaria | Date: Thu Mar  5 02:07:31 2020 | IP address: 213.236.37.221
+--- Page Break ---

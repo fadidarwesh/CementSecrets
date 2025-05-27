@@ -1,0 +1,230 @@
+Designation: C 91 – 05
+Standard Speciﬁcation for
+Masonry Cement1
+This standard is issued under the ﬁxed designation C 91; the number immediately following the designation indicates the year of original
+adoption or, in the case of revision, the year of last revision. A number in parentheses indicates the year of last reapproval. A superscriptepsilon ( e) indicates an editorial change since the last revision or reapproval.
+This standard has been approved for use by agencies of the Department of Defense.
+1. Scope
+1.1 This speciﬁcation covers three types of masonry cement
+for use where mortar for masonry is required.
+1.2 The values stated in SI units are to be regarded as the
+standard. Values in SI units shall be obtained by measurementin SI units or by appropriate conversion of measurements madein other units, using the Rules for Conversion and Roundinggiven in
+IEEE/ASTM SI 10 .
+1.3 The text of this standard refers to notes and footnotes
+which provide explanatory material. These notes and footnotes(excluding those in tables and ﬁgures) shall not be consideredas requirements of the standard.
+1.4 The following safety hazards caveat pertains only to
+Sections
+16and17of this speciﬁcation. This standard does not
+purport to address all of the safety concerns, if any, associatedwith its use. It is the responsibility of the user of this standardto establish appropriate safety and health practices anddetermine the applicability of regulatory limitations prior touse. (Warning— Fresh hydraulic cementitious mixtures are
+caustic and may cause chemical burns to skin and tissue uponprolonged exposure.)
+2
+2. Referenced Documents
+2.1 ASTM Standards:3
+C 109/C 109M Test Method for Compressive Strength of
+Hydraulic Cement Mortars (Using 2-in. or [50-mm] CubeSpecimens)
+C 151 Test Method for Autoclave Expansion of Hydraulic
+CementC 183 Practice for Sampling and the Amount of Testing of
+Hydraulic Cement
+C 185 Test Method for Air Content of Hydraulic Cement
+Mortar
+C 187 Test Method for Normal Consistency of Hydraulic
+Cement
+C 188 Test Method for Density of Hydraulic Cement
+C 219 Terminology Relating to Hydraulic Cement
+C 266 Test Method for Time of Setting of Hydraulic Ce-
+ment Paste by Gillmore Needles
+C 270 Speciﬁcation for Mortar for Unit Masonry
+C 305 Practice for Mechanical Mixing of Hydraulic Cement
+Pastes and Mortars of Plastic Consistency
+C 430 Test Method for Fineness of Hydraulic Cement by
+the 45-µm (No. 325) Sieve
+C5 1 1 Speciﬁcation for Mixing Rooms, Moist Cabinets,
+Moist Rooms, and Water Storage Tanks Used in theTesting of Hydraulic Cements and Concretes
+C 778 Speciﬁcation for Standard Sand
+C 1506 Test Method for Water Retention of Hydraulic
+Cement-Based Mortars and Plasters
+IEEE/ASTM SI 10 Standard for Use of the International
+System of Units (SI): The Modern Metric System
+3. Terminology
+3.1 Deﬁnitions:
+3.1.1 masonry cement —a hydraulic cement, primarily used
+in masonry and plastering construction, consisting of a mixtureof portland or blended hydraulic cement and plasticizingmaterials (such as limestone, hydrated or hydraulic lime)together with other materials introduced to enhance one ormore properties such as setting time, workability, water reten-tion, and durability.
+3.1.2 Other terms used in this speciﬁcation are deﬁned in
+Terminology
+C 219 .
+4. Classiﬁcation
+4.1 Type N —For use in preparation of Speciﬁcation C 270
+Type N mortar without further addition of cements or hydrated
+lime, and for use in preparation of Speciﬁcation C 270 Type S1This speciﬁcation is under the jurisdiction of ASTM Committee C01 on
+Cement and is the direct responsibility of Subcommittee C01.11 on MasonryCement.
+Current edition approved September 15, 2005. Published October 2005. Origi-
+nally approved in 1932. Last previous edition approved in 2003 as C 91 – 03a.
+2Annual Book of ASTM Standards , V ol 04.01. See the section on Safety
+Precautions in the Manual of Cement Testing.
+3For referenced ASTM standards, visit the ASTM website, www.astm.org, or
+contact ASTM Customer Service at service@astm.org. For Annual Book of ASTM
+Standards volume information, refer to the standard’s Document Summary page on
+the ASTM website.
+1Copyright © ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959, United States.
+--- Page Break ---
+or Type M mortar when cement is added in accordance with the
+requirements of C 270 .
+4.2 Type S —For use in preparation of Speciﬁcation C 270
+Type S mortar without further addition of cements or hydrated
+lime.
+4.3 Type M —For use in preparation of Speciﬁcation C 270
+Type M mortar without further addition of cements or hydrated
+lime.
+5. Physical Properties
+5.1 Masonry cement shall conform to the applicable re-
+quirements prescribed in Table 1 for its classiﬁcation.
+6. Sampling
+6.1 The masonry cement shall be sampled in accordance
+with Practice C 183 .
+7. Temperature and Humidity
+7.1 The temperature and relative humidity of the air in the
+vicinity of the mixing slab and dry materials, molds, baseplates, and mixing bowl shall conform to the requirements ofTest Method
+C 109/C 109M .
+7.2 The moist cabinet or moist room shall conform to the
+requirements of Speciﬁcation C5 1 1 .
+8. Fineness
+8.1 Determine the residue on the 45-µm (No. 325) sieve in
+accordance with Test Method C 430 .
+9. Normal Consistency
+9.1 Determine normal consistency by the Vicat apparatus in
+accordance with Test Method C 187 .
+10. Autoclave Expansion
+10.1 Determine autoclave expansion in accordance with
+Test Method C 151 . After molding, store the bars in the moist
+cabinet or room for 48 h 630 min before removal from the
+molds for measurement and testing in the autoclave. Calculatethe difference in length of the test specimen before and afterautoclaving to the nearest 0.01 % of the effective gauge lengthand report as the autoclave expansion of the masonry cement.11. Time of Setting
+11.1 Determine the time of setting by the Gillmore needle
+method in accordance with Test Method
+C 266 .
+12. Density
+12.1 Determine the density of the masonry cement in
+accordance with Test Method C 188 , using kerosine as the
+liquid. Use the density so determined in the calculation of theair content of the mortars.
+13. Blended Sand
+13.1 The sand shall be a blend of equal parts by weight of
+graded standard sand and standard 20–30 sand conforming toSpeciﬁcation
+C 778 .
+14. Preparation of Mortar
+14.1 Proportions for Mortar —Mortar for air entrainment,
+compressive strength, and water retention tests shall be pro-portioned to contain 1620 g of sand and a mass of cement, ingrams, in accordance with
+Table 2 . The sand shall consist of
+810 g of graded standard sand and 810 g of 20–30 standardsand (
+Note 1 ). The quantity of water, measured in millilitres
+shall be such as to produce a ﬂow of 110 65 as determined by
+Test Method C 109/C 109M .
+NOTE 1—Historically, ﬁeld-mixed mortar has been proportioned by
+volume measured in increments or fractions of ft3. The comparable whole
+SI-unit volume to 1 ft3is 28 L. The speciﬁed mortar proportions
+approximate the 1:3 nominal proportions by volume, commonly speciﬁedfor construction, on the basis of the following assumed mass and volumerelationships:
+The mass of dry sand in 28 L of loose damp sand is 36 kg.28 L Type N masonry cement has a mass of 32 kg.28 L Type S masonry cement has a mass of 34 kg.28 L Type M masonry cement has a mass of 36 kg.
+For example, the amount of cement needed to provide a 1:3
+volume proportion of cement to sand using a Type N masonrycement is as follows:
+A51620 3~C/B!51620 3~32/108 !5480 (1)
+TABLE 1 Physical Requirements
+Masonry Cement Type N S M
+Fineness, residue on a 45-µm (No. 325) sieve, max, % 24 24 24
+Autoclave expansion, max, % 1.0 1.0 1.0Time of setting, Gillmore method:
+Initial set, minutes, not less than 120 90 90Initial set, minutes, not more than 1000 1000 1000
+Compressive strength (average of 3 cubes):
+The compressive strength of mortar cubes, composed of 1
+part cement and 3 parts blended sand (half graded standardsand, and half standard 20–30 sand) by volume, prepared andtested in accordance with this speciﬁcation shall be equal to orhigher than the values speciﬁed for the ages indicated below:
+7 days, MPa (psi) 3.4 (500) 9.0 (1300) 12.4 (1800)28 days, MPa (psi) 6.2 (900) 14.5 (2100) 20.0 (2900)
+Air content of mortar, prepared and tested in accordance with
+requirements of this speciﬁcation:
+Min, volume % 88 8
+Max, volume % 21 19 19
+Water retention value, min, % of original ﬂow 70 70 70
+C9 1–0 5
+2
+--- Page Break ---
+where:
+A= number of grams of cement to be used in the mortar
+with 1620 g of sand,
+B=3 336 = 108 kg, the mass of dry sand in 84 (or 3 3
+28) L of loose damp sand, and
+C= mass of Type N masonry cement per 28 L.
+14.2 Mixing of Mortars —Mix the mortar in accordance
+with Practice C 305 .
+15. Air Entrainment
+15.1 Procedure —If the mortar has the correct ﬂow, use a
+separate portion of the mortar for the determination of en-trained air. Determine the mass of 400 mL of mortar inaccordance with Test Method
+C 185 .
+15.2 Calculation —Calculate the air content of the mortar
+and report it to the nearest 1 % as follows:
+D5~W11W21Vw!/[~W1/S1!1~W2/S2!1Vw# (2)
+A5100 2~Wm/4D!
+where:
+D = density of air-free mortar, g/cm3,
+W1 = mass of cement, g,
+W2 = mass of sand, g,
+Vw = millilitres-grams of water used,
+S1 = density of cement, g/cm3
+S2 = density of standard sand, 2.65 g/cm3,
+A = volume percent of entrained air, and
+Wm = mass of 400 mL of mortar, g.
+16. Compressive Strength
+16.1 Test Specimens :
+16.1.1 Molding —Immediately after determining the ﬂow
+and mass of 400 mL of mortar, return all of the mortar to themixing bowl and remix for 15 s at the medium speed. Thenmold the test specimens in accordance with Test Method
+C 109/C 109M , except that the elapsed time for mixing mortar,
+determining ﬂow, determining air entrainment, and starting themolding of cubes shall be within 8 min.
+16.1.2 Storage —Immediately after molding, store all test
+specimens in the molds on plane plates in a moist cabinet ormoist room for 48 to 52 h in such a manner that the uppersurfaces shall be exposed to the moist air. Then remove thecubes from the molds, and place them in the moist cabinet ormoist room for 5 days in such a manner as to allow freecirculation of air around at least ﬁve faces of the specimens. Atthe age of 7 days, immerse the cubes for the 28-day tests insaturated lime water in storage tanks of noncorrodible materi-als.
+16.2 Procedure :
+16.2.1 Test the cube specimens immediately after their
+removal from the moist cabinet or moist room for 7-dayspecimens, and immediately after their removal from storagewater for all other specimens. If more than one specimen at a
+time is removed from the moist cabinet or moist room for7-day tests, cover these cubes with a damp cloth until the timeof testing.
+16.2.2 The remainder of the testing procedure shall conform
+to Test Method
+C 109/C 109M .
+17. Water Retention
+17.1 Water retention shall be determined in accordance with
+the procedures in Test Method C 1506 .
+18. Storage
+18.1 The cement shall be stored in such a manner as to
+permit easy access for the proper inspection and identiﬁcationof each shipment, and in a suitable weathertight building thatwill protect the cement from dampness and minimize ware-house set.
+19. Inspection
+19.1 Every facility shall be provided to the purchaser for the
+necessary inspection and sampling.
+19.2 All packages shall be in good condition at the time of
+inspection.
+20. Rejection
+20.1 At the option of the purchaser, the cement shall be
+rejected if it fails to meet any of the requirements of thisspeciﬁcation.
+20.2 At the option of the purchaser, packages more than 2 %
+below the mass marked thereon shall be rejected. At the optionof the purchaser, the entire shipment represented shall berejected if the average mass of packages in any shipment asshown by weighing ﬁfty packages taken at random is less thanthat marked on the packages.
+20.3 At the option of the purchaser, cement remaining in
+storage prior to shipment for a period greater than six monthsafter testing shall be retested and, at the option of the purchasershall be rejected if it fails to meet any of the requirements ofthis speciﬁcation.
+21. Manufacturer’s Certiﬁcation
+21.1 Upon request of the purchaser in the contract or order,
+a manufacturer’s report shall be furnished at the time ofshipment stating the results of the tests made on samples of thematerial taken during production or transfer and certifying thatthe applicable requirements of this speciﬁcation have been met.
+22. Packaging and Package Marking
+22.1 When masonry cement is delivered in packages, the
+brand, name of the manufacturer, type of masonry cement, andnet mass of the package in kilograms (see
+Note 2 ) shall be
+indicated plainly thereon. Similar information shall be pro-vided in the shipping documents accompanying the shipmentof masonry cement in bulk.
+NOTE 2—To facilitate the change to SI units, a standard SI package size
+of 32 kg for Type N, 34 kg for Type S, and 36 kg for Type M will provideconvenient mass increments reasonably similar to the traditional 70-, 75-,and 80-lb packages.TABLE 2 Cement in Laboratory Batch of Mortar
+Masonry Cement Type Mass of Cement, g
+N 480
+S 510
+M 540
+C9 1–0 5
+3
+--- Page Break ---
+23. Keywords
+23.1 masonry; masonry cement; mortar
+ASTM International takes no position respecting the validity of any patent rights asserted in connection with any item mentioned
+in this standard. Users of this standard are expressly advised that determination of the validity of any such patent rights, and the riskof infringement of such rights, are entirely their own responsibility.
+This standard is subject to revision at any time by the responsible technical committee and must be reviewed every ﬁve years and
+if not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standardsand should be addressed to ASTM International Headquarters. Your comments will receive careful consideration at a meeting of theresponsible technical committee, which you may attend. If you feel that your comments have not received a fair hearing you shouldmake your views known to the ASTM Committee on Standards, at the address shown below.
+This standard is copyrighted by ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959,
+United States. Individual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the aboveaddress or at 610-832-9585 (phone), 610-832-9555 (fax), or service@astm.org (e-mail); or through the ASTM website(www.astm.org).
+C9 1–0 5
+4
+--- Page Break ---
