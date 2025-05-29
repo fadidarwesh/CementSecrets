@@ -5,34 +5,38 @@ on:
     branches:
       - main
 
+permissions:
+  actions: write
+  contents: read
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout the code
+      # 1. Check out the repo
       - name: Checkout code
         uses: actions/checkout@v3
 
-      # 2. Setup Java
+      # 2. Set up Java 11
       - name: Set up JDK 11
         uses: actions/setup-java@v3
         with:
           distribution: temurin
           java-version: '11'
 
-      # 3. Install Android SDK command-line tools
+      # 3. Install Android SDK tools
       - name: Install Android SDK command-line tools
         run: |
           mkdir -p "$ANDROID_SDK_ROOT/cmdline-tools/latest"
           cd "$ANDROID_SDK_ROOT/cmdline-tools/latest"
-          wget -q https://dl.google.com/android/repository/commandlinetools-linux-8512546_latest.zip -O sdk-tools.zip
-          unzip -q sdk-tools.zip
+          wget -q https://dl.google.com/android/repository/commandlinetools-linux-8512546_latest.zip -O tools.zip
+          unzip -q tools.zip
         env:
           ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
 
-      # 4. Accept licenses & install platform-tools and build-tools
-      - name: Accept SDK licenses and install packages
+      # 4. Accept licenses & install platform-tools & build-tools
+      - name: Accept SDK licenses & install packages
         run: |
           yes | "$ANDROID_SDK_ROOT/cmdline-tools/latest/bin/sdkmanager" --sdk_root="${{ env.ANDROID_SDK_ROOT }}" \
             "platform-tools" \
@@ -43,15 +47,17 @@ jobs:
 
       # 5. Install system Gradle
       - name: Install Gradle
-        run: sudo apt-get update && sudo apt-get install -y gradle
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y gradle
 
-      # 6. Build the Debug APK
+      # 6. Build the APK
       - name: Build Debug APK
         run: gradle -p app assembleDebug --no-daemon --stacktrace
 
-      # 7. Upload the APK artifact
-      - name: Upload APK
-        uses: actions/upload-artifact@v2
+      # 7. Upload the APK as artifact using v1
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v1
         with:
           name: app-debug.apk
           path: app/build/outputs/apk/debug/app-debug.apk
