@@ -10,41 +10,44 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-    - name: Set up JDK 11
-      uses: actions/setup-java@v3
-      with:
-        distribution: 'temurin'
-        java-version: '11'
+      - name: Set up JDK 11
+        uses: actions/setup-java@v3
+        with:
+          distribution: temurin
+          java-version: '11'
 
-    - name: Install Android SDK command-line tools
-      run: |
-        mkdir -p "$ANDROID_SDK_ROOT/cmdline-tools/latest"
-        cd "$ANDROID_SDK_ROOT/cmdline-tools/latest"
-        wget -q https://dl.google.com/android/repository/commandlinetools-linux-8512546_latest.zip -O sdk-tools.zip
-        unzip -q sdk-tools.zip
-      env:
-        ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
+      - name: Install SDK command-line tools
+        run: |
+          mkdir -p "$ANDROID_SDK_ROOT/cmdline-tools/latest"
+          cd "$ANDROID_SDK_ROOT/cmdline-tools/latest"
+          wget -q https://dl.google.com/android/repository/commandlinetools-linux-8512546_latest.zip -O sdk-tools.zip
+          unzip -q sdk-tools.zip
+        env:
+          ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
 
-    - name: Accept licenses & install platform-tools and build-tools
-      run: |
-        yes | "$ANDROID_SDK_ROOT/cmdline-tools/latest/bin/sdkmanager" --sdk_root="${{ env.ANDROID_SDK_ROOT }}" \
-          "platform-tools" \
-          "platforms;android-31" \
-          "build-tools;31.0.0"
-      env:
-        ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
+      - name: Accept licenses & install platform-tools & build-tools
+        run: |
+          yes | "$ANDROID_SDK_ROOT/cmdline-tools/latest/bin/sdkmanager" \
+            --sdk_root="${{ env.ANDROID_SDK_ROOT }}" \
+            "platform-tools" \
+            "platforms;android-31" \
+            "build-tools;31.0.0"
+        env:
+          ANDROID_SDK_ROOT: ${{ runner.tool_cache }}/android-sdk
 
-    - name: Install system Gradle
-      run: sudo apt-get update && sudo apt-get install -y gradle
+      - name: Install system Gradle
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y gradle
 
-    - name: Build Debug APK
-      run: gradle -p app assembleDebug --no-daemon --stacktrace
+      - name: Build Debug APK
+        run: gradle -p app assembleDebug --no-daemon --stacktrace
 
-    - name: Upload APK artifact
-      uses: actions/upload-artifact@v2
-      with:
-        name: app-debug.apk
-        path: app/build/outputs/apk/debug/app-debug.apk
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: app-debug.apk
+          path: app/build/outputs/apk/debug/app-debug.apk
